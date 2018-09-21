@@ -1,18 +1,19 @@
-# Guidelines For Repository Inclusion
+# Guidelines for Repository Inclusion
 
 This document outlines the requirements and guidelines for a Helm repository to
 be listed in the distributed search hosted by the Helm Project. This document
 may be updated at any time.
 
-## Process To Add A Repository
+## Process to Add A Repository
 
 There is a two step process for a repository to be added to the distributed
 search.
 
-1. Provide the repositories contact information to the Helm maintainers by filling
-out the form at ABC (link to be inserted). This contact information is when there is a need for the Helm
-project to contact those who managed a repository (e.g., it goes offline). If the
-repository is owned by a team or company we suggest using a mailing list.
+1. Provide the repository's contact information to the Helm maintainers by filling
+out the form at ABC (link to be inserted). This contact information is necessary
+when there is a need for the Helm project to contact those who manage a repository
+(e.g., it goes offline). If the repository is owned by a team or company we suggest
+using a mailing list.
 2. Create a pull request against this repository adding the repository location
 in the file at ABC (link to be inserted).
 
@@ -21,8 +22,8 @@ in the distributed search.
 
 ## Repository Best Practices
 
-Repositories listed in the distributed search should be of a high quality and
-follow [Helm chart best practices](https://docs.helm.sh/chart_best_practices/).
+Repositories listed in the distributed search should follow
+[Helm chart best practices](https://docs.helm.sh/chart_best_practices/).
 In addition to these practices we expect:
 
 * Every chart to have a maintainer listed along with valid contact information
