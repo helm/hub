@@ -6,19 +6,18 @@ may be updated at any time.
 
 ## Process to Add A Repository
 
-There is a two step process for a repository to be added to the distributed
-search.
+To add a repository create a new pull request with the following two pieces
+of information:
 
-1. Provide the repository's contact information to the Helm maintainers by filling
-out the form at ABC (link to be inserted). This contact information is necessary
-when there is a need for the Helm project to contact those who manage a repository
-(e.g., it goes offline). If the repository is owned by a team or company we suggest
-using a mailing list.
-2. Create a pull request against this repository adding the repository location
-in the file at ABC (link to be inserted).
+1. In the file at `config/repo-values.yaml` add your repository with a short name
+   and the base URL to the repository.
+2. In the file `repos.yaml`, alongside this file, add contact information for
+   the repository. This contact information is necessary when there is a need for the
+   Helm project to contact those who manage a repository (e.g., it goes offline).
+   If the repository is owned by a team or company we suggest using a mailing list.
 
-Once both of these are complete the repository and its contents will be listed
-in the distributed search.
+The pull request will be reviewed. If merged, the content will be available on
+the Hub site a short while there after.
 
 ## Repository Best Practices
 
@@ -27,14 +26,14 @@ Repositories listed in the distributed search should follow
 In addition to these practices we expect:
 
 * Every chart to have a maintainer listed along with valid contact information
-for each maintainer. The contact information could be in the form of an email
-address or link to a contact form
+  for each maintainer. The contact information could be in the form of an email
+  address or link to a contact form
 * Charts to pass Helm lint, be installable and upgradable in all community
-supported versions of Kubernetes, and to use semantic versioning to share
-intent in released changes. To help with this we suggest leveraging the
-[Chart Testing](https://github.com/helm/chart-testing) project.
+  supported versions of Kubernetes, and to use semantic versioning to share
+  intent in released changes. To help with this we suggest leveraging the
+  [Chart Testing](https://github.com/helm/chart-testing) project.
 * Have a NOTES.txt template with useful information which Helm will display
-after installation
+  after installation
 * Chart versions to be immutable
 
 ## Legal Guidelines

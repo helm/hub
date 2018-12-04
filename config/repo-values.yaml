@@ -1,0 +1,12 @@
+# This file contains the list of repositories including their unique short name
+# (like a namespace) and the base URL to their location.
+#
+# Every repo listed here MUST have a corresponding entry in the repos.yaml at
+# the root of this source repository with the exception of the Helm hosted ones.
+sync:
+  repos:
+    # Helm hosted repositories
+    - name: stable
+      url: https://kubernetes-charts.storage.googleapis.com
+    - name: incubator
+      url: https://kubernetes-charts-incubator.storage.googleapis.com
