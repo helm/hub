@@ -33,3 +33,13 @@ repositories:
   maintainers:
     - email: rmocius@gmail.com
       name: rimusz
+- name: buildkite
+  url: https://buildkite.github.io/charts
+  maintainers:
+    - email: rmocius@gmail.com
+      name: rimusz
+- name: keel
+  url: https://charts.keel.sh 
+  maintainers:
+    - email: karolis.rusenas@gmail.com
+      name: rusenask
