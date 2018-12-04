@@ -10,3 +10,7 @@ sync:
       url: https://kubernetes-charts.storage.googleapis.com
     - name: incubator
       url: https://kubernetes-charts-incubator.storage.googleapis.com
+    - name: jfrog
+      url: https://charts.jfrog.io
+    - name: rimusz
+      url: https://charts.rimusz.net

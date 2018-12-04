@@ -12,3 +12,11 @@
 # Note, for the email address it is acceptable to have a mailing list for a team
 # because projects often have multiple people who may rotate.
 repositories:
+- url: https://charts.jfrog.io
+  maintainers:
+    - email: devops@jfrog.com
+      name: jfrog
+- url: https://charts.rimusz.net
+  maintainers:
+    - email: rmocius@gmail.com
+      name: rimusz
