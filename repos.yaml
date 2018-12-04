@@ -4,7 +4,8 @@
 #
 # The structure of the repositories object is:
 # repositories:
-#  - url: https://example.com
+#  - name: example
+#    url: https://example.com
 #    maintainers:
 #      - name: foo
 #        email: foo@example.com
@@ -12,11 +13,13 @@
 # Note, for the email address it is acceptable to have a mailing list for a team
 # because projects often have multiple people who may rotate.
 repositories:
-- url: https://kubernetes-charts.storage.googleapis.com
+- name: stable
+  url: https://kubernetes-charts.storage.googleapis.com
   maintainers:
     - name: Helm Project
       email: cncf-helm-security@lists.cncf.io
-- url: https://kubernetes-charts-incubator.storage.googleapis.com
+- name: incubator
+  url: https://kubernetes-charts-incubator.storage.googleapis.com
   maintainers:
     - name: Helm Project
       email: cncf-helm-security@lists.cncf.io
