@@ -12,6 +12,16 @@
 # Note, for the email address it is acceptable to have a mailing list for a team
 # because projects often have multiple people who may rotate.
 repositories:
+- name: stable
+  url: https://kubernetes-charts.storage.googleapis.com
+  maintainers:
+    - name: Helm Project
+      email: cncf-helm-security@lists.cncf.io
+- name: incubator
+  url: https://kubernetes-charts-incubator.storage.googleapis.com
+  maintainers:
+    - name: Helm Project
+      email: cncf-helm-security@lists.cncf.io
 - url: https://charts.jfrog.io
   maintainers:
     - email: devops@jfrog.com
