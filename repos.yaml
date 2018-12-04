@@ -4,7 +4,8 @@
 #
 # The structure of the repositories object is:
 # repositories:
-#  - url: https://example.com
+#  - name: example
+#    url: https://example.com
 #    maintainers:
 #      - name: foo
 #        email: foo@example.com
