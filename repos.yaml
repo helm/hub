@@ -4,7 +4,8 @@
 #
 # The structure of the repositories object is:
 # repositories:
-#  - url: https://example.com
+#  - name: example
+#    url: https://example.com
 #    maintainers:
 #      - name: foo
 #        email: foo@example.com
@@ -22,11 +23,13 @@ repositories:
   maintainers:
     - name: Helm Project
       email: cncf-helm-security@lists.cncf.io
-- url: https://charts.jfrog.io
+- name: jfrog
+  url: https://charts.jfrog.io
   maintainers:
     - email: devops@jfrog.com
       name: jfrog
-- url: https://charts.rimusz.net
+- name: rimusz
+  url: https://charts.rimusz.net
   maintainers:
     - email: rmocius@gmail.com
       name: rimusz
