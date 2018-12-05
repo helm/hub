@@ -17,4 +17,6 @@ sync:
     - name: buildkite
       url: https://buildkite.github.io/charts
     - name: keel
-      url: https://charts.keel.sh 
+      url: https://charts.keel.sh
+    - name: appscode
+      url: https://charts.appscode.com/stable/

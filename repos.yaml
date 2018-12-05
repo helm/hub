@@ -39,7 +39,12 @@ repositories:
     - email: rmocius@gmail.com
       name: rimusz
 - name: keel
-  url: https://charts.keel.sh 
+  url: https://charts.keel.sh
   maintainers:
     - email: karolis.rusenas@gmail.com
       name: rusenask
+- name: appscode
+  url: https://charts.appscode.com/stable/
+  maintainers:
+    - name: AppsCode Inc
+      email: support@appscode.com
