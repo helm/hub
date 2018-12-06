@@ -22,3 +22,5 @@ sync:
       url: https://charts.appscode.com/stable/
     - name: gitlab
       url: https://charts.gitlab.io/
+    - name: bitnami
+      url: https://charts.bitnami.com
