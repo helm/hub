@@ -53,3 +53,8 @@ repositories:
   maintainers:
     - name: GitLab
       email: distribution@gitlab.com
+- name: bitnami
+  url: https://charts.bitnami.com
+  maintainers:
+    - name: Bitnami
+      email: containers@bitnami.com
