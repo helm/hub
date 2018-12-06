@@ -48,3 +48,8 @@ repositories:
   maintainers:
     - name: AppsCode Inc
       email: support@appscode.com
+- name: gitlab
+  url: https://charts.gitlab.io/
+  maintainers:
+    - name: GitLab
+      email: distribution@gitlab.com

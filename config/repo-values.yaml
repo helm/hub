@@ -20,3 +20,5 @@ sync:
       url: https://charts.keel.sh
     - name: appscode
       url: https://charts.appscode.com/stable/
+    - name: gitlab
+      url: https://charts.gitlab.io/
