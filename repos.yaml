@@ -58,3 +58,8 @@ repositories:
   maintainers:
     - name: Bitnami
       email: containers@bitnami.com
+- name: weave-flux
+  url: https://weaveworks.github.io/flux/
+  maintainers:
+    - email: flux@weave.works
+      name: Weave Flux project
