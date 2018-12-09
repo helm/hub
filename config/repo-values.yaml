@@ -24,3 +24,5 @@ sync:
       url: https://charts.gitlab.io/
     - name: bitnami
       url: https://charts.bitnami.com
+    - name: weave-flux
+      url: https://weaveworks.github.io/flux/
