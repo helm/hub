@@ -63,3 +63,8 @@ repositories:
   maintainers:
     - email: flux@weave.works
       name: Weave Flux project
+- name: ibm-charts
+  url: https://raw.githubusercontent.com/IBM/charts/master/repo/stable/
+  maintainers:
+    - email: icp@ibm.com
+      name: IBM Cloud Private
