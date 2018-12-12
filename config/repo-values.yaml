@@ -26,3 +26,5 @@ sync:
       url: https://charts.bitnami.com
     - name: weave-flux
       url: https://weaveworks.github.io/flux/
+    - name: ibm-charts
+      url: https://raw.githubusercontent.com/IBM/charts/master/repo/stable/
