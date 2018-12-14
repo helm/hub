@@ -63,3 +63,8 @@ repositories:
   maintainers:
     - email: flux@weave.works
       name: Weave Flux project
+- name: kanister
+  url: https://charts.kanister.io/
+  maintainers:
+    - email: helm@kasten.io
+      name: Kanister

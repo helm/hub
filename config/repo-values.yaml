@@ -26,3 +26,6 @@ sync:
       url: https://charts.bitnami.com
     - name: weave-flux
       url: https://weaveworks.github.io/flux/
+    - name: kanister
+      url: https://charts.kanister.io/
+
