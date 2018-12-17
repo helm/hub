@@ -75,3 +75,8 @@ repositories:
   maintainers:
     - email: icp@ibm.com
       name: IBM Cloud Private
+- name: kanister
+  url: https://charts.kanister.io/
+  maintainers:
+    - email: helm@kasten.io
+      name: Kanister

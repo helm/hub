@@ -30,3 +30,5 @@ sync:
       url: https://charts.jetstack.io
     - name: ibm-charts
       url: https://raw.githubusercontent.com/IBM/charts/master/repo/stable/
+    - name: kanister
+      url: https://charts.kanister.io/
