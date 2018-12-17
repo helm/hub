@@ -26,6 +26,9 @@ sync:
       url: https://charts.bitnami.com
     - name: weave-flux
       url: https://weaveworks.github.io/flux/
+    - name: jetstack
+      url: https://charts.jetstack.io
+    - name: ibm-charts
+      url: https://raw.githubusercontent.com/IBM/charts/master/repo/stable/
     - name: kanister
       url: https://charts.kanister.io/
-
