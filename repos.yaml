@@ -70,3 +70,8 @@ repositories:
       name: James Munnelly
     - email: christian.simon@jetstack.io
       name: Christian Simon
+- name: ibm-charts
+  url: https://raw.githubusercontent.com/IBM/charts/master/repo/stable/
+  maintainers:
+    - email: icp@ibm.com
+      name: IBM Cloud Private
