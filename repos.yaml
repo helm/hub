@@ -63,3 +63,10 @@ repositories:
   maintainers:
     - email: flux@weave.works
       name: Weave Flux project
+- name: jetstack
+  url: https://charts.jetstack.io/
+  maintainers:
+    - email: james.munnelly@jetstack.io
+      name: James Munnelly
+    - email: christian.simon@jetstack.io
+      name: Christian Simon
