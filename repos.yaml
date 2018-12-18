@@ -80,3 +80,8 @@ repositories:
   maintainers:
     - email: helm@kasten.io
       name: Kanister
+- name: flagger
+  url: https://flagger.app
+  maintainers:
+  - email: stefan.prodan@gmail.com
+    name: Stefan Prodan
