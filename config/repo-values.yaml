@@ -32,3 +32,5 @@ sync:
       url: https://raw.githubusercontent.com/IBM/charts/master/repo/stable/
     - name: kanister
       url: https://charts.kanister.io/
+    - name: flagger
+      url: https://flagger.app
