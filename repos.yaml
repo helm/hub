@@ -85,3 +85,8 @@ repositories:
   maintainers:
   - email: stefan.prodan@gmail.com
     name: Stefan Prodan
+- name: elastic
+  url: https://helm.elastic.co
+  maintainers:
+  - email: helm-charts@elastic.co
+    name: Elastic

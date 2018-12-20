@@ -34,3 +34,5 @@ sync:
       url: https://charts.kanister.io/
     - name: flagger
       url: https://flagger.app
+    - name: elastic
+      url: https://helm.elastic.co
