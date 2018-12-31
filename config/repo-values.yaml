@@ -34,3 +34,5 @@ sync:
       url: https://charts.kanister.io/
     - name: flagger
       url: https://flagger.app
+    - name: agones
+      url: https://agones.dev/chart/stable
