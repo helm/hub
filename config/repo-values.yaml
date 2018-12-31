@@ -36,3 +36,5 @@ sync:
       url: https://flagger.app
     - name: zammad
       url: https://zammad.github.io     
+    - name: agones
+      url: https://agones.dev/chart/stable

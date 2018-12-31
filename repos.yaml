@@ -90,3 +90,8 @@ repositories:
   maintainers:
   - email: monotek23@gmail.com
     name: André Bauer
+- name: agones
+  url: https://agones.dev/chart/stable
+  maintainers:
+  - email: agones-discuss@googlegroups.com
+    name: agones
