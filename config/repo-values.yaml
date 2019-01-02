@@ -35,6 +35,8 @@ sync:
     - name: flagger
       url: https://flagger.app
     - name: zammad
-      url: https://zammad.github.io     
+      url: https://zammad.github.io
     - name: agones
       url: https://agones.dev/chart/stable
+    - name: kiwigrid
+      url: https://kiwigrid.github.io
