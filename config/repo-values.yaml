@@ -38,3 +38,5 @@ sync:
       url: https://zammad.github.io     
     - name: agones
       url: https://agones.dev/chart/stable
+    - name: banzaicloud-stable
+      url: http://kubernetes-charts.banzaicloud.com/branch/master
