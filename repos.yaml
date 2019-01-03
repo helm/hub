@@ -85,6 +85,16 @@ repositories:
   maintainers:
   - email: stefan.prodan@gmail.com
     name: Stefan Prodan
+- name: zammad
+  url: https://zammad.github.io
+  maintainers:
+  - email: monotek23@gmail.com
+    name: André Bauer
+- name: agones
+  url: https://agones.dev/chart/stable
+  maintainers:
+  - email: agones-discuss@googlegroups.com
+    name: agones
 - name: elastic
   url: https://helm.elastic.co
   maintainers:

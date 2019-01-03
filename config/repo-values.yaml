@@ -34,5 +34,10 @@ sync:
       url: https://charts.kanister.io/
     - name: flagger
       url: https://flagger.app
+    - name: zammad
+      url: https://zammad.github.io
+    - name: agones
+      url: https://agones.dev/chart/stable
     - name: elastic
       url: https://helm.elastic.co
+
