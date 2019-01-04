@@ -100,3 +100,15 @@ repositories:
   maintainers:
   - name: Banzai Cloud
     email: info@banzaicloud.com
+- name: kiwigrid
+  url: https://kiwigrid.github.io
+  maintainers:
+  - email: andre.bauer@kiwigrid.com
+    name: André Bauer
+  - email: axel.koehler@kiwigrid.com
+    name: Axel Koehler
+- name: elastic
+  url: https://helm.elastic.co
+  maintainers:
+  - email: helm-charts@elastic.co
+    name: Elastic
