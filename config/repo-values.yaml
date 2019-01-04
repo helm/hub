@@ -38,6 +38,7 @@ sync:
       url: https://zammad.github.io
     - name: agones
       url: https://agones.dev/chart/stable
+    - name: kiwigrid
+      url: https://kiwigrid.github.io
     - name: elastic
       url: https://helm.elastic.co
-
