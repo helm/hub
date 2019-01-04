@@ -102,3 +102,8 @@ repositories:
     name: André Bauer
   - email: axel.koehler@kiwigrid.com
     name: Axel Koehler
+- name: elastic
+  url: https://helm.elastic.co
+  maintainers:
+  - email: helm-charts@elastic.co
+    name: Elastic
