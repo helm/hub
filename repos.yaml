@@ -95,3 +95,8 @@ repositories:
   maintainers:
   - email: agones-discuss@googlegroups.com
     name: agones
+- name: elastic
+  url: https://helm.elastic.co
+  maintainers:
+  - email: helm-charts@elastic.co
+    name: Elastic
