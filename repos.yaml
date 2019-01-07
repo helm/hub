@@ -112,3 +112,8 @@ repositories:
   maintainers:
   - email: helm-charts@elastic.co
     name: Elastic
+- name: hephy
+  url: https://charts.teamhephy.com
+  maintainers:
+  - name: Team Hephy
+    email: team@teamhephy.com
