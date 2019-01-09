@@ -112,3 +112,8 @@ repositories:
   maintainers:
   - email: helm-charts@elastic.co
     name: Elastic
+- name: soluto
+  url: https://charts.soluto.io
+  maintainers:
+  - email: charts-maintainers@soluto.com
+    name: Soluto

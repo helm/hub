@@ -44,3 +44,5 @@ sync:
       url: https://kiwigrid.github.io
     - name: elastic
       url: https://helm.elastic.co
+    - name: soluto
+      url: https://charts.soluto.io
