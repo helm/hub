@@ -112,6 +112,15 @@ repositories:
   maintainers:
   - email: helm-charts@elastic.co
     name: Elastic
+- name: openfaas
+  url: https://openfaas.github.io/faas-netes/index.yaml
+  maintainers:
+    - email: alex@openfaas.com
+      name: Alex Ellis
+    - email: roesler.lucas@gmail.com
+      name: Lucas Roesler
+    - email: stefan.prodan@gmail.com
+      name: Stefan Prodan
 - name: hephy
   url: https://charts.teamhephy.com
   maintainers:
