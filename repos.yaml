@@ -126,3 +126,8 @@ repositories:
   maintainers:
     - email: ohad.david@gmail.com
       name: Ohad David
+- name: soluto
+  url: https://charts.soluto.io
+  maintainers:
+  - email: charts-maintainers@soluto.com
+    name: Soluto
