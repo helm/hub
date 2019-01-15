@@ -50,3 +50,5 @@ sync:
       url: https://odavid.github.io/k8s-helm-charts
     - name: soluto
       url: https://charts.soluto.io
+    - name: hephy
+      url: https://charts.teamhephy.com

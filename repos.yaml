@@ -131,3 +131,8 @@ repositories:
   maintainers:
   - email: charts-maintainers@soluto.com
     name: Soluto
+- name: hephy
+  url: https://charts.teamhephy.com
+  maintainers:
+  - name: Team Hephy
+    email: team@teamhephy.com
