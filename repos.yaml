@@ -112,6 +112,20 @@ repositories:
   maintainers:
   - email: helm-charts@elastic.co
     name: Elastic
+- name: openfaas
+  url: https://openfaas.github.io/faas-netes/index.yaml
+  maintainers:
+    - email: alex@openfaas.com
+      name: Alex Ellis
+    - email: roesler.lucas@gmail.com
+      name: Lucas Roesler
+    - email: stefan.prodan@gmail.com
+      name: Stefan Prodan
+- name: odavid
+  url: https://odavid.github.io/k8s-helm-charts
+  maintainers:
+    - email: ohad.david@gmail.com
+      name: Ohad David
 - name: soluto
   url: https://charts.soluto.io
   maintainers:

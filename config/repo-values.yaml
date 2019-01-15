@@ -44,5 +44,9 @@ sync:
       url: https://kiwigrid.github.io
     - name: elastic
       url: https://helm.elastic.co
+    - name: openfaas
+      url: https://openfaas.github.io/faas-netes/index.yaml
+    - name: odavid
+      url: https://odavid.github.io/k8s-helm-charts
     - name: soluto
       url: https://charts.soluto.io
