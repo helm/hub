@@ -54,3 +54,5 @@ sync:
       url: https://charts.teamhephy.com
     - name: gabibbo97
       url: https://gabibbo97.github.io/charts/
+    - name: presslabs
+      url: https://presslabs.github.io/charts

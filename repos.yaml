@@ -141,3 +141,10 @@ repositories:
   maintainers:
     - email: gabibbo97@gmail.com
       name: Giacomo Longo
+- name: presslabs
+  url: https://presslabs.github.io/charts
+  maintainers:
+    - email: ping@presslabs.com
+      name: Presslabs
+    - email: calin@presslabs.com
+      name: Calin Don
