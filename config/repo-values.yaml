@@ -52,3 +52,5 @@ sync:
       url: https://charts.soluto.io
     - name: hephy
       url: https://charts.teamhephy.com
+    - name: gabibbo97
+      url: https://gabibbo97.github.io/charts/

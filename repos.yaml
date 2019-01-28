@@ -136,3 +136,8 @@ repositories:
   maintainers:
   - name: Team Hephy
     email: team@teamhephy.com
+- name: gabibbo97
+  url: https://gabibbo97.github.io/charts/
+  maintainers:
+    - email: gabibbo97@gmail.com
+      name: Giacomo Longo
