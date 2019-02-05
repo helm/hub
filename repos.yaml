@@ -113,7 +113,7 @@ repositories:
   - email: helm-charts@elastic.co
     name: Elastic
 - name: openfaas
-  url: https://openfaas.github.io/faas-netes/index.yaml
+  url: https://openfaas.github.io/faas-netes
   maintainers:
     - email: alex@openfaas.com
       name: Alex Ellis
