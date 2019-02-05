@@ -113,7 +113,7 @@ repositories:
   - email: helm-charts@elastic.co
     name: Elastic
 - name: openfaas
-  url: https://openfaas.github.io/faas-netes/index.yaml
+  url: https://openfaas.github.io/faas-netes
   maintainers:
     - email: alex@openfaas.com
       name: Alex Ellis
@@ -157,3 +157,8 @@ repositories:
       name: Andrew Meier
     - email: jhinds2010@gmail.com
       name: Jonathan Hinds
+- name: pnnl-miscscripts
+  url: https://pnnl-miscscripts.github.io/charts
+  maintainers:
+    - email: Kevin.Fox@pnnl.gov
+      name: Kevin Fox

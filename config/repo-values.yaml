@@ -45,7 +45,7 @@ sync:
     - name: elastic
       url: https://helm.elastic.co
     - name: openfaas
-      url: https://openfaas.github.io/faas-netes/index.yaml
+      url: https://openfaas.github.io/faas-netes
     - name: odavid
       url: https://odavid.github.io/k8s-helm-charts
     - name: soluto
@@ -58,3 +58,5 @@ sync:
       url: https://presslabs.github.io/charts
     - name: eventstore
       url: https://eventstore.github.io/EventStore.Charts
+    - name: pnnl-miscscripts
+      url: https://pnnl-miscscripts.github.io/charts
