@@ -148,3 +148,8 @@ repositories:
       name: Presslabs
     - email: calin@presslabs.com
       name: Calin Don
+- name: pnnl-miscscripts
+  url: https://pnnl-miscscripts.github.io/charts
+  maintainers:
+    - email: Kevin.Fox@pnnl.gov
+      name: Kevin Fox
