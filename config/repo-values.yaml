@@ -56,3 +56,5 @@ sync:
       url: https://gabibbo97.github.io/charts/
     - name: presslabs
       url: https://presslabs.github.io/charts
+    - name: eventstore
+      url: https://eventstore.github.io/EventStore.Charts
