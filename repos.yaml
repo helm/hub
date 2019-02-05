@@ -148,6 +148,15 @@ repositories:
       name: Presslabs
     - email: calin@presslabs.com
       name: Calin Don
+- name: eventstore
+  url: https://eventstore.github.io/EventStore.Charts
+  maintainers:
+    - email: riccardo@dinuzzo.it
+      name: Riccardo Di Nuzzo
+    - email: ameier38@gmail.com
+      name: Andrew Meier
+    - email: jhinds2010@gmail.com
+      name: Jonathan Hinds
 - name: pnnl-miscscripts
   url: https://pnnl-miscscripts.github.io/charts
   maintainers:
