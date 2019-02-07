@@ -162,3 +162,7 @@ repositories:
   maintainers:
     - email: Kevin.Fox@pnnl.gov
       name: Kevin Fox
+- name: ceph-csi
+  url: https://ceph.github.io/csi-charts
+  maintainers:
+    - email: ceph-devel@vger.kernel.org
