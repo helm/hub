@@ -60,3 +60,5 @@ sync:
       url: https://eventstore.github.io/EventStore.Charts
     - name: pnnl-miscscripts
       url: https://pnnl-miscscripts.github.io/charts
+    - name: ceph-csi
+      url: https://ceph.github.io/csi-charts
