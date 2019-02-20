@@ -62,3 +62,5 @@ sync:
       url: https://pnnl-miscscripts.github.io/charts
     - name: ceph-csi
       url: https://ceph.github.io/csi-charts
+    - name: reactiveops-stable
+      url: https://charts.reactiveops.com/stable

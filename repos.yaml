@@ -166,3 +166,7 @@ repositories:
   url: https://ceph.github.io/csi-charts
   maintainers:
     - email: ceph-devel@vger.kernel.org
+- name: reactiveops-stable
+  url: https://charts.reactiveops.com/stable
+  maintainers:
+    - email: chart-maintainers@reactiveops.com
