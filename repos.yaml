@@ -170,3 +170,8 @@ repositories:
   url: https://charts.reactiveops.com/stable
   maintainers:
     - email: chart-maintainers@reactiveops.com
+- name: yourls
+  url: https://charts.yourls.org
+  maintainers:
+    - email: yourls@yourls.org
+      name: YOURLS

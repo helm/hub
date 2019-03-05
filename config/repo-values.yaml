@@ -64,3 +64,5 @@ sync:
       url: https://ceph.github.io/csi-charts
     - name: reactiveops-stable
       url: https://charts.reactiveops.com/stable
+    - name: yourls
+      url: https://charts.yourls.org
