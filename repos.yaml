@@ -175,3 +175,9 @@ repositories:
   maintainers:
     - email: yourls@yourls.org
       name: YOURLS
+- name: hazelcast
+  url: https://hazelcast.github.io/charts/
+  maintainers:
+    - email: rafal@hazelcast.com
+    - email: guglielmo@hazelcast.com
+    - email: mesut@hazelcast.com
