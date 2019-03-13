@@ -166,10 +166,12 @@ repositories:
     url: https://ceph.github.io/csi-charts
     maintainers:
       - email: ceph-devel@vger.kernel.org
+        name: Ceph Developers
   - name: reactiveops-stable
     url: https://charts.reactiveops.com/stable
     maintainers:
       - email: chart-maintainers@reactiveops.com
+        name: Chart Maintainers
   - name: yourls
     url: https://charts.yourls.org
     maintainers:
@@ -179,8 +181,11 @@ repositories:
     url: https://hazelcast.github.io/charts/
     maintainers:
       - email: rafal@hazelcast.com
+        name: Rafal Leszko
       - email: guglielmo@hazelcast.com
+        name: Guglielmo Nigri
       - email: mesut@hazelcast.com
+        name: Mesut Celik
   - name: nginx
     url: https://helm.nginx.com/stable
     maintainers:
