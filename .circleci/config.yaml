@@ -1,0 +1,33 @@
+version: 2
+jobs:
+  deploy:
+    docker:
+      # Upgrade the Dockerfile and push image when the hub az cluster tiller
+      # version upgrades, then update image definition here.
+      - image: r6by/azure-cli-helm:2.13.1
+        # Don't automatically upgrade the Hub monocular chart version for each
+        # new helm/monocular release. Instead assume we'll need testing, and
+        # set the version manually here.
+        environment:
+          MONOCULAR_VERSION: 1.6.0
+    steps:
+      - run:
+          name: Authenticate to cluster
+          command: |
+            az login --service-principal -u $SERVICE_PRINCIPAL_ID -p $SERVICE_PRINCIPAL_PASS -t $SERVICE_TENANT_ID
+            az aks get-credentials -n $CLUSTER_NAME -g $RESOURCE_GROUP
+      - checkout
+      - run:
+          name: Upgrade install/upgrade Monocular Helm chart with any Hub changed values
+          command: |
+            export MONGODB_ROOT_PASSWORD=$(kubectl get secret --namespace helm-hub helm-hub-mongodb -o jsonpath="{.data.mongodb-root-password}" | base64 --decode)
+            helm upgrade --install helm-hub monocular/monocular --version $MONOCULAR_VERSION --set mongodb.mongodbRootPassword=$MONGODB_ROOT_PASSWORD -f config/helm-hub-values.yaml -f config/repo-values.yaml
+
+workflows:
+  version: 2
+  merge-master:
+    jobs:
+      - deploy:
+          filters:
+            branches:
+              only: master

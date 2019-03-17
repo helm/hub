@@ -1,0 +1,27 @@
+chartsvc:
+  replicas: 6
+
+ui:
+  appName: Helm Hub
+  aboutUrl: "https://github.com/helm/hub/blob/master/README.md"
+  googleAnalyticsId: UA-130225959-1
+  replicaCount: 3
+
+ingress:
+  enabled: true
+  hosts:
+    - hub.helm.sh
+
+  ## Ingress annotations
+  ##
+  annotations:
+    ## Nginx ingress controller (default)
+    nginx.ingress.kubernetes.io/rewrite-target: /
+    kubernetes.io/ingress.class: nginx
+    certmanager.k8s.io/cluster-issuer: letsencrypt-prod
+
+  ## Ingress TLS configuration
+  ## Secrets must be manually created in the namespace
+  ##
+  tls:
+    secretName: helm-hub-tls-secret
