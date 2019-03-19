@@ -181,3 +181,7 @@ repositories:
     - email: rafal@hazelcast.com
     - email: guglielmo@hazelcast.com
     - email: mesut@hazelcast.com
+- name: nginx
+  url: https://helm.nginx.com/stable
+  maintainers:
+    - email: kubernetes@nginx.com
