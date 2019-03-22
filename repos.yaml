@@ -185,3 +185,8 @@ repositories:
   url: https://helm.nginx.com/stable
   maintainers:
     - email: kubernetes@nginx.com
+- name: cic
+  url: https://citrix.github.io/citrix-k8s-ingress-controller/
+  maintainers:
+    - email: priyanka.sharma@citrix.com
+    - email: subash.dangol@citrix.com
