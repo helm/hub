@@ -39,7 +39,7 @@ sync:
     - name: agones
       url: https://agones.dev/chart/stable
     - name: banzaicloud-stable
-      url: http://kubernetes-charts.banzaicloud.com/branch/master
+      url: https://kubernetes-charts.banzaicloud.com
     - name: kiwigrid
       url: https://kiwigrid.github.io
     - name: elastic
