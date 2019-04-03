@@ -72,3 +72,5 @@ sync:
       url: https://helm.nginx.com/stable
     - name: cic
       url: https://citrix.github.io/citrix-k8s-ingress-controller/
+    - name: zooz
+      url: https://zooz.github.io/helm/

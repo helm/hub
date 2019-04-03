@@ -190,3 +190,7 @@ repositories:
   maintainers:
     - email: priyanka.sharma@citrix.com
     - email: subash.dangol@citrix.com
+- name: zooz
+  url: https://zooz.github.io/helm/
+  maintainers:
+  - email: enudler@gmail.com
