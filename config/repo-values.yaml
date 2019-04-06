@@ -72,3 +72,5 @@ sync:
       url: https://helm.nginx.com/stable
     - name: cic
       url: https://citrix.github.io/citrix-k8s-ingress-controller/
+    - name: k8dash
+      url: https://github.com/herbrandson/k8dash
