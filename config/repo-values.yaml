@@ -72,3 +72,5 @@ sync:
       url: https://helm.nginx.com/stable
     - name: cic
       url: https://citrix.github.io/citrix-k8s-ingress-controller/
+    - name: rancher-stable
+      url : https://releases.rancher.com/server-charts/stable

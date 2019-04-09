@@ -190,3 +190,7 @@ repositories:
   maintainers:
     - email: priyanka.sharma@citrix.com
     - email: subash.dangol@citrix.com
+- name: rancher-stable
+  url : https://releases.rancher.com/server-charts/stable
+  maintainers:
+    - email: charts@rancher.com
