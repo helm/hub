@@ -194,3 +194,11 @@ repositories:
   url: https://github.com/herbrandson/k8dash
   maintainers:
     - email: eric@herbrandson.com
+- name: zooz
+  url: https://zooz.github.io/helm/
+  maintainers:
+  - email: enudler@gmail.com
+- name: rancher-stable
+  url : https://releases.rancher.com/server-charts/stable
+  maintainers:
+    - email: charts@rancher.com
