@@ -198,3 +198,8 @@ repositories:
   url : https://releases.rancher.com/server-charts/stable
   maintainers:
     - email: charts@rancher.com
+- name: loki
+  url: https://grafana.github.io/loki/charts
+  maintainers:
+  - name: Loki Maintainers
+    mail: lokiproject@googlegroups.com

@@ -76,3 +76,5 @@ sync:
       url: https://zooz.github.io/helm/
     - name: rancher-stable
       url : https://releases.rancher.com/server-charts/stable
+    - name: loki
+      url: https://grafana.github.io/loki/charts
