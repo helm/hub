@@ -203,3 +203,10 @@ repositories:
   maintainers:
   - name: Loki Maintainers
     mail: lokiproject@googlegroups.com
+- name: mmlspark
+  url:
+  maintainers:
+  - name: Dalitso Banda
+    mail: dalitsohb@gmail.com
+  - name: Mark Hamilton
+    mail: mhamilton723@gmail.com
