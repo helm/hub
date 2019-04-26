@@ -17,8 +17,8 @@ to discover the charts and repositories being hosted by others.
 The Hub provides a means to more easily find charts that are hosted outside the Helm
 project. This has implications for those who build and distribute charts including:
 
-* They can manage the workflow around releases themselves
-* They can track metrics around the use of their charts
+- They can manage the workflow around releases themselves
+- They can track metrics around the use of their charts
 
 ## How To Add Your Helm Charts
 
@@ -39,5 +39,5 @@ the Hub is [Monocular](https://github.com/helm/monocular), a Helm project.
 
 The following licenses used:
 
-* Apache 2.0 for code
-* Creative Commons Attribution 4.0 International Public License for documentation
+- Apache 2.0 for code
+- Creative Commons Attribution 4.0 International Public License for documentation
