@@ -203,3 +203,7 @@ repositories:
   maintainers:
   - name: Loki Maintainers
     mail: lokiproject@googlegroups.com
+- name: codecentric
+  url: https://codecentric.github.io/helm-charts
+  maintainers:
+    - mail: unguiculus+helm-charts@gmail.com
