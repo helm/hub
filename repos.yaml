@@ -202,8 +202,8 @@ repositories:
     url: https://grafana.github.io/loki/charts
     maintainers:
       - name: Loki Maintainers
-        mail: lokiproject@googlegroups.com
+        email: lokiproject@googlegroups.com
   - name: codecentric
     url: https://codecentric.github.io/helm-charts
     maintainers:
-      - mail: unguiculus+helm-charts@gmail.com
+      - email: unguiculus+helm-charts@gmail.com
