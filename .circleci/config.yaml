@@ -9,7 +9,7 @@ jobs:
         # new helm/monocular release. Instead assume we'll need testing, and
         # set the version manually here.
         environment:
-          MONOCULAR_VERSION: 1.6.0
+          CHART_VERSION: 1.4.4
     steps:
       - run:
           name: Authenticate to cluster
@@ -20,8 +20,11 @@ jobs:
       - run:
           name: Upgrade install/upgrade Monocular Helm chart with any Hub changed values
           command: |
-            export MONGODB_ROOT_PASSWORD=$(kubectl get secret --namespace helm-hub helm-hub-mongodb -o jsonpath="{.data.mongodb-root-password}" | base64 --decode)
-            helm upgrade --install helm-hub monocular/monocular --version $MONOCULAR_VERSION --set mongodb.mongodbRootPassword=$MONGODB_ROOT_PASSWORD -f config/helm-hub-values.yaml -f config/repo-values.yaml
+            export MONGODB_ROOT_PASSWORD=$(kubectl get secret --namespace helm-hub helm-hub-mongodb -o jsonpath="{.data.mongodb-root-password}" | base64 -d)
+            helm init --client-only
+            helm repo add monocular https://helm.github.io/monocular
+            helm repo update
+            helm upgrade --install helm-hub monocular/monocular --version $CHART_VERSION --namespace helm-hub --set mongodb.mongodbRootPassword=$MONGODB_ROOT_PASSWORD -f config/helm-hub-values.yaml -f config/repo-values.yaml
 
 workflows:
   version: 2
