@@ -3,8 +3,8 @@ jobs:
   deploy:
     docker:
       # Upgrade the Dockerfile and push image when the hub az cluster tiller
-      # version upgrades, then update image definition here.
-      - image: r6by/azure-cli-helm:2.13.1
+      # version upgrades.
+      - image: r6by/kubectl-helm-azure
         # Don't automatically upgrade the Hub monocular chart version for each
         # new helm/monocular release. Instead assume we'll need testing, and
         # set the version manually here.
