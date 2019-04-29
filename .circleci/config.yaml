@@ -18,7 +18,7 @@ jobs:
             az aks get-credentials -n $CLUSTER_NAME -g $RESOURCE_GROUP
       - checkout
       - run:
-          name: Upgrade install/upgrade Monocular Helm chart with any Hub changed values
+          name: Upgrade/install Monocular Helm chart with any Hub changed values
           command: |
             export MONGODB_ROOT_PASSWORD=$(kubectl get secret --namespace helm-hub helm-hub-mongodb -o jsonpath="{.data.mongodb-root-password}" | base64 -d)
             helm init --client-only
