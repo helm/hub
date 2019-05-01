@@ -212,3 +212,7 @@ repositories:
     url: https://codecentric.github.io/helm-charts
     maintainers:
       - email: unguiculus+helm-charts@gmail.com
+  - name: dhiatn
+    url: https://dhiatn.github.io/helm-kafka-topics-ui
+    maintainers:
+      - email: dhia.absi+helm@gmail.com
