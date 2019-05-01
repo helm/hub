@@ -74,3 +74,7 @@ sync:
       url: https://citrix.github.io/citrix-k8s-ingress-controller/
     - name: k8dash
       url: https://herbrandson.github.io/k8dash/helm
+    - name: zooz
+      url: https://zooz.github.io/helm/
+    - name: rancher-stable
+      url : https://releases.rancher.com/server-charts/stable
