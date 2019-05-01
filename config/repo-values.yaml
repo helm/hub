@@ -78,6 +78,6 @@ sync:
       url : https://releases.rancher.com/server-charts/stable
     - name: loki
       url: https://grafana.github.io/loki/charts
-    - name: mmlspark
-      url: https://dbanda.github.io/charts
+    - name: msft-charts
+      url: http://microsoft.github.io/charts/repo
       
