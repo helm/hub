@@ -191,6 +191,6 @@ repositories:
     - email: priyanka.sharma@citrix.com
     - email: subash.dangol@citrix.com
 - name: k8dash
-  url: https://github.com/herbrandson/k8dash
+  url: https://herbrandson.github.io/k8dash/helm
   maintainers:
     - email: eric@herbrandson.com
