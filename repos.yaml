@@ -212,3 +212,7 @@ repositories:
     url: https://codecentric.github.io/helm-charts
     maintainers:
       - email: unguiculus+helm-charts@gmail.com
+  - name: k8dash
+    url: https://herbrandson.github.io/k8dash/helm
+    maintainers:
+      - email: eric@herbrandson.com
