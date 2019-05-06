@@ -216,3 +216,16 @@ repositories:
     url: https://herbrandson.github.io/k8dash/helm
     maintainers:
       - email: eric@herbrandson.com
+  - name: funkypenguin
+    url: https://funkypenguin.github.io/helm-charts
+    maintainers:
+      - email: helm-charts@funkypenguin.co.nz      
+  - name: mattermost
+    url: https://helm.mattermost.com
+    maintainers:
+      - email: ctadeu@gmail.com
+  - name: emberstack
+    url: https://emberstack.github.io/helm-charts
+    maintainers:
+      - email: helm-charts@emberstack.com
+        name: Romeo Dumitrescu
