@@ -212,6 +212,10 @@ repositories:
     url: https://codecentric.github.io/helm-charts
     maintainers:
       - email: unguiculus+helm-charts@gmail.com
+  - name: mattermost
+    url: https://helm.mattermost.com
+    maintainers:
+      - email: ctadeu@gmail.com
   - name: emberstack
     url: https://emberstack.github.io/helm-charts
     maintainers:
