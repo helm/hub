@@ -82,3 +82,5 @@ sync:
       url: https://codecentric.github.io/helm-charts
     - name: mattermost
       url: https://helm.mattermost.com
+    - name: emberstack
+      url: https://emberstack.github.io/helm-charts
