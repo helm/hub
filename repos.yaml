@@ -212,3 +212,8 @@ repositories:
     url: https://codecentric.github.io/helm-charts
     maintainers:
       - email: unguiculus+helm-charts@gmail.com
+  - name: emberstack
+    url: https://emberstack.github.io/helm-charts
+    maintainers:
+      - email: helm-charts@emberstack.com
+        name: Romeo Dumitrescu
