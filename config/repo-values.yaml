@@ -94,3 +94,5 @@ sync:
       url: https://emberstack.github.io/helm-charts
     - name: APPUiO
       url: https://charts.appuio.ch
+    - name: gomods
+      url: https://athens.blob.core.windows.net/charts
