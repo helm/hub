@@ -203,8 +203,9 @@ repositories:
   maintainers:
   - name: Loki Maintainers
     mail: lokiproject@googlegroups.com
-- name: mmlspark
+- name: microsoft-charts
   url: http://microsoft.github.io/charts/repo/
   maintainers:
-   - name: mstf-charts
-     email: mmlspark-support@microsoft.com
+  - name: mstf-charts
+    email: msft-charts-support@microsoft.com
+  - email: dabanda@microsoft.com
