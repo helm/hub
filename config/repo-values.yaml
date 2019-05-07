@@ -92,5 +92,5 @@ sync:
       url: https://helm.mattermost.com
     - name: emberstack
       url: https://emberstack.github.io/helm-charts
-    - name: athens
+    - name: gomods
       url: https://athens.blob.core.windows.net/charts
