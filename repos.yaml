@@ -237,8 +237,14 @@ repositories:
     maintainers:
       - email: helm-charts@emberstack.com
         name: Romeo Dumitrescu
+  - name: APPUiO
+    url: https://charts.appuio.ch
+    maintainers:
+      - email: info@appuio.ch
+        name: APPUiO Team
   - name: gomods
     url: https://athens.blob.core.windows.net/charts
     maintainers:
       - email: aaron@ecomaz.net
         name: Aaron Schlesinger
+
