@@ -237,7 +237,10 @@ repositories:
     maintainers:
       - email: helm-charts@emberstack.com
         name: Romeo Dumitrescu
-  - name: APPUiO
+  # - name: APPUiO
+  # Switching to a lowercase name until https://github.com/helm/monocular/issues/626
+  # is fixed
+  - name: appuio
     url: https://charts.appuio.ch
     maintainers:
       - email: info@appuio.ch

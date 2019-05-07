@@ -92,7 +92,10 @@ sync:
       url: https://helm.mattermost.com
     - name: emberstack
       url: https://emberstack.github.io/helm-charts
-    - name: APPUiO
+    # - name: APPUiO
+    # Switching to a lowercase name until https://github.com/helm/monocular/issues/626
+    # is fixed
+    - name: appuio
       url: https://charts.appuio.ch
     - name: gomods
       url: https://athens.blob.core.windows.net/charts
