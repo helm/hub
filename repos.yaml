@@ -237,7 +237,7 @@ repositories:
     maintainers:
       - email: helm-charts@emberstack.com
         name: Romeo Dumitrescu
-  - name: gomods
+  - name: athens
     url: https://athens.blob.core.windows.net/charts
     maintainers:
       - email: aaron@ecomaz.net
