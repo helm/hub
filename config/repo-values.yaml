@@ -87,8 +87,10 @@ sync:
     - name: k8dash
       url: https://herbrandson.github.io/k8dash/helm
     - name: funkypenguin
-      url: https://funkypenguin.github.io/helm-charts      
+      url: https://funkypenguin.github.io/helm-charts
     - name: mattermost
       url: https://helm.mattermost.com
     - name: emberstack
       url: https://emberstack.github.io/helm-charts
+    - name: APPUiO
+      url: https://charts.appuio.ch
