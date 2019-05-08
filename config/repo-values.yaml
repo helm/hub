@@ -78,5 +78,5 @@ sync:
       url : https://releases.rancher.com/server-charts/stable
     - name: loki
       url: https://grafana.github.io/loki/charts
-    - name: microsoft-charts
+    - name: microsoft
       url: http://microsoft.github.io/charts/repo
