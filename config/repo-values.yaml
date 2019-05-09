@@ -99,3 +99,5 @@ sync:
       url: https://charts.appuio.ch
     - name: gomods
       url: https://athens.blob.core.windows.net/charts
+    - name: zentainer
+      url: https://charts.zentainer.app
