@@ -250,4 +250,8 @@ repositories:
     maintainers:
       - email: aaron@ecomaz.net
         name: Aaron Schlesinger
-
+  - name: zentainer
+    url: https://charts.zenatiner.app
+    maintainers:
+      - name: Will Newby
+        email: will@zentainer.app
