@@ -250,4 +250,8 @@ repositories:
     maintainers:
       - email: aaron@ecomaz.net
         name: Aaron Schlesinger
-
+  - name: billimek
+    url: https://github.com/billimek/helm-repo
+    maintainers:
+      - email: jeff@billimek.com
+        name: Jeff Billimek
