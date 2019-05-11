@@ -100,4 +100,4 @@ sync:
     - name: gomods
       url: https://athens.blob.core.windows.net/charts
     - name: billimek
-      url: https://github.com/billimek/helm-repo
+      url: https://billimek.github.io/helm-repo
