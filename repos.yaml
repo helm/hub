@@ -209,7 +209,7 @@ repositories:
       - name: Loki Maintainers
         email: lokiproject@googlegroups.com
   - name: microsoft
-    url: http://microsoft.github.io/charts/repo/
+    url: https://microsoft.github.io/charts/repo/
     maintainers:
       - name: mstf-charts
         email: msft-charts-support@microsoft.com
