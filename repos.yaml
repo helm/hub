@@ -255,3 +255,8 @@ repositories:
     maintainers:
       - email: jeff@billimek.com
         name: Jeff Billimek
+  - name: promitor
+    url: https://promitor.azurecr.io/helm/v1/repo
+    maintainers:
+      - email: kerkhove.tom@gmail.com
+        name: Tom Kerkhove

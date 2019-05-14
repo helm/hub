@@ -101,3 +101,5 @@ sync:
       url: https://athens.blob.core.windows.net/charts
     - name: billimek
       url: https://billimek.github.io/helm-repo
+    - name: promitor
+      url: https://promitor.azurecr.io/helm/v1/repo
