@@ -250,4 +250,9 @@ repositories:
     maintainers:
       - email: aaron@ecomaz.net
         name: Aaron Schlesinger
+  - name: promitor
+    url: https://promitor.azurecr.io/helm/v1/repo
+    maintainers:
+      - email: kerkhove.tom@gmail.com
+        name: Tom Kerkhove
 
