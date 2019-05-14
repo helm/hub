@@ -78,6 +78,8 @@ sync:
       url: https://releases.rancher.com/server-charts/stable
     - name: loki
       url: https://grafana.github.io/loki/charts
+    - name: microsoft
+      url: https://microsoft.github.io/charts/repo
     - name: codecentric
       url: https://codecentric.github.io/helm-charts
     - name: okgolove
