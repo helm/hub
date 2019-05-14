@@ -75,8 +75,33 @@ sync:
     - name: zooz
       url: https://zooz.github.io/helm/
     - name: rancher-stable
-      url : https://releases.rancher.com/server-charts/stable
+      url: https://releases.rancher.com/server-charts/stable
     - name: loki
       url: https://grafana.github.io/loki/charts
     - name: microsoft
       url: http://microsoft.github.io/charts/repo
+    - name: codecentric
+      url: https://codecentric.github.io/helm-charts
+    - name: okgolove
+      url: https://okgolove.github.io/helm-charts
+    - name: dhiatn
+      url: https://dhiatn.github.io/helm-kafka-topics-ui
+    - name: k8dash
+      url: https://herbrandson.github.io/k8dash/helm
+    - name: funkypenguin
+      url: https://funkypenguin.github.io/helm-charts
+    - name: mattermost
+      url: https://helm.mattermost.com
+    - name: emberstack
+      url: https://emberstack.github.io/helm-charts
+    # - name: APPUiO
+    # Switching to a lowercase name until https://github.com/helm/monocular/issues/626
+    # is fixed
+    - name: appuio
+      url: https://charts.appuio.ch
+    - name: gomods
+      url: https://athens.blob.core.windows.net/charts
+    - name: zentainer
+      url: https://charts.zentainer.app
+    - name: promitor
+      url: https://promitor.azurecr.io/helm/v1/repo
