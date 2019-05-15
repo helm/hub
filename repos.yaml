@@ -208,6 +208,12 @@ repositories:
     maintainers:
       - name: Loki Maintainers
         email: lokiproject@googlegroups.com
+  - name: microsoft
+    url: https://microsoft.github.io/charts/repo/
+    maintainers:
+      - name: mstf-charts
+        email: msft-charts-support@microsoft.com
+      - email: dabanda@microsoft.com
   - name: codecentric
     url: https://codecentric.github.io/helm-charts
     maintainers:
@@ -255,6 +261,11 @@ repositories:
     maintainers:
       - email: jeff@billimek.com
         name: Jeff Billimek
+  - name: zentainer
+    url: https://charts.zenatiner.app
+    maintainers:
+      - name: Will Newby
+        email: will@zentainer.app
   - name: promitor
     url: https://promitor.azurecr.io/helm/v1/repo
     maintainers:

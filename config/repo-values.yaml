@@ -78,6 +78,8 @@ sync:
       url: https://releases.rancher.com/server-charts/stable
     - name: loki
       url: https://grafana.github.io/loki/charts
+    - name: microsoft
+      url: https://microsoft.github.io/charts/repo
     - name: codecentric
       url: https://codecentric.github.io/helm-charts
     - name: okgolove
@@ -101,5 +103,7 @@ sync:
       url: https://athens.blob.core.windows.net/charts
     - name: billimek
       url: https://billimek.github.io/helm-repo
+    - name: zentainer
+      url: https://charts.zentainer.app
     - name: promitor
       url: https://promitor.azurecr.io/helm/v1/repo
