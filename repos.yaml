@@ -251,7 +251,7 @@ repositories:
       - email: aaron@ecomaz.net
         name: Aaron Schlesinger
   - name: billimek
-    url: https://github.com/billimek/billimek-charts
+    url: https://billimek.github.io/helm-repo
     maintainers:
       - email: jeff@billimek.com
         name: Jeff Billimek
