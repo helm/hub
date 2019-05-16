@@ -256,11 +256,6 @@ repositories:
     maintainers:
       - email: aaron@ecomaz.net
         name: Aaron Schlesinger
-  - name: billimek
-    url: https://billimek.github.io/helm-repo
-    maintainers:
-      - email: jeff@billimek.com
-        name: Jeff Billimek
   - name: zentainer
     url: https://charts.zenatiner.app
     maintainers:
@@ -271,3 +266,8 @@ repositories:
     maintainers:
       - email: kerkhove.tom@gmail.com
         name: Tom Kerkhove
+  - name: billimek
+    url: https://billimek.com/billimek-charts/
+    maintainers:
+      - email: jeff@billimek.com
+        name: Jeff Billimek
