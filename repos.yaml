@@ -293,3 +293,8 @@ repositories:
     maintainers:
       - email: jeff@billimek.com
         name: Jeff Billimek
+  - name: kedacore
+    url: https://kedacore.azureedge.net/helm
+    maintainers:
+      - email: ahmels@microsoft.com
+        name: Ahmed ElSayed
