@@ -293,3 +293,8 @@ repositories:
     maintainers:
       - email: hmdmph@gmail.com
         name: Manoj Prasanna Handapangoda
+  - name: kedacore
+    url: https://kedacore.azureedge.net/helm
+    maintainers:
+      - email: ahmels@microsoft.com
+        name: Ahmed ElSayed

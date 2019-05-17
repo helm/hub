@@ -115,3 +115,5 @@ sync:
       url: https://billimek.com/billimek-charts/
     - name: hmdmph
       url: https://hmdmph.github.io/helm-charts
+    - name: kedacore
+      url: https://kedacore.azureedge.net/helm
