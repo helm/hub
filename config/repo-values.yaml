@@ -103,5 +103,5 @@ sync:
       url: https://athens.blob.core.windows.net/charts
     - name: zentainer
       url: https://charts.zentainer.app
-    - name: promitor
-      url: https://promitor.azurecr.io/helm/v1/repo
+    - name: appdynamics
+      url: https://appdynamics.github.io/appdynamics-charts
