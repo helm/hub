@@ -266,3 +266,10 @@ repositories:
     maintainers:
       - email: kerkhove.tom@gmail.com
         name: Tom Kerkhove
+  - name: harbor
+    url: https://helm.goharbor.io
+    maintainers:
+      - email: yinw@vmware.com
+        name: Wenkai Yin
+      - email: jiangd@vmware.com
+        name: Daniel Jiang
