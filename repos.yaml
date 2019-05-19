@@ -266,3 +266,9 @@ repositories:
     maintainers:
       - email: kerkhove.tom@gmail.com
         name: Tom Kerkhove
+  - name: kir4h
+    url: https://kir4h.github.io/charts
+    maintainers:
+      - name: Andres Alvarez 
+        email: 1671935+kir4h@users.noreply.github.com
+
