@@ -271,3 +271,8 @@ repositories:
     maintainers:
       - email: sasha.jeltuhin@appdynamics.com
         name: Sasha Jeltuhin
+  - name: billimek
+    url: https://billimek.com/billimek-charts/
+    maintainers:
+      - email: jeff@billimek.com
+        name: Jeff Billimek

@@ -107,3 +107,5 @@ sync:
       url: https://promitor.azurecr.io/helm/v1/repo
     - name: appdynamics
       url: https://appdynamics.github.io/appdynamics-charts
+    - name: billimek
+      url: https://billimek.com/billimek-charts/
