@@ -266,6 +266,11 @@ repositories:
     maintainers:
       - email: kerkhove.tom@gmail.com
         name: Tom Kerkhove
+  - name: mtls
+    url: https://drgrove.github.io/charts
+    maintainers:
+      - email: danny@drgrovellc.com
+        name: Danny Grove
   - name: harbor
     url: https://helm.goharbor.io
     maintainers:
