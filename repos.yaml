@@ -266,6 +266,11 @@ repositories:
     maintainers:
       - email: kerkhove.tom@gmail.com
         name: Tom Kerkhove
+  - name: appdynamics
+    url: https://appdynamics.github.io/appdynamics-charts
+    maintainers:
+      - email: sasha.jeltuhin@appdynamics.com
+        name: Sasha Jeltuhin
   - name: billimek
     url: https://billimek.com/billimek-charts/
     maintainers:
