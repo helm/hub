@@ -107,3 +107,9 @@ sync:
       url: https://promitor.azurecr.io/helm/v1/repo
     - name: drgrove
       url: https://drgrove.github.com/charts
+    - name: harbor
+      url: https://helm.goharbor.io
+    - name: appdynamics
+      url: https://appdynamics.github.io/appdynamics-charts
+    - name: billimek
+      url: https://billimek.com/billimek-charts/

@@ -271,3 +271,20 @@ repositories:
     maintainers:
       - email: danny@drgrovellc.com
         name: Danny Grove
+  - name: harbor
+    url: https://helm.goharbor.io
+    maintainers:
+      - email: yinw@vmware.com
+        name: Wenkai Yin
+      - email: jiangd@vmware.com
+        name: Daniel Jiang
+  - name: appdynamics
+    url: https://appdynamics.github.io/appdynamics-charts
+    maintainers:
+      - email: sasha.jeltuhin@appdynamics.com
+        name: Sasha Jeltuhin
+  - name: billimek
+    url: https://billimek.com/billimek-charts/
+    maintainers:
+      - email: jeff@billimek.com
+        name: Jeff Billimek
