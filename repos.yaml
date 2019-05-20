@@ -288,3 +288,8 @@ repositories:
     maintainers:
       - email: jeff@billimek.com
         name: Jeff Billimek
+  - name: hmdmph
+    url: https://hmdmph.github.io/helm-charts
+    maintainers:
+      - email: hmdmph@gmail.com
+        name: Manoj Prasanna Handapangoda
