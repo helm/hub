@@ -1,4 +1,4 @@
-version: 2
+version: 2.1
 jobs:
   deploy:
     docker:
@@ -43,10 +43,8 @@ jobs:
             else
               echo "No upgrade necessary. No config changes detected"
             fi
-
 orbs:
   compare-url: iynere/compare-url@0.4.10
-version: 2.1
 workflows:
   version: 2
   merge-master:
