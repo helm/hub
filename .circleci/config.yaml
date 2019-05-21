@@ -13,19 +13,40 @@ jobs:
     steps:
       - run:
           name: Authenticate to cluster
+          shell: /bin/sh -eo pipefail
           command: |
             az login --service-principal -u $SERVICE_PRINCIPAL_ID -p $SERVICE_PRINCIPAL_PASS -t $SERVICE_TENANT_ID
             az aks get-credentials -n $CLUSTER_NAME -g $RESOURCE_GROUP
       - checkout
+      - compare-url/reconstruct
       - run:
           name: Upgrade/install Monocular Helm chart with any Hub changed values
+          shell: /bin/sh -eo pipefail
           command: |
-            export MONGODB_ROOT_PASSWORD=$(kubectl get secret --namespace helm-hub helm-hub-mongodb -o jsonpath="{.data.mongodb-root-password}" | base64 -d)
-            helm init --client-only
-            helm repo add monocular https://helm.github.io/monocular
-            helm repo update
-            helm upgrade --install helm-hub monocular/monocular --version $CHART_VERSION --namespace helm-hub --set mongodb.mongodbRootPassword=$MONGODB_ROOT_PASSWORD -f config/helm-hub-values.yaml -f config/repo-values.yaml
+            CIRCLE_COMPARE_URL=$(cat CIRCLE_COMPARE_URL.txt)
+            COMMIT_RANGE=$(echo $CIRCLE_COMPARE_URL | sed 's:^.*/compare/::g')
+            echo "Commit range: $COMMIT_RANGE"
 
+            for config in config/helm-hub-values.yaml config/repo-values.yaml repos.yaml; do
+              if [[ $(git diff $COMMIT_RANGE --name-status | grep "$config") ]]; then
+                export CONFIG_UPDATED="$config $CONFIG_UPDATED"
+              fi
+            done
+
+            if [ -n "$CONFIG_UPDATED" ]; then
+              echo "Config changes detected: $CONFIG_UPDATED"
+              export MONGODB_ROOT_PASSWORD=$(kubectl get secret --namespace helm-hub helm-hub-mongodb -o jsonpath="{.data.mongodb-root-password}" | base64 -d)
+              helm init --client-only
+              helm repo add monocular https://helm.github.io/monocular
+              helm repo update
+              helm upgrade --install helm-hub monocular/monocular --version $CHART_VERSION --namespace helm-hub --set mongodb.mongodbRootPassword=$MONGODB_ROOT_PASSWORD -f config/helm-hub-values.yaml -f config/repo-values.yaml
+            else
+              echo "No upgrade necessary. No config changes detected"
+            fi
+
+orbs:
+  compare-url: iynere/compare-url@0.4.10
+version: 2.1
 workflows:
   version: 2
   merge-master:
