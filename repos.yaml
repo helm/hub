@@ -28,6 +28,13 @@ repositories:
     maintainers:
       - email: devops@jfrog.com
         name: jfrog
+  - name: kremers
+    url: https://github.com/kremers/charts-vmware-exporter
+    maintainers:
+      - name: kremers
+        email: info@martinkremers.de
+      - name: pryorda
+        email: daniel@pryorda.net
   - name: rimusz
     url: https://charts.rimusz.net
     maintainers:
