@@ -18,6 +18,9 @@ jobs:
             az login --service-principal -u $SERVICE_PRINCIPAL_ID -p $SERVICE_PRINCIPAL_PASS -t $SERVICE_TENANT_ID
             az aks get-credentials -n $CLUSTER_NAME -g $RESOURCE_GROUP
       - checkout
+      - run:
+          name: Install compare-url dependencies
+          command: apk add --no-cache curl git
       - compare-url/reconstruct
       - run:
           name: Upgrade/install Monocular Helm chart with any Hub changed values
@@ -28,13 +31,13 @@ jobs:
             echo "Commit range: $COMMIT_RANGE"
 
             for config in config/helm-hub-values.yaml config/repo-values.yaml repos.yaml; do
-              if [[ $(git diff $COMMIT_RANGE --name-status | grep "$config") ]]; then
-                export CONFIG_UPDATED="$config $CONFIG_UPDATED"
+              if git diff $COMMIT_RANGE --name-status | grep "$config" >/dev/null; then
+                echo "Config file changed: $config"
+                export CONFIG_UPDATED=true
               fi
             done
 
             if [ -n "$CONFIG_UPDATED" ]; then
-              echo "Config changes detected: $CONFIG_UPDATED"
               export MONGODB_ROOT_PASSWORD=$(kubectl get secret --namespace helm-hub helm-hub-mongodb -o jsonpath="{.data.mongodb-root-password}" | base64 -d)
               helm init --client-only
               helm repo add monocular https://helm.github.io/monocular
