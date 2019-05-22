@@ -115,3 +115,5 @@ sync:
       url: https://appdynamics.github.io/appdynamics-charts
     - name: billimek
       url: https://billimek.com/billimek-charts/
+    - name: sstarcher
+      url: https://shanestarcher.com/helm-charts/
