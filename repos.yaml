@@ -266,6 +266,11 @@ repositories:
     maintainers:
       - email: kerkhove.tom@gmail.com
         name: Tom Kerkhove
+  - name: hmdmph
+    url: https://hmdmph.github.io/helm-charts
+    maintainers:
+      - email: hmdmph@gmail.com
+        name: Manoj Prasanna Handapangoda
   - name: mtls
     url: https://drgrove.github.io/charts
     maintainers:
