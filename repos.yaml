@@ -28,6 +28,13 @@ repositories:
     maintainers:
       - email: devops@jfrog.com
         name: jfrog
+  - name: kremers
+    url: https://kremers.github.io
+    maintainers:
+      - name: kremers
+        email: info@martinkremers.de
+      - name: pryorda
+        email: daniel@pryorda.net
   - name: rimusz
     url: https://charts.rimusz.net
     maintainers:
@@ -266,6 +273,11 @@ repositories:
     maintainers:
       - email: kerkhove.tom@gmail.com
         name: Tom Kerkhove
+  - name: kir4h
+    url: https://kir4h.github.io/charts
+    maintainers:
+      - name: Andres Alvarez 
+        email: kir4h.gh@gmail.com
   - name: hmdmph
     url: https://hmdmph.github.io/helm-charts
     maintainers:
@@ -298,3 +310,8 @@ repositories:
     maintainers:
       - email: shane.starcher@gmail.com
         name: Shane Starcher
+  - name: lifen
+    url: https://honestica.github.io/lifen-charts/
+    maintainers:
+      - email: matthieu.paret@lifen.fr
+        name: Matthieu Paret
