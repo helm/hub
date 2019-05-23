@@ -28,6 +28,13 @@ repositories:
     maintainers:
       - email: devops@jfrog.com
         name: jfrog
+  - name: kremers
+    url: https://kremers.github.io
+    maintainers:
+      - name: kremers
+        email: info@martinkremers.de
+      - name: pryorda
+        email: daniel@pryorda.net
   - name: rimusz
     url: https://charts.rimusz.net
     maintainers:
@@ -221,7 +228,7 @@ repositories:
   - name: okgolove
     url: https://okgolove.github.io/helm-charts
     maintainers:
-      - email: okgolove@markeloff.net 
+      - email: okgolove@markeloff.net
   - name: dhiatn
     url: https://dhiatn.github.io/helm-kafka-topics-ui
     maintainers:
@@ -233,7 +240,7 @@ repositories:
   - name: funkypenguin
     url: https://funkypenguin.github.io/helm-charts
     maintainers:
-      - email: helm-charts@funkypenguin.co.nz      
+      - email: helm-charts@funkypenguin.co.nz
   - name: mattermost
     url: https://helm.mattermost.com
     maintainers:
@@ -266,6 +273,11 @@ repositories:
     maintainers:
       - email: kerkhove.tom@gmail.com
         name: Tom Kerkhove
+  - name: kir4h
+    url: https://kir4h.github.io/charts
+    maintainers:
+      - name: Andres Alvarez 
+        email: kir4h.gh@gmail.com
   - name: hmdmph
     url: https://hmdmph.github.io/helm-charts
     maintainers:
