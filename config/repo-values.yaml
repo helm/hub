@@ -119,3 +119,5 @@ sync:
       url: https://appdynamics.github.io/appdynamics-charts
     - name: billimek
       url: https://billimek.com/billimek-charts/
+    - name: lifen
+      url: https://honestica.github.io/lifen-charts/
