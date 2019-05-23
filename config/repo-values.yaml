@@ -105,6 +105,8 @@ sync:
       url: https://charts.zentainer.app
     - name: promitor
       url: https://promitor.azurecr.io/helm/v1/repo
+    - name: kir4h
+      url: https://kir4h.github.io/charts
     - name: hmdmph
       url: https://hmdmph.github.io/helm-charts
     - name: drgrove
