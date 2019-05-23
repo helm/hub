@@ -29,7 +29,7 @@ repositories:
       - email: devops@jfrog.com
         name: jfrog
   - name: kremers
-    url: https://github.com/kremers/charts-vmware-exporter
+    url: https://kremers.github.io
     maintainers:
       - name: kremers
         email: info@martinkremers.de
