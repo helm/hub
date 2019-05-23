@@ -12,6 +12,8 @@ sync:
       url: https://kubernetes-charts-incubator.storage.googleapis.com
     - name: jfrog
       url: https://charts.jfrog.io
+    - name: kremers
+      url: https://kremers.github.io
     - name: rimusz
       url: https://charts.rimusz.net
     - name: buildkite
