@@ -294,7 +294,7 @@ repositories:
       - email: jeff@billimek.com
         name: Jeff Billimek
   - name: lifen
-    url: https://github.com/honestica/lifen-charts
+    url: https://honestica.github.io/lifen-charts/
     maintainers:
       - email: matthieu.paret@lifen.fr
         name: Matthieu Paret
