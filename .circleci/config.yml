@@ -4,7 +4,7 @@ jobs:
     docker:
       # Upgrade the Dockerfile and push image when the hub az cluster tiller
       # version upgrades.
-      - image: quay.io/helmpack/kubectl-helm-az:0.1.0
+      - image: quay.io/helmpack/kubectl-helm-az:0.1.1
         # Don't automatically upgrade the Hub monocular chart version for each
         # new helm/monocular release. Instead assume we'll need testing, and
         # set the version manually here.
