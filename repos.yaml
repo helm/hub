@@ -11,7 +11,7 @@
 #        email: foo@example.com
 #
 # Note, for the email address it is acceptable to have a mailing list for a team
-# because projects often have multiple people who may rotate.
+# because projects often have multiple people who may rotate on the team.
 repositories:
   - name: stable
     url: https://kubernetes-charts.storage.googleapis.com
