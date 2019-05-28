@@ -9,7 +9,7 @@ jobs:
         # new helm/monocular release. Instead assume we'll need testing, and
         # set the version manually here.
         environment:
-          CHART_VERSION: 1.4.4
+          CHART_VERSION: 1.4.6
     steps:
       - run:
           name: Authenticate to cluster
