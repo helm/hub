@@ -16,7 +16,7 @@ ingress:
   ##
   annotations:
     ## Nginx ingress controller (default)
-    nginx.ingress.kubernetes.io/rewrite-target: /
+    nginx.ingress.kubernetes.io/rewrite-target: /$1
     kubernetes.io/ingress.class: nginx
     certmanager.k8s.io/cluster-issuer: letsencrypt-prod
 
