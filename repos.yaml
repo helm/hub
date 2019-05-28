@@ -310,3 +310,8 @@ repositories:
     maintainers:
       - email: ahmels@microsoft.com
         name: Ahmed ElSayed
+  - name: opsdroid
+    url: https://helm.opsdroid.dev/
+    maintainers:
+      - email: jacob@tomlinson.email
+        name: Jacob Tomlinson
