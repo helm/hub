@@ -310,3 +310,12 @@ repositories:
     maintainers:
       - email: ahmels@microsoft.com
         name: Ahmed ElSayed
+  - name: seldon
+    url: https://storage.googleapis.com/seldon-charts
+    maintainers:
+      - email: cc@seldon.io
+        name: Clive Cox
+      - email: gs@seldon.io
+        name: Gurminder Sunner
+      - email: rd@seldon.io
+        name: Ryan Dawson
