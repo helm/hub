@@ -305,6 +305,11 @@ repositories:
     maintainers:
       - email: jeff@billimek.com
         name: Jeff Billimek
+  - name: choerodon
+    url: https://openchart.choerodon.com.cn/choerodon/c7n
+    maintainers:
+      - email: dong@wenqi.us
+        name: Vink Dong
   - name: kedacore
     url: https://kedacore.azureedge.net/helm
     maintainers:
