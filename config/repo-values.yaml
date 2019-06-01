@@ -121,3 +121,5 @@ sync:
       url: https://billimek.com/billimek-charts/
     - name: kedacore
       url: https://kedacore.azureedge.net/helm
+    - name: gkarthiks
+      url: https://gkarthiks.github.io/helm-charts

@@ -310,3 +310,8 @@ repositories:
     maintainers:
       - email: ahmels@microsoft.com
         name: Ahmed ElSayed
+  - name: gkarthiks
+    url: https://gkarthiks.github.io/helm-charts
+    maintainers:
+      - email: github.gkarthiks@gmail.com
+        name: Karthikeyan Govindaraj
