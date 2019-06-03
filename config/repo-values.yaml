@@ -119,7 +119,11 @@ sync:
       url: https://appdynamics.github.io/appdynamics-charts
     - name: billimek
       url: https://billimek.com/billimek-charts/
+    - name: choerodon
+      url: https://openchart.choerodon.com.cn/choerodon/c7n
     - name: kedacore
       url: https://kedacore.azureedge.net/helm
     - name: gkarthiks
       url: https://gkarthiks.github.io/helm-charts
+    - name: opsdroid
+      url: https://helm.opsdroid.dev/
