@@ -325,3 +325,8 @@ repositories:
     maintainers:
       - email: jacob@tomlinson.email
         name: Jacob Tomlinson
+  - name: privatebin
+    url: https://privatebin.github.io/helm-chart/
+    maintainers:
+      - email: support@privatebin.org
+        name: PrivateBin maintainers
