@@ -131,3 +131,5 @@ sync:
       url: https://helm.opsdroid.dev/
     - name: privatebin
       url: https://privatebin.github.io/helm-chart/
+    - name: gresearch
+      url: https://g-research.github.io/charts/

@@ -339,3 +339,8 @@ repositories:
     maintainers:
       - email: support@privatebin.org
         name: PrivateBin maintainers
+  - name: gresearch
+    url: https://g-research.github.io/charts/
+    maintainers:
+      - email: g.research.oss@gmail.com
+        name: G-Research Open Source Developers
