@@ -123,6 +123,8 @@ sync:
       url: https://openchart.choerodon.com.cn/choerodon/c7n
     - name: kedacore
       url: https://kedacore.azureedge.net/helm
+    - name: seldon
+      url: https://storage.googleapis.com/seldon-charts
     - name: gkarthiks
       url: https://gkarthiks.github.io/helm-charts
     - name: opsdroid
