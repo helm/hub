@@ -344,3 +344,8 @@ repositories:
     maintainers:
       - email: g.research.oss@gmail.com
         name: G-Research Open Source Developers
+  - name: smallstep
+    url: https://smallstep.github.io/helm-charts/
+    mainteiners:
+      - email: techadmin@smallstep.com
+        name: Smallstep Open Source Developers
