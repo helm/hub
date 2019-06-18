@@ -349,3 +349,10 @@ repositories:
     mainteiners:
       - email: techadmin@smallstep.com
         name: Smallstep Open Source Developers
+  - name: volcano
+    url: https://volcano-sh.github.io/charts/
+    maintainers:
+      - email: klaus1982.cn@gmail.com
+        name: k82cn
+      - email: kevinwzf0126@gmail.com
+        name: kevin-wangzefeng
