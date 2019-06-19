@@ -135,3 +135,5 @@ sync:
       url: https://g-research.github.io/charts/
     - name: smallstep
       url: https://smallstep.github.io/helm-charts/
+    - name: smallstep
+      url: https://k8s.ory.sh/helm/charts
