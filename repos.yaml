@@ -350,7 +350,7 @@ repositories:
       - email: techadmin@smallstep.com
         name: Smallstep Open Source Developers
   - name: ory
-    url: https://k8s.ory.sh/helm
+    url: https://k8s.ory.sh/helm/charts
     maintainers:
       - name: ORY Maintainers
         email: hi@ory.sh
