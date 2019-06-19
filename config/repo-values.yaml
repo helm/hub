@@ -137,3 +137,5 @@ sync:
       url: https://smallstep.github.io/helm-charts/
     - name: volcano
       url: https://volcano-sh.github.io/charts/
+    - name: smallstep
+      url: https://k8s.ory.sh/helm/charts
