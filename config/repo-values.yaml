@@ -141,3 +141,5 @@ sync:
       url: https://k8s.ory.sh/helm/charts
     - name: cetic
       url: https://cetic.github.io/helm-charts
+    - name: lifen
+      url: https://honestica.github.io/lifen-charts
