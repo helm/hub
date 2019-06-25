@@ -368,3 +368,13 @@ repositories:
         name: alexnuttinck
       - email: sebastien.dupont@cetic.be
         name: banzo
+  - name: sstarcher
+    url: https://shanestarcher.com/helm-charts/
+    maintainers:
+      - email: shane.starcher@gmail.com
+        name: Shane Starcher
+  - name: lifen
+    url: https://honestica.github.io/lifen-charts/
+    maintainers:
+      - email: matthieu.paret@lifen.fr
+        name: Matthieu Paret
