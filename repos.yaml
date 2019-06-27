@@ -375,3 +375,13 @@ repositories:
         name: Senthil Maruthaiappan
       - email: qamatic@gmail.com
         name: QAMatic Team
+  - name: sstarcher
+    url: https://shanestarcher.com/helm-charts/
+    maintainers:
+      - email: shane.starcher@gmail.com
+        name: Shane Starcher
+  - name: lifen
+    url: https://honestica.github.io/lifen-charts/
+    maintainers:
+      - email: matthieu.paret@lifen.fr
+        name: Matthieu Paret

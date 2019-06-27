@@ -137,9 +137,13 @@ sync:
       url: https://smallstep.github.io/helm-charts/
     - name: volcano
       url: https://volcano-sh.github.io/charts/
-    - name: smallstep
+    - name: ory
       url: https://k8s.ory.sh/helm/charts
     - name: cetic
       url: https://cetic.github.io/helm-charts
     - name: qamatic
       url: https://qamatic.github.io/charts
+    - name: sstarcher
+      url: https://shanestarcher.com/helm-charts/
+    - name: lifen
+      url: https://honestica.github.io/lifen-charts/
