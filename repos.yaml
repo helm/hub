@@ -368,6 +368,13 @@ repositories:
         name: alexnuttinck
       - email: sebastien.dupont@cetic.be
         name: banzo
+  - name: qamatic
+    url: https://qamatic.github.io/charts
+    maintainers:
+      - email: senips@gmail.com
+        name: Senthil Maruthaiappan
+      - email: qamatic@gmail.com
+        name: QAMatic Team
   - name: sstarcher
     url: https://shanestarcher.com/helm-charts/
     maintainers:

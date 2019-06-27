@@ -141,6 +141,8 @@ sync:
       url: https://k8s.ory.sh/helm/charts
     - name: cetic
       url: https://cetic.github.io/helm-charts
+    - name: qamatic
+      url: https://qamatic.github.io/charts
     - name: sstarcher
       url: https://shanestarcher.com/helm-charts/
     - name: lifen
