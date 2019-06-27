@@ -276,7 +276,7 @@ repositories:
   - name: kir4h
     url: https://kir4h.github.io/charts
     maintainers:
-      - name: Andres Alvarez 
+      - name: Andres Alvarez
         email: kir4h.gh@gmail.com
   - name: hmdmph
     url: https://hmdmph.github.io/helm-charts
@@ -385,3 +385,10 @@ repositories:
     maintainers:
       - email: matthieu.paret@lifen.fr
         name: Matthieu Paret
+  - name: owkin
+    url: https://owkin.github.io/charts
+    maintainers:
+      - email: devops@owkin.com
+        name: Owkin DevOps
+      - email: clement.gauter@owkin.com
+        name: Clément Gautier

@@ -147,3 +147,5 @@ sync:
       url: https://shanestarcher.com/helm-charts/
     - name: lifen
       url: https://honestica.github.io/lifen-charts/
+    - name: owkin
+      url: https://owkin.github.io/charts
