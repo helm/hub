@@ -392,3 +392,8 @@ repositories:
         name: Owkin DevOps
       - email: clement.gauter@owkin.com
         name: Clément Gautier
+  - name: simplyzee
+    url: https://charts.simplyzee.dev/
+    maintainers:
+      - email: zeieshanahmed@icloud.com
+        name: Zee Ahmed
