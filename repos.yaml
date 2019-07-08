@@ -392,3 +392,10 @@ repositories:
         name: Owkin DevOps
       - email: clement.gauter@owkin.com
         name: Clément Gautier
+  - name: mirusresearch
+    url: https://mirusresearch.github.io/charts/
+    maintainers:
+      - email: alec@mirusresearch.com
+        name: Alec Troemel
+      - email: don@mirusresearch.com
+        name: Don Spaulding

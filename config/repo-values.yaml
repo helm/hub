@@ -149,3 +149,5 @@ sync:
       url: https://honestica.github.io/lifen-charts/
     - name: owkin
       url: https://owkin.github.io/charts
+    - name: mirusresearch
+      url: https://mirusresearch.github.io/charts/
