@@ -151,3 +151,5 @@ sync:
       url: https://owkin.github.io/charts
     - name: simplyzee
       url: https://charts.simplyzee.dev/
+    - name: mirusresearch
+      url: https://mirusresearch.github.io/charts/

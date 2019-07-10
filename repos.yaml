@@ -397,3 +397,10 @@ repositories:
     maintainers:
       - email: zeieshanahmed@icloud.com
         name: Zee Ahmed
+  - name: mirusresearch
+    url: https://mirusresearch.github.io/charts/
+    maintainers:
+      - email: alec@mirusresearch.com
+        name: Alec Troemel
+      - email: don@mirusresearch.com
+        name: Don Spaulding
