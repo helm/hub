@@ -26,8 +26,8 @@ sync:
       url: https://charts.gitlab.io/
     - name: bitnami
       url: https://charts.bitnami.com
-    - name: weave-flux
-      url: https://weaveworks.github.io/flux/
+    - name: fluxcd
+      url: https://charts.fluxcd.io
     - name: jetstack
       url: https://charts.jetstack.io
     - name: ibm-charts
