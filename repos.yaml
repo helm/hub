@@ -404,3 +404,10 @@ repositories:
         name: Alec Troemel
       - email: don@mirusresearch.com
         name: Don Spaulding
+  - name: forseti-security
+    url: https://forseti-security-charts.storage.googleapis.com/release/
+    maintainers:
+      - email: kdevensen@forsetisecurity.org
+        name: Ken Evensen
+      - email: shinhannah@forsetisecurity.org
+        name: Hannah Shin

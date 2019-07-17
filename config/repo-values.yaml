@@ -153,3 +153,5 @@ sync:
       url: https://charts.simplyzee.dev/
     - name: mirusresearch
       url: https://mirusresearch.github.io/charts/
+    - name: forseti-security
+      url: https://forseti-security-charts.storage.googleapis.com/release/
