@@ -414,7 +414,5 @@ repositories:
   - name: t3n
     url: https://storage.googleapis.com/t3n-helm-charts
     maintainers:
-      - email: alec@mirusresearch.com
-        name: Alec Troemel
-      - email: don@mirusresearch.com
-        name: Don Spaulding
+      - email: max.schmidt@t3n.de
+        name: mschmidt291
