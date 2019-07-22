@@ -411,3 +411,10 @@ repositories:
         name: Ken Evensen
       - email: shinhannah@forsetisecurity.org
         name: Hannah Shin
+  - name: t3n
+    url: https://storage.googleapis.com/t3n-helm-charts
+    maintainers:
+      - email: alec@mirusresearch.com
+        name: Alec Troemel
+      - email: don@mirusresearch.com
+        name: Don Spaulding
