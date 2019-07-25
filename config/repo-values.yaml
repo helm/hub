@@ -64,8 +64,8 @@ sync:
       url: https://pnnl-miscscripts.github.io/charts
     - name: ceph-csi
       url: https://ceph.github.io/csi-charts
-    - name: reactiveops-stable
-      url: https://charts.reactiveops.com/stable
+    - name: fairwinds-stable
+      url: https://charts.fairwinds.com/stable
     - name: yourls
       url: https://charts.yourls.org
     - name: hazelcast
