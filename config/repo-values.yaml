@@ -64,8 +64,8 @@ sync:
       url: https://pnnl-miscscripts.github.io/charts
     - name: ceph-csi
       url: https://ceph.github.io/csi-charts
-    - name: reactiveops-stable
-      url: https://charts.reactiveops.com/stable
+    - name: fairwinds-stable
+      url: https://charts.fairwinds.com/stable
     - name: yourls
       url: https://charts.yourls.org
     - name: hazelcast
@@ -157,3 +157,5 @@ sync:
       url: https://forseti-security-charts.storage.googleapis.com/release/
     - name: hue
       url: https://helm.gethue.com
+    - name: t3n
+      url: https://storage.googleapis.com/t3n-helm-charts

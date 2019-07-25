@@ -174,11 +174,11 @@ repositories:
     maintainers:
       - email: ceph-devel@vger.kernel.org
         name: Ceph Developers
-  - name: reactiveops-stable
-    url: https://charts.reactiveops.com/stable
+  - name: fairwinds-stable
+    url: https://charts.fairwinds.com/stable
     maintainers:
-      - email: chart-maintainers@reactiveops.com
-        name: Chart Maintainers
+      - email: chart-maintainers@fairwinds.com
+        name: Fairwinds Chart Maintainers
   - name: yourls
     url: https://charts.yourls.org
     maintainers:
@@ -418,3 +418,8 @@ repositories:
         name: Romain Rigaux
       - email: team@gethue.com
         name: Hue Team
+  - name: t3n
+    url: https://storage.googleapis.com/t3n-helm-charts
+    maintainers:
+      - email: max.schmidt@t3n.de
+        name: mschmidt291
