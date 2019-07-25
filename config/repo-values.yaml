@@ -155,3 +155,5 @@ sync:
       url: https://mirusresearch.github.io/charts/
     - name: forseti-security
       url: https://forseti-security-charts.storage.googleapis.com/release/
+    - name: t3n
+      url: https://storage.googleapis.com/t3n-helm-charts
