@@ -35,6 +35,10 @@ Hub itself.
 Contributions to the process happen in this repository while the software powering
 the Hub is [Monocular](https://github.com/helm/monocular), a Helm project.
 
+## Happy helming in China
+
+ If you are in China, you will experience problems with some Helm repositories and the images they use not being accessible (e.g., gcr.io). You can use a mirror hub at https://developer.aliyun.com/hub which will automatically sync & replace unavailable images & repository URLs in every Chart with locations accessible in China.
+
 ## License
 
 The following licenses used:
