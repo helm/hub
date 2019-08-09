@@ -423,3 +423,10 @@ repositories:
     maintainers:
       - email: max.schmidt@t3n.de
         name: mschmidt291
+  - name: architectminds
+    url: https://architectminds.github.io/helm-charts/
+    maintainers:
+      - email: meena.kerolos+architectminds@gmail.com
+        name: Meena Alfons
+      - email: me@meenaalfons.com
+        name: Meena Alfons
