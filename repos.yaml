@@ -430,3 +430,22 @@ repositories:
         name: Steven Acreman
       - email: gamunu.balagalla@outlook.com
         name: Gamunu Balagalla
+  - name: snl-charts
+    url: https://snebel29.github.io/snl-charts
+    maintainers:
+      - email: nebel.sven@gmail.com
+        name: Sven Nebel
+  - name: crowdfox
+    url: https://crowdfoxgmbh.github.io/cfcharts
+    maintainers:
+      - email: dev-ops@crowdfox.com
+        name: Crowdfox Team
+      - email: alwin@atk-solutions.de
+        name: Alwin Mark
+  - name: architectminds
+    url: https://architectminds.github.io/helm-charts/
+    maintainers:
+      - email: meena.kerolos+architectminds@gmail.com
+        name: Meena Alfons
+      - email: me@meenaalfons.com
+        name: Meena Alfons
