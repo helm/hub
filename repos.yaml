@@ -423,6 +423,13 @@ repositories:
     maintainers:
       - email: max.schmidt@t3n.de
         name: mschmidt291
+  - name: crowdfox
+    url: https://crowdfoxgmbh.github.io/cfcharts
+    maintainers:
+      - email: dev-ops@crowdfox.com
+        name: Crowdfox Team
+      - email: alwin@atk-solutions.de
+        name: Alwin Mark
   - name: architectminds
     url: https://architectminds.github.io/helm-charts/
     maintainers:
