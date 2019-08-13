@@ -423,6 +423,11 @@ repositories:
     maintainers:
       - email: max.schmidt@t3n.de
         name: mschmidt291
+  - name: snl-charts
+    url: https://snebel29.github.io/snl-charts
+    maintainers:
+      - email: nebel.sven@gmail.com
+        name: Sven Nebel
   - name: crowdfox
     url: https://crowdfoxgmbh.github.io/cfcharts
     maintainers:

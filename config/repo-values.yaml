@@ -159,6 +159,8 @@ sync:
       url: https://helm.gethue.com
     - name: t3n
       url: https://storage.googleapis.com/t3n-helm-charts
+    - name: snl-charts
+      url: https://snebel29.github.io/snl-charts
     - name: crowdfox
       url: https://crowdfoxgmbh.github.io/cfcharts
     - name: architectminds
