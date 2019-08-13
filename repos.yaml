@@ -423,6 +423,13 @@ repositories:
     maintainers:
       - email: max.schmidt@t3n.de
         name: mschmidt291
+  - name: kubedex
+    url: https://kubedex.github.io/charts
+    maintainers:
+      - email: sacreman@gmail.com
+        name: Steven Acreman
+      - email: gamunu.balagalla@outlook.com
+        name: Gamunu Balagalla
   - name: snl-charts
     url: https://snebel29.github.io/snl-charts
     maintainers:
