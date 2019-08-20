@@ -167,3 +167,5 @@ sync:
       url: https://crowdfoxgmbh.github.io/cfcharts
     - name: architectminds
       url: https://architectminds.github.io/helm-charts/
+    - name: uswitch
+      url: https://uswitch.github.io/kiam-helm-charts/charts/
