@@ -449,3 +449,8 @@ repositories:
         name: Meena Alfons
       - email: me@meenaalfons.com
         name: Meena Alfons
+  - name: uswitch
+    url: https://uswitch.github.io/kiam-helm-charts/charts/
+    maintainers:
+      - email: cloud@uswitch.com
+        name: uSwitch Infrastructure Team
