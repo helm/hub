@@ -3,6 +3,7 @@
 #
 # Every repo listed here MUST have a corresponding entry in the repos.yaml at
 # the root of this source repository with the exception of the Helm hosted ones.
+# The name and URL between both files must be the same.
 sync:
   repos:
     # Helm hosted repositories
