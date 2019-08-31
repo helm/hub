@@ -454,3 +454,8 @@ repositories:
     maintainers:
       - email: cloud@uswitch.com
         name: uSwitch Infrastructure Team
+  - name: aerospike
+    url: https://aerospike.github.io/aerospike-kubernetes-enterprise
+    maintainers:
+      - email: support@aerospike.com
+        name: Aerospike Team
