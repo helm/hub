@@ -454,3 +454,8 @@ repositories:
     maintainers:
       - email: cloud@uswitch.com
         name: uSwitch Infrastructure Team
+  - name:
+    url: https://pfisterer.github.io/apache-knox-helm/
+    maintainers:
+      - email: github@farberg.de
+        name: Dennis Pfisterer
