@@ -170,3 +170,5 @@ sync:
       url: https://architectminds.github.io/helm-charts/
     - name: uswitch
       url: https://uswitch.github.io/kiam-helm-charts/charts/
+    - name: kubernetes-external-secrets
+      url: https://godaddy.github.io/kubernetes-external-secrets/

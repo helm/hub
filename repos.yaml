@@ -454,3 +454,10 @@ repositories:
     maintainers:
       - email: cloud@uswitch.com
         name: uSwitch Infrastructure Team
+  - name: kubernetes-external-secrets
+    url: https://godaddy.github.io/kubernetes-external-secrets/
+    maintainers:
+      - email: jxpearce@godaddy.com
+        name: jeffpearce
+      - email: klu6@godaddy.com
+        name: keweilu
