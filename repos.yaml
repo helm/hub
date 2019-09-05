@@ -454,6 +454,11 @@ repositories:
     maintainers:
       - email: cloud@uswitch.com
         name: uSwitch Infrastructure Team
+  - name: pfisterer-knox
+    url: https://pfisterer.github.io/apache-knox-helm/
+    maintainers:
+      - email: github@farberg.de
+        name: Dennis Pfisterer
   - name: aerospike
     url: https://aerospike.github.io/aerospike-kubernetes-enterprise
     maintainers:
