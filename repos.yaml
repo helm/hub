@@ -461,3 +461,13 @@ repositories:
         name: jeffpearce
       - email: klu6@godaddy.com
         name: keweilu
+  - name: pfisterer-knox
+    url: https://pfisterer.github.io/apache-knox-helm/
+    maintainers:
+      - email: github@farberg.de
+        name: Dennis Pfisterer
+  - name: aerospike
+    url: https://aerospike.github.io/aerospike-kubernetes-enterprise
+    maintainers:
+      - email: support@aerospike.com
+        name: Aerospike Team

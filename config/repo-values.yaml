@@ -172,3 +172,7 @@ sync:
       url: https://uswitch.github.io/kiam-helm-charts/charts/
     - name: kubernetes-external-secrets
       url: https://godaddy.github.io/kubernetes-external-secrets/
+    - name: pfisterer-knox
+      url: https://pfisterer.github.io/apache-knox-helm/
+    - name: aerospike
+      url: https://aerospike.github.io/aerospike-kubernetes-enterprise
