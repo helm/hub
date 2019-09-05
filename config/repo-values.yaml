@@ -170,3 +170,5 @@ sync:
       url: https://architectminds.github.io/helm-charts/
     - name: uswitch
       url: https://uswitch.github.io/kiam-helm-charts/charts/
+    - name: aerospike
+      url: https://aerospike.github.io/aerospike-kubernetes-enterprise
