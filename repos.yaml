@@ -459,3 +459,8 @@ repositories:
     maintainers:
       - email: github@farberg.de
         name: Dennis Pfisterer
+  - name: aerospike
+    url: https://aerospike.github.io/aerospike-kubernetes-enterprise
+    maintainers:
+      - email: support@aerospike.com
+        name: Aerospike Team

@@ -172,3 +172,5 @@ sync:
       url: https://uswitch.github.io/kiam-helm-charts/charts/
     - name: pfisterer-knox
       url: https://pfisterer.github.io/apache-knox-helm/
+    - name: aerospike
+      url: https://aerospike.github.io/aerospike-kubernetes-enterprise
