@@ -454,13 +454,16 @@ repositories:
     maintainers:
       - email: cloud@uswitch.com
         name: uSwitch Infrastructure Team
-  - name: kubernetes-external-secrets
-    url: https://godaddy.github.io/kubernetes-external-secrets/
-    maintainers:
-      - email: jxpearce@godaddy.com
-        name: jeffpearce
-      - email: klu6@godaddy.com
-        name: keweilu
+  # The name kubernetes-external-secrets is too long in the current setup.
+  # The length is causing errors. Can we get a shorter name, linting, and a
+  # method to get a longer name? These are all open TODOs.
+  # - name: kubernetes-external-secrets
+  #   url: https://godaddy.github.io/kubernetes-external-secrets/
+  #   maintainers:
+  #     - email: jxpearce@godaddy.com
+  #       name: jeffpearce
+  #     - email: klu6@godaddy.com
+  #       name: keweilu
   - name: pfisterer-knox
     url: https://pfisterer.github.io/apache-knox-helm/
     maintainers:
