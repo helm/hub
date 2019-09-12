@@ -471,3 +471,8 @@ repositories:
     maintainers:
       - email: support@aerospike.com
         name: Aerospike Team
+  - name: mogaal
+    url: https://mogaal.github.io/helm-charts/
+    maintainers:
+      - email: garridomota@gmail.com
+        name: Alejandro Garrido

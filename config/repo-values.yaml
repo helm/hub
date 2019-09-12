@@ -176,3 +176,5 @@ sync:
       url: https://pfisterer.github.io/apache-knox-helm/
     - name: aerospike
       url: https://aerospike.github.io/aerospike-kubernetes-enterprise
+    - name: mogaal
+      url: https://mogaal.github.io/helm-charts/
