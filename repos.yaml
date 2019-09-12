@@ -202,6 +202,11 @@ repositories:
     maintainers:
       - email: priyanka.sharma@citrix.com
       - email: subash.dangol@citrix.com
+  - name: citrix
+    url: https://citrix.github.io/citrix-istio-adaptor/
+    maintainers:
+      - email: dhiraj.gedam@citrix.com
+      - email: subash.dangol@citrix.com
   - name: zooz
     url: https://zooz.github.io/helm/
     maintainers:
