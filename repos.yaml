@@ -65,11 +65,11 @@ repositories:
     maintainers:
       - name: Bitnami
         email: containers@bitnami.com
-  - name: weave-flux
-    url: https://weaveworks.github.io/flux/
+  - name: fluxcd
+    url: https://charts.fluxcd.io
     maintainers:
-      - email: flux@weave.works
-        name: Weave Flux project
+      - email: cncf-flux-support@lists.cncf.io
+        name: Flux project
   - name: jetstack
     url: https://charts.jetstack.io/
     maintainers:
