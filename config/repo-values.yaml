@@ -178,3 +178,5 @@ sync:
       url: https://aerospike.github.io/aerospike-kubernetes-enterprise
     - name: mogaal
       url: https://mogaal.github.io/helm-charts/
+    - name: honeydipper
+      url: https://raw.githubusercontent.com/honeydipper/honeydipper-charts/master/

@@ -476,3 +476,8 @@ repositories:
     maintainers:
       - email: garridomota@gmail.com
         name: Alejandro Garrido
+  - name: honeydipper
+    url: https://raw.githubusercontent.com/honeydipper/honeydipper-charts/master/
+    maintainers:
+      - email: huangc.cd@gmail.com
+        name: Charles Huang
