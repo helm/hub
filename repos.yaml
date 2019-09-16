@@ -476,3 +476,8 @@ repositories:
     maintainers:
       - email: garridomota@gmail.com
         name: Alejandro Garrido
+  - name: adwerx
+    url: https://adwerx.github.io/charts/
+    maintainers:
+      - email: jbielick@adwerx.com
+        name: Josh Bielick
