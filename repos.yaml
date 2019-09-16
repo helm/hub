@@ -481,3 +481,8 @@ repositories:
     maintainers:
       - email: huangc.cd@gmail.com
         name: Charles Huang
+  - name: adwerx
+    url: https://adwerx.github.io/charts/
+    maintainers:
+      - email: jbielick@adwerx.com
+        name: Josh Bielick
