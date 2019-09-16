@@ -178,5 +178,5 @@ sync:
       url: https://aerospike.github.io/aerospike-kubernetes-enterprise
     - name: mogaal
       url: https://mogaal.github.io/helm-charts/
-    - name: argoproj
+    - name: argo
       url: https://argoproj.github.io/argo-helm
