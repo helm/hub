@@ -476,6 +476,11 @@ repositories:
     maintainers:
       - email: garridomota@gmail.com
         name: Alejandro Garrido
+  - name: argo
+    url: https://argoproj.github.io/argo-helm
+    maintainers:
+      - email: alex_collins@intuit.com
+        name: Alex Collins
   - name: honeydipper
     url: https://raw.githubusercontent.com/honeydipper/honeydipper-charts/master/
     maintainers:
