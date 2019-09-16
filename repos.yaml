@@ -476,3 +476,8 @@ repositories:
     maintainers:
       - email: garridomota@gmail.com
         name: Alejandro Garrido
+  - name: argoproj
+    url: https://argoproj.github.io/argo-helm
+    maintainers:
+      - email: alex_collins@intuit.com
+        name: Alex Collins
