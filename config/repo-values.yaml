@@ -180,3 +180,7 @@ sync:
       url: https://mogaal.github.io/helm-charts/
     - name: argo
       url: https://argoproj.github.io/argo-helm
+    - name: honeydipper
+      url: https://raw.githubusercontent.com/honeydipper/honeydipper-charts/master/
+    - name: adwerx
+      url: https://adwerx.github.io/charts/
