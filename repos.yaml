@@ -36,12 +36,12 @@ repositories:
       - name: pryorda
         email: daniel@pryorda.net
   - name: linkerd2
-    url: http://helm.linkerd.io/stable
+    url: https://helm.linkerd.io/stable
     maintainers:
       - name: Linkerd authors
         email: cncf-linkerd-dev@lists.cncf.io
   - name: linkerd2-edge
-    url: http://helm.linkerd.io/edge
+    url: https://helm.linkerd.io/edge
     maintainers:
       - name: Linkerd authors
         email: cncf-linkerd-dev@lists.cncf.io
