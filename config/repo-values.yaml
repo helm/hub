@@ -15,6 +15,10 @@ sync:
       url: https://charts.jfrog.io
     - name: kremers
       url: https://kremers.github.io
+    - name: linkerd2
+      url: https://helm.linkerd.io/stable
+    - name: linkerd2-edge
+      url: https://helm.linkerd.io/edge
     - name: rimusz
       url: https://charts.rimusz.net
     - name: buildkite
