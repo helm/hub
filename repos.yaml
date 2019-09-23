@@ -506,3 +506,8 @@ repositories:
     maintainers:
       - email: jbielick@adwerx.com
         name: Josh Bielick
+  - name: squidex
+    url: https://squidex.github.io/squidex-docker/
+    maintainers:
+      - email: sebasian@squidex.io
+        name: Sebastian Stehle

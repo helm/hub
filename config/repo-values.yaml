@@ -190,3 +190,5 @@ sync:
       url: https://raw.githubusercontent.com/honeydipper/honeydipper-charts/master/
     - name: adwerx
       url: https://adwerx.github.io/charts/
+    - name: squidex
+      url: https://squidex.github.io/squidex-docker/
