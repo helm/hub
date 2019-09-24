@@ -506,7 +506,7 @@ repositories:
     maintainers:
       - email: jbielick@adwerx.com
         name: Josh Bielick
-  - name: hpe-flexvolume-driver
+  - name: hpe-flexvolume
     url: https://hpe-storage.github.io/co-deployments/
     maintainers:
       - email: hpe-containers-dev@hpe.com
