@@ -506,6 +506,11 @@ repositories:
     maintainers:
       - email: jbielick@adwerx.com
         name: Josh Bielick
+  - name: hpe-flexvolume-driver
+    url: https://hpe-storage.github.io/co-deployments/
+    maintainers:
+      - email: hpe-containers-dev@hpe.com
+        name: HPE Containers Dev
   - name: squidex
     url: https://squidex.github.io/squidex-docker/
     maintainers:
