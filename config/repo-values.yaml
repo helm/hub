@@ -192,3 +192,5 @@ sync:
       url: https://adwerx.github.io/charts/
     - name: hpe-flexvolume-driver
       url: https://hpe-storage.github.io/co-deployments/
+    - name: squidex
+      url: https://squidex.github.io/squidex-docker/
