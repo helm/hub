@@ -516,3 +516,8 @@ repositories:
     maintainers:
       - email: sebasian@squidex.io
         name: Sebastian Stehle
+  - name: liwenhe1993
+    url: https://liwenhe1993.github.io/clickhouse-charts/
+    maintainers:
+      - email: 411934049@qq.com
+        name: Wenhe Li
