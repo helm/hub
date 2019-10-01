@@ -194,5 +194,5 @@ sync:
       url: https://hpe-storage.github.io/co-deployments/
     - name: squidex
       url: https://squidex.github.io/squidex-docker/
-    - name: liwenhe1993
-      url: https://liwenhe1993.github.io/clickhouse-charts/
+    - name: liwenhe
+      url: https://liwenhe1993.github.io/charts/
