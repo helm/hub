@@ -521,3 +521,8 @@ repositories:
     maintainers:
       - email: 411934049@qq.com
         name: Wenhe Li
+  - name: Yugabyte
+    url: https://charts.yugabyte.com
+    maintainers:
+      - email: andrew.nelson@yugabyte.com
+        name: Andrew Nelson
