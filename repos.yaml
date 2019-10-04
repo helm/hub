@@ -521,3 +521,8 @@ repositories:
     maintainers:
       - email: 411934049@qq.com
         name: Wenhe Li
+  - name: crate
+    url: https://crate.github.io/helm-charts
+    maintainers:
+      - email: dev.crate@ojford.com
+        name: Oliver Ford
