@@ -198,3 +198,5 @@ sync:
       url: https://liwenhe1993.github.io/charts/
     - name: crate
       url: https://crate.github.io/helm-charts
+    - name: dragonchain
+      url: https://dragonchain-charts.s3.amazonaws.com
