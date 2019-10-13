@@ -526,3 +526,8 @@ repositories:
     maintainers:
       - email: dev.crate@ojford.com
         name: Oliver Ford
+  - name: oxyno-zeta
+    url: https://oxyno-zeta.github.io/helm-charts/stable/
+    maintainers:
+      - email: oxynozeta.oz@gmail.com
+        name: Havrileck Alexandre
