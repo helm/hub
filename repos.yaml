@@ -521,6 +521,11 @@ repositories:
     maintainers:
       - email: 411934049@qq.com
         name: Wenhe Li
+  - name: yugabyte
+    url: https://charts.yugabyte.com
+    maintainers:
+      - email: andrew.nelson@yugabyte.com
+        name: Andrew Nelson
   - name: crate
     url: https://crate.github.io/helm-charts
     maintainers:

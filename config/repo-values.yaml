@@ -196,5 +196,7 @@ sync:
       url: https://squidex.github.io/squidex-docker/
     - name: liwenhe
       url: https://liwenhe1993.github.io/charts/
+    - name: yugabyte
+      url: https://charts.yugabyte.com
     - name: crate
       url: https://crate.github.io/helm-charts
