@@ -526,4 +526,8 @@ repositories:
     maintainers:
       - email: andrew.nelson@yugabyte.com
         name: Andrew Nelson
-
+  - name: crate
+    url: https://crate.github.io/helm-charts
+    maintainers:
+      - email: dev.crate@ojford.com
+        name: Oliver Ford
