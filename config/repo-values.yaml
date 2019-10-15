@@ -77,6 +77,8 @@ sync:
       url: https://hazelcast.github.io/charts/
     - name: nginx
       url: https://helm.nginx.com/stable
+    - name: nginx-edge
+      url: https://helm.nginx.com/edge
     - name: cic
       url: https://citrix.github.io/citrix-k8s-ingress-controller/
     - name: citrix
@@ -196,7 +198,11 @@ sync:
       url: https://squidex.github.io/squidex-docker/
     - name: liwenhe
       url: https://liwenhe1993.github.io/charts/
+    - name: yugabyte
+      url: https://charts.yugabyte.com
     - name: crate
       url: https://crate.github.io/helm-charts
     - name: oxyno-zeta
       url: https://oxyno-zeta.github.io/helm-charts/stable/
+    - name: dragonchain
+      url: https://dragonchain-charts.s3.amazonaws.com

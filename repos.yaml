@@ -207,6 +207,10 @@ repositories:
     url: https://helm.nginx.com/stable
     maintainers:
       - email: kubernetes@nginx.com
+  - name: nginx-edge
+    url: https://helm.nginx.com/edge
+    maintainers:
+      - email: kubernetes@nginx.com
   - name: cic
     url: https://citrix.github.io/citrix-k8s-ingress-controller/
     maintainers:
@@ -521,6 +525,11 @@ repositories:
     maintainers:
       - email: 411934049@qq.com
         name: Wenhe Li
+  - name: yugabyte
+    url: https://charts.yugabyte.com
+    maintainers:
+      - email: andrew.nelson@yugabyte.com
+        name: Andrew Nelson
   - name: crate
     url: https://crate.github.io/helm-charts
     maintainers:
@@ -531,3 +540,10 @@ repositories:
     maintainers:
       - email: oxynozeta.oz@gmail.com
         name: Havrileck Alexandre
+  - name: dragonchain
+    url: https://dragonchain-charts.s3.amazonaws.com
+    maintainers:
+      - email: support@dragonchain.com
+        name: Dragonchain Team
+      - email: adam@dragonchain.com
+        name: Adam Crowder
