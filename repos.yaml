@@ -535,6 +535,11 @@ repositories:
     maintainers:
       - email: dev.crate@ojford.com
         name: Oliver Ford
+  - name: oxyno-zeta
+    url: https://oxyno-zeta.github.io/helm-charts/stable/
+    maintainers:
+      - email: oxynozeta.oz@gmail.com
+        name: Havrileck Alexandre
   - name: dragonchain
     url: https://dragonchain-charts.s3.amazonaws.com
     maintainers:
