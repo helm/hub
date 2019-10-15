@@ -77,6 +77,8 @@ sync:
       url: https://hazelcast.github.io/charts/
     - name: nginx
       url: https://helm.nginx.com/stable
+    - name: nginx-edge
+      url: https://helm.nginx.com/edge
     - name: cic
       url: https://citrix.github.io/citrix-k8s-ingress-controller/
     - name: citrix
