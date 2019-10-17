@@ -206,3 +206,5 @@ sync:
       url: https://oxyno-zeta.github.io/helm-charts/stable/
     - name: dragonchain
       url: https://dragonchain-charts.s3.amazonaws.com
+    - name: couchdb
+      url: https://apache.github.io/couchdb-helm/
