@@ -208,3 +208,5 @@ sync:
       url: https://dragonchain-charts.s3.amazonaws.com
     - name: couchdb
       url: https://apache.github.io/couchdb-helm/
+    - name: substra
+      url: https://substrafoundation.github.io/charts/
