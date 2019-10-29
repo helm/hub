@@ -554,3 +554,14 @@ repositories:
         name: Apache CouchDB Team
       - email: willholley@apache.org
         name: Will Holley
+  - name: dask
+    url: https://helm.dask.org/
+    maintainers:
+      - email: df.rodriguez143@gmail.com
+        name: danielfrg
+      - email: mrocklin@gmail.com
+        name: mrocklin
+      - email: beberg@gmail.com
+        name: beberg
+      - email: jacob@tomlinson.email
+        name: jacobtomlinson
