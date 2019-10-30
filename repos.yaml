@@ -554,3 +554,8 @@ repositories:
         name: Apache CouchDB Team
       - email: willholley@apache.org
         name: Will Holley
+  - name: cryptlex
+    url: https://cryptlex.github.io/helm-charts/
+    maintainers:
+      - email: support@cryptlex.com
+        name: Cryptlex Team
