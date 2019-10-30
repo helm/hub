@@ -214,3 +214,5 @@ sync:
       url: https://substrafoundation.github.io/charts/
     - name: cloudwatch-agent
       url: https://s2504s.github.io/charts/
+    - name: cryptlex
+      url: https://cryptlex.github.io/helm-charts/
