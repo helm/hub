@@ -577,3 +577,8 @@ repositories:
     maintainers:
       - email: s2504s@gmail.com
         name: Sergey Vasilyev
+  - name: cryptlex
+    url: https://cryptlex.github.io/helm-charts/
+    maintainers:
+      - email: support@cryptlex.com
+        name: Cryptlex Team
