@@ -554,3 +554,8 @@ repositories:
         name: Apache CouchDB Team
       - email: willholley@apache.org
         name: Will Holley
+  - name: concourse
+    url: https://concourse.github.io/concourse-chart/
+    maintainers:
+      - email: concourse@pivotal.io
+        name: Concourse Team
