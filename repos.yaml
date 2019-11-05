@@ -561,3 +561,8 @@ repositories:
         name: Clément Gautier
       - email: camille.marini@owkin.com
         name: Camille Marini
+  - name: cloudwatch-agent
+    url: https://s2504s.github.io/charts
+    maintainers:
+      - email: s2504s@gmail.com
+        name: Sergey Vasilyev
