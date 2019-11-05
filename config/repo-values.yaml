@@ -208,6 +208,8 @@ sync:
       url: https://dragonchain-charts.s3.amazonaws.com
     - name: couchdb
       url: https://apache.github.io/couchdb-helm/
+    - name: dask
+      url: https://helm.dask.org/
     - name: substra
       url: https://substrafoundation.github.io/charts/
     - name: cloudwatch-agent
