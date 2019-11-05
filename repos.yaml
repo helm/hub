@@ -559,3 +559,26 @@ repositories:
     maintainers:
       - email: support@cryptlex.com
         name: Cryptlex Team
+  - name: dask
+    url: https://helm.dask.org/
+    maintainers:
+      - email: df.rodriguez143@gmail.com
+        name: danielfrg
+      - email: mrocklin@gmail.com
+        name: mrocklin
+      - email: beberg@gmail.com
+        name: beberg
+      - email: jacob@tomlinson.email
+        name: jacobtomlinson
+  - name: substra
+    url: https://substrafoundation.github.io/charts/
+    maintainers:
+      - email: clement@gauter.im
+        name: Clément Gautier
+      - email: camille.marini@owkin.com
+        name: Camille Marini
+  - name: cloudwatch-agent
+    url: https://s2504s.github.io/charts
+    maintainers:
+      - email: s2504s@gmail.com
+        name: Sergey Vasilyev

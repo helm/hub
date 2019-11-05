@@ -210,3 +210,9 @@ sync:
       url: https://apache.github.io/couchdb-helm/
     - name: cryptlex
       url: https://cryptlex.github.io/helm-charts/
+    - name: dask
+      url: https://helm.dask.org/
+    - name: substra
+      url: https://substrafoundation.github.io/charts/
+    - name: cloudwatch-agent
+      url: https://s2504s.github.io/charts/
