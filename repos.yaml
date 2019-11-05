@@ -554,6 +554,13 @@ repositories:
         name: Apache CouchDB Team
       - email: willholley@apache.org
         name: Will Holley
+  - name: substra
+    url: https://substrafoundation.github.io/charts/
+    maintainers:
+      - email: clement@gauter.im
+        name: Clément Gautier
+      - email: camille.marini@owkin.com
+        name: Camille Marini
   - name: cloudwatch-agent
     url: https://s2504s.github.io/charts
     maintainers:
