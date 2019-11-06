@@ -582,3 +582,8 @@ repositories:
     maintainers:
       - email: support@cryptlex.com
         name: Cryptlex Team
+  - name: cloudbees
+    url: https://charts.cloudbees.com/public/cloudbees
+    maintainers:
+      - email: charts@cloudbees.com
+        name: CloudBees

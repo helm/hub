@@ -216,3 +216,5 @@ sync:
       url: https://s2504s.github.io/charts/
     - name: cryptlex
       url: https://cryptlex.github.io/helm-charts/
+    - name: cloudbees
+      url: https://charts.cloudbees.com/public/cloudbees
