@@ -582,3 +582,8 @@ repositories:
     maintainers:
       - email: s2504s@gmail.com
         name: Sergey Vasilyev
+  - name: cloudbees
+    url: https://charts.cloudbees.com/public/cloudbees
+    maintainers:
+      - email: charts@cloudbees.com
+        name: CloudBees
