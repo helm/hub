@@ -218,3 +218,5 @@ sync:
       url: https://s2504s.github.io/charts/
     - name: cloudbees
       url: https://charts.cloudbees.com/public/cloudbees
+    - name: tomkerkhove
+      url: https://tomkerkhove.azurecr.io/helm/v1/repo
