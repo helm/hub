@@ -208,6 +208,8 @@ sync:
       url: https://dragonchain-charts.s3.amazonaws.com
     - name: couchdb
       url: https://apache.github.io/couchdb-helm/
+    - name: cryptlex
+      url: https://cryptlex.github.io/helm-charts/
     - name: dask
       url: https://helm.dask.org/
     - name: substra
