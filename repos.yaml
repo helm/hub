@@ -587,3 +587,8 @@ repositories:
     maintainers:
       - email: charts@cloudbees.com
         name: CloudBees
+  - name: tomkerkhove
+    url: https://tomkerkhove.azurecr.io/helm/v1/repo
+    maintainers:
+      - email: kerkhove.tom@gmail.com
+        name: Tom Kerkhove
