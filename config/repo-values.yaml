@@ -218,5 +218,7 @@ sync:
       url: https://s2504s.github.io/charts/
     - name: cloudbees
       url: https://charts.cloudbees.com/public/cloudbees
+    - name: concourse
+      url: https://concourse-charts.storage.googleapis.com/
     - name: tomkerkhove
       url: https://tomkerkhove.azurecr.io/helm/v1/repo

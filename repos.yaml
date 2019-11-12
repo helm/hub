@@ -587,6 +587,11 @@ repositories:
     maintainers:
       - email: charts@cloudbees.com
         name: CloudBees
+  - name: concourse
+    url: https://concourse-charts.storage.googleapis.com/
+    maintainers:
+      - email: concourse@pivotal.io
+        name: Pivotal Concourse Team
   - name: tomkerkhove
     url: https://tomkerkhove.azurecr.io/helm/v1/repo
     maintainers:
