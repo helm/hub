@@ -592,3 +592,8 @@ repositories:
     maintainers:
       - email: concourse@pivotal.io
         name: Pivotal Concourse Team
+  - name: tomkerkhove
+    url: https://tomkerkhove.azurecr.io/helm/v1/repo
+    maintainers:
+      - email: kerkhove.tom@gmail.com
+        name: Tom Kerkhove
