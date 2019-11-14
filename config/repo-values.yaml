@@ -222,3 +222,5 @@ sync:
       url: https://concourse-charts.storage.googleapis.com/
     - name: tomkerkhove
       url: https://tomkerkhove.azurecr.io/helm/v1/repo
+    - name: jenkins
+      url: https://raw.githubusercontent.com/jenkinsci/kubernetes-operator/master/chart
