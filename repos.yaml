@@ -602,3 +602,10 @@ repositories:
     maintainers:
       - email: christian@groschupp.org
         name: Christian Groschupp
+  - name: jenkins
+    url: https://raw.githubusercontent.com/jenkinsci/kubernetes-operator/master/chart
+    maintainers:
+      - email: tomasz.sek.88@gmail.com
+        name: Tomasz Sęk
+      - email: jal-khalili@virtuslab.com
+        name: Jakub Al-Khalili
