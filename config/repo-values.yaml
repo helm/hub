@@ -131,7 +131,7 @@ sync:
     - name: choerodon
       url: https://openchart.choerodon.com.cn/choerodon/c7n
     - name: kedacore
-      url: https://kedacore.azureedge.net/helm
+      url: https://kedacore.github.io/charts
     - name: seldon
       url: https://storage.googleapis.com/seldon-charts
     - name: gkarthiks
