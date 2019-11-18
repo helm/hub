@@ -330,7 +330,7 @@ repositories:
       - email: dong@wenqi.us
         name: Vink Dong
   - name: kedacore
-    url: https://kedacore.azureedge.net/helm
+    url: https://kedacore.github.io/charts
     maintainers:
       - email: ahmels@microsoft.com
         name: Ahmed ElSayed
