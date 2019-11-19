@@ -224,3 +224,5 @@ sync:
       url: https://tomkerkhove.azurecr.io/helm/v1/repo
     - name: cgroschupp
       url: https://cgroschupp.github.io/helm-charts/
+    - name: jenkins
+      url: https://raw.githubusercontent.com/jenkinsci/kubernetes-operator/master/chart
