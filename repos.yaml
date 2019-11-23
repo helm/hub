@@ -609,3 +609,10 @@ repositories:
         name: Tomasz Sęk
       - email: jal-khalili@virtuslab.com
         name: Jakub Al-Khalili
+  - name: talend
+    url: https://talend.github.io/helm-charts-public
+    maintainers:
+      - email: sgandon@talend.com
+        name: Sebastien Gandon
+      - email: asaintsever@talend.com
+        name: Alain Saint-Sever
