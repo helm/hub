@@ -616,3 +616,8 @@ repositories:
         name: Sebastien Gandon
       - email: asaintsever@talend.com
         name: Alain Saint-Sever
+  - name: softonic
+    url: https://charts.softonic.io
+    maintainers:
+      - email: sre@softonic.com
+        name: Softonic
