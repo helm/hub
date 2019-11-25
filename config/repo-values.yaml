@@ -230,3 +230,5 @@ sync:
       url: https://talend.github.io/helm-charts-public
     - name: softonic
       url: https://charts.softonic.io
+    - name: aws
+      url: https://aws.github.io/eks-charts
