@@ -609,3 +609,8 @@ repositories:
         name: Tomasz Sęk
       - email: jal-khalili@virtuslab.com
         name: Jakub Al-Khalili
+  - name: softonic
+    url: https://charts.softonic.io
+    maintainers:
+      - email: sre@softonic.com
+        name: Softonic
