@@ -621,3 +621,20 @@ repositories:
     maintainers:
       - email: sre@softonic.com
         name: Softonic
+  - name: aws
+    url: https://aws.github.io/eks-charts
+    maintainers:
+      - email: stefan.prodan@gmail.com
+        name: Stefan Prodan
+      - email: nic@amazon.com
+        name: Nick Turner
+      - email: jsstraub@amazon.com
+        name: James Straub
+      - email: meduri@amazon.com
+        name: Kiran Meduri
+      - email: sabhayav@amazon.com
+        name: Vipul Sabhayav
+      - email: jaypipes@amazon.com
+        name: Jay Pipes
+      - email: mhausler@amazon.com
+        name: Micah Hausler
