@@ -234,3 +234,6 @@ sync:
       url: https://charts.softonic.io
     - name: aws
       url: https://aws.github.io/eks-charts
+    - name: crossplane
+      url: https://charts.crossplane.io/master/
+
