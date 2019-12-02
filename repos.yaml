@@ -648,3 +648,8 @@ repositories:
     maintainers:
       - email: info@crossplane.io
         name: Crossplane Maintainers
+  - name: chubaofs 
+    url: https://chubaofs.github.io/chubaofs-charts
+    maintainers:
+      - email: chengyu_l@126.com
+        name: Chengyu Liu

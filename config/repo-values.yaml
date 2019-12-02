@@ -236,4 +236,5 @@ sync:
       url: https://aws.github.io/eks-charts
     - name: crossplane
       url: https://charts.crossplane.io/master/
-
+    - name: chubaofs
+      url: https://chubaofs.github.io/chubaofs-charts 
