@@ -238,3 +238,5 @@ sync:
       url: https://helm.wso2.com
     - name: crossplane
       url: https://charts.crossplane.io/master/
+    - name: chubaofs
+      url: https://chubaofs.github.io/chubaofs-charts 
