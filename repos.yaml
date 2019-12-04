@@ -643,6 +643,21 @@ repositories:
         name: Jay Pipes
       - email: mhausler@amazon.com
         name: Micah Hausler
+  - name: wso2
+    url: https://helm.wso2.com
+    maintainers:
+      - email: chiranga@wso2.com
+        name: Chiranga Alwis
+      - email: aaquiff@wso2.com
+        name: Aaquiff Rauf
+      - email: thilinama@wso2.com>
+        name: Thilina Manamgoda
+      - email: dilana@wso2.com
+        name: Dilan U. Ariyaratne
+      - email: jayanga@wso2.com
+        name: Jayanga Dissanayake
+      - email: shariq@wso2.com
+        name: Shariq Muhammed 
   - name: crossplane
     url: https://charts.crossplane.io/master/
     maintainers:
