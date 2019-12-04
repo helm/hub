@@ -138,6 +138,11 @@ repositories:
         name: Lucas Roesler
       - email: stefan.prodan@gmail.com
         name: Stefan Prodan
+  - name: inlets
+    url: https://inlets.github.io/inlets-operator
+    maintainers:
+      - email: alex@openfaas.com
+        name: Alex Ellis
   - name: odavid
     url: https://odavid.github.io/k8s-helm-charts
     maintainers:
@@ -643,3 +648,8 @@ repositories:
     maintainers:
       - email: luckysideburn@gmail.com
         name: Eugenio Marzo
+  - name: crossplane
+    url: https://charts.crossplane.io/master/
+    maintainers:
+      - email: info@crossplane.io
+        name: Crossplane Maintainers
