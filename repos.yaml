@@ -673,3 +673,8 @@ repositories:
     maintainers:
       - email: chengyu_l@126.com
         name: Chengyu Liu
+   - name: ruguodangshi 
+    url: https://ruguodangshi.github.io
+    maintainers:
+      - email: shih5@chinaunicom.cn
+        name: Hao Shi
