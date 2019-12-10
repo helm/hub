@@ -678,3 +678,8 @@ repositories:
     maintainers:
       - email: shih5@chinaunicom.cn
         name: Hao Shi
+  - name: backube
+    url: https://backube.github.io/helm-charts/
+    maintainers:
+      - email: jstrunk@redhat.com
+        name: John Strunk
