@@ -678,3 +678,10 @@ repositories:
     maintainers:
       - email: shih5@chinaunicom.cn
         name: Hao Shi
+  - name: yugabyte
+    url: https://charts.yugabyte.com
+    maintainers:
+      - email: ram@yugabyte.com
+        name: Ram Vaidyanathan
+      - email: arnav@yugabyte.com
+        name: Arnav Agarwal
