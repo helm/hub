@@ -678,3 +678,8 @@ repositories:
     maintainers:
       - email: shih5@chinaunicom.cn
         name: Hao Shi
+  - name: gp42
+    url: https://ops42.org
+    maintainers:
+      - email: gennadiy.potapov@gmail.com
+        name: Gennady Potapov
