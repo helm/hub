@@ -245,4 +245,4 @@ sync:
     - name: ruguodangshi
       url: https://ruguodangshi.github.io
     - name: gp42
-      url: https://github.com/gp42/helm-charts
+      url: https://ops42.org/helm-charts
