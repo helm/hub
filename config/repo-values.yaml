@@ -244,3 +244,5 @@ sync:
       url: https://chubaofs.github.io/chubaofs-charts 
     - name: ruguodangshi
       url: https://ruguodangshi.github.io
+    - name: inspur
+      url: https://inspur-iop.github.io/charts/
