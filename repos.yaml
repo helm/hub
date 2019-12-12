@@ -678,3 +678,8 @@ repositories:
     maintainers:
       - email: shih5@chinaunicom.cn
         name: Hao Shi
+  - name: k8s-land
+    url: https://charts.k8s.land
+    maintainers:
+      - email: charlie+helm@charliedrage.com
+        name: Charlie Drage
