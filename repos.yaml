@@ -678,3 +678,8 @@ repositories:
     maintainers:
       - email: shih5@chinaunicom.cn
         name: Hao Shi
+  - name: mailu
+    url: https://mailu.github.io/helm-charts/
+    maintainers:
+      - email: mailu@michael.wyraz.de
+        name: Michael Wyraz
