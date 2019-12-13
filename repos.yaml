@@ -663,6 +663,11 @@ repositories:
     maintainers:
       - email: info@crossplane.io
         name: Crossplane Maintainers
+  - name: lohmag
+    url: https://lohmag.github.io/helm-charts/
+    maintainers:
+      - email: massalitine@gmail.com
+        name: Nikita Massalitin
   - name: cern
     url: https://charts.cern.ch/cern/
     maintainers:
@@ -683,3 +688,13 @@ repositories:
     maintainers:
       - email: jstrunk@redhat.com
         name: John Strunk
+  - name: k8s-land
+    url: https://charts.k8s.land
+    maintainers:
+      - email: charlie+helm@charliedrage.com
+        name: Charlie Drage
+  - name: chartsm
+    url: https://api.chartsm.com
+    maintainers:
+      - email: arnaud@deviarch.be
+        name: Arnaud De Backer
