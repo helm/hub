@@ -236,8 +236,6 @@ sync:
       url: https://aws.github.io/eks-charts
     - name: kubeinvaders
       url: https://lucky-sideburn.github.io/helm-charts/ 
-    - name: crossplane
-      url: https://charts.crossplane.io/master/
     - name: wso2
       url: https://helm.wso2.com
     - name: crossplane
