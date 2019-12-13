@@ -238,6 +238,8 @@ sync:
       url: https://helm.wso2.com
     - name: crossplane
       url: https://charts.crossplane.io/master/
+    - name: lohmag
+      url: https://lohmag.github.io/helm-charts/
     - name: cern
       url: https://charts.cern.ch/cern/
     - name: chubaofs
@@ -246,3 +248,5 @@ sync:
       url: https://ruguodangshi.github.io
     - name: k8s-land
       url: https://charts.k8s.land
+    - name: chartsm
+      url: https://api.chartsm.com
