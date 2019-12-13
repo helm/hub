@@ -663,6 +663,11 @@ repositories:
     maintainers:
       - email: info@crossplane.io
         name: Crossplane Maintainers
+  - name: lohmag
+    url: https://lohmag.github.io/helm-charts/
+    maintainers:
+      - email: massalitine@gmail.com
+        name: Nikita Massalitin
   - name: cern
     url: https://charts.cern.ch/cern/
     maintainers:
@@ -683,3 +688,25 @@ repositories:
     maintainers:
       - email: collection@sumologic.com
         name: Sumo Logic Data Collection
+  - name: inspur
+    url: https://inspur-iop.github.io/charts/    
+    maintainers:
+      - email: koulq@inspur.com
+        name: Leach Kou
+      - email: zhaoshan@inspur.com
+        name: Eric Zhao
+  - name: backube
+    url: https://backube.github.io/helm-charts/
+    maintainers:
+      - email: jstrunk@redhat.com
+        name: John Strunk
+  - name: k8s-land
+    url: https://charts.k8s.land
+    maintainers:
+      - email: charlie+helm@charliedrage.com
+        name: Charlie Drage
+  - name: chartsm
+    url: https://api.chartsm.com
+    maintainers:
+      - email: arnaud@deviarch.be
+        name: Arnaud De Backer
