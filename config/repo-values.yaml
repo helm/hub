@@ -234,7 +234,15 @@ sync:
       url: https://charts.softonic.io
     - name: aws
       url: https://aws.github.io/eks-charts
+    - name: wso2
+      url: https://helm.wso2.com
     - name: crossplane
       url: https://charts.crossplane.io/master/
     - name: lohmag
       url: https://lohmag.github.io/helm-charts/
+    - name: cern
+      url: https://charts.cern.ch/cern/
+    - name: chubaofs
+      url: https://chubaofs.github.io/chubaofs-charts 
+    - name: ruguodangshi
+      url: https://ruguodangshi.github.io
