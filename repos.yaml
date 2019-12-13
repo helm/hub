@@ -683,6 +683,11 @@ repositories:
     maintainers:
       - email: shih5@chinaunicom.cn
         name: Hao Shi
+  - name: sumologic
+    url: https://sumologic.github.io/sumologic-kubernetes-collection
+    maintainers:
+      - email: collection@sumologic.com
+        name: Sumo Logic Data Collection
   - name: inspur
     url: https://inspur-iop.github.io/charts/    
     maintainers:
