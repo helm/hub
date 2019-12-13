@@ -246,5 +246,7 @@ sync:
       url: https://chubaofs.github.io/chubaofs-charts 
     - name: ruguodangshi
       url: https://ruguodangshi.github.io
+    - name: k8s-land
+      url: https://charts.k8s.land
     - name: chartsm
       url: https://api.chartsm.com
