@@ -683,3 +683,8 @@ repositories:
     maintainers:
       - email: shih5@chinaunicom.cn
         name: Hao Shi
+  - name: chartsm
+    url: https://api.chartsm.com
+    maintainers:
+      - email: arnaud@deviarch.be
+        name: Arnaud De Backer
