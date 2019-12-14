@@ -710,3 +710,8 @@ repositories:
     maintainers:
       - email: arnaud@deviarch.be
         name: Arnaud De Backer
+  - name: fold
+    url: https://charts.foldapp.com
+    maintainers:
+      - email: tom.dickman@foldapp.com
+        name: Tom Dickman
