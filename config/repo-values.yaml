@@ -260,3 +260,5 @@ sync:
       url: https://charts.k8s.land
     - name: chartsm
       url: https://api.chartsm.com
+    - name: fold
+      url: https://charts.foldapp.com
