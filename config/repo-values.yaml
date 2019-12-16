@@ -248,6 +248,12 @@ sync:
       url: https://ruguodangshi.github.io
     - name: gp42
       url: https://ops42.org/helm-charts
+    - name: sumologic
+      url: https://sumologic.github.io/sumologic-kubernetes-collection
+    - name: inspur
+      url: https://inspur-iop.github.io/charts/
+    - name: backube
+      url: https://backube.github.io/helm-charts/
     - name: k8s-land
       url: https://charts.k8s.land
     - name: chartsm
