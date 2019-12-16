@@ -246,6 +246,8 @@ sync:
       url: https://chubaofs.github.io/chubaofs-charts 
     - name: ruguodangshi
       url: https://ruguodangshi.github.io
+    - name: gp42
+      url: https://ops42.org/helm-charts
     - name: sumologic
       url: https://sumologic.github.io/sumologic-kubernetes-collection
     - name: inspur
