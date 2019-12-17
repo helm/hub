@@ -238,11 +238,27 @@ sync:
       url: https://helm.wso2.com
     - name: crossplane
       url: https://charts.crossplane.io/master/
+    - name: lohmag
+      url: https://lohmag.github.io/helm-charts/
     - name: cern
       url: https://charts.cern.ch/cern/
     - name: chubaofs
       url: https://chubaofs.github.io/chubaofs-charts 
     - name: ruguodangshi
       url: https://ruguodangshi.github.io
-    - name: yugabyte
-      url: https://charts.yugabyte.com
+    - name: mailu
+      url: https://mailu.github.io/helm-charts/
+    - name: gp42
+      url: https://ops42.org/helm-charts
+    - name: sumologic
+      url: https://sumologic.github.io/sumologic-kubernetes-collection
+    - name: inspur
+      url: https://inspur-iop.github.io/charts/
+    - name: backube
+      url: https://backube.github.io/helm-charts/
+    - name: k8s-land
+      url: https://charts.k8s.land
+    - name: chartsm
+      url: https://api.chartsm.com
+    - name: fold
+      url: https://charts.foldapp.com
