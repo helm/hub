@@ -535,6 +535,10 @@ repositories:
     maintainers:
       - email: andrew.nelson@yugabyte.com
         name: Andrew Nelson
+      - email: ram@yugabyte.com
+        name: Ram Vaidyanathan
+      - email: arnav@yugabyte.com
+        name: Arnav Agarwal
   - name: crate
     url: https://crate.github.io/helm-charts
     maintainers:
