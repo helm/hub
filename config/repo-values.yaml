@@ -243,7 +243,7 @@ sync:
     - name: cern
       url: https://charts.cern.ch/cern/
     - name: chubaofs
-      url: https://chubaofs.github.io/chubaofs-charts 
+      url: https://chubaofs.github.io/chubaofs-charts
     - name: ruguodangshi
       url: https://ruguodangshi.github.io
     - name: mailu
@@ -262,3 +262,5 @@ sync:
       url: https://api.chartsm.com
     - name: fold
       url: https://charts.foldapp.com
+    - name: pangeo
+      url: https://pangeo-data.github.io/helm-chart/

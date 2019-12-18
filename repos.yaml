@@ -661,7 +661,7 @@ repositories:
       - email: jayanga@wso2.com
         name: Jayanga Dissanayake
       - email: shariq@wso2.com
-        name: Shariq Muhammed 
+        name: Shariq Muhammed
   - name: crossplane
     url: https://charts.crossplane.io/master/
     maintainers:
@@ -677,7 +677,7 @@ repositories:
     maintainers:
       - email: helm-repo-admins@cern.ch
         name: CERN Helm Repo Admins
-  - name: chubaofs 
+  - name: chubaofs
     url: https://chubaofs.github.io/chubaofs-charts
     maintainers:
       - email: chengyu_l@126.com
@@ -703,7 +703,7 @@ repositories:
       - email: collection@sumologic.com
         name: Sumo Logic Data Collection
   - name: inspur
-    url: https://inspur-iop.github.io/charts/    
+    url: https://inspur-iop.github.io/charts/
     maintainers:
       - email: koulq@inspur.com
         name: Leach Kou
@@ -729,3 +729,12 @@ repositories:
     maintainers:
       - email: tom.dickman@foldapp.com
         name: Tom Dickman
+  - name: pangeo
+    url: https://pangeo-data.github.io/helm-chart/
+    maintainers:
+      - email: jacob@tomlinson.email
+        name: Jacob Tomlinson
+      - email: rpa@ldeo.columbia.edu
+        name: Ryan Abernathy
+      - email: jhamman@ucar.edu
+        name: Joe Hamman
