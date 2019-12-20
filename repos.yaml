@@ -619,7 +619,7 @@ repositories:
       - email: jal-khalili@virtuslab.com
         name: Jakub Al-Khalili
   - name: talend
-    url: https://talend.github.io/helm-charts-public
+    url: https://talend.github.io/helm-charts-public/stable
     maintainers:
       - email: sgandon@talend.com
         name: Sebastien Gandon
