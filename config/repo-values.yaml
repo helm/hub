@@ -262,5 +262,7 @@ sync:
       url: https://api.chartsm.com
     - name: fold
       url: https://charts.foldapp.com
+    - name: vmware-tanzu
+      url: https://vmware-tanzu.github.io/helm-charts/
     - name: pangeo
       url: https://pangeo-data.github.io/helm-chart/

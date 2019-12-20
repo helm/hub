@@ -729,6 +729,13 @@ repositories:
     maintainers:
       - email: tom.dickman@foldapp.com
         name: Tom Dickman
+  - name: vmware-tanzu
+    url: https://vmware-tanzu.github.io/helm-charts/
+    maintainers:
+      - email: carlisia@vmware.com
+        name: Carlisia Campos
+      - email: brubakern@vmware.com
+        name: Nolan Brubaker
   - name: pangeo
     url: https://pangeo-data.github.io/helm-chart/
     maintainers:
