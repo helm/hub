@@ -738,3 +738,10 @@ repositories:
         name: Ryan Abernathy
       - email: jhamman@ucar.edu
         name: Joe Hamman
+  - name: jaegertracing
+    url: https://jaegertracing.github.io/helm-charts
+    maintainers:
+      - email: ctadeu@gmail.com
+        name: cpanato
+      - email: naseemkullah@gmail.com
+        name: naseemkullah
