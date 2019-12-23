@@ -752,3 +752,8 @@ repositories:
         name: cpanato
       - email: naseemkullah@gmail.com
         name: naseemkullah
+  - name: riskfocus
+    url: https://riskfocus.github.io/helm-charts-public/
+    maintainers:
+      - email: charts-maintainers@riskfocus.com
+        name: Riskfocus
