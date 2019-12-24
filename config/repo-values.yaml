@@ -81,10 +81,8 @@ sync:
       url: https://helm.nginx.com/stable
     - name: nginx-edge
       url: https://helm.nginx.com/edge
-    - name: cic
-      url: https://citrix.github.io/citrix-k8s-ingress-controller/
     - name: citrix
-      url: https://citrix.github.io/citrix-istio-adaptor/
+      url: https://citrix.github.io/citrix-helm-charts/
     - name: zooz
       url: https://zooz.github.io/helm/
     - name: rancher-stable
