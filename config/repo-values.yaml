@@ -268,3 +268,5 @@ sync:
       url: https://pangeo-data.github.io/helm-chart/
     - name: jaegertracing
       url: https://jaegertracing.github.io/helm-charts
+    - name: opendkim
+      url: https://raw.githubusercontent.com/JonathanWilbur/opendkim-helm-chart/master/
