@@ -753,3 +753,10 @@ repositories:
     maintainers:
       - email: charts-maintainers@riskfocus.com
         name: Riskfocus
+  - name: wavefront
+    url: https://wavefronthq.github.io/helm/
+    maintainers:
+      - email: ptessier@vmware.com
+        name: Pierre Tessier
+      - email: rvikram@vmare.com
+        name: Vikram Raman
