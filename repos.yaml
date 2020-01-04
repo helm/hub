@@ -753,3 +753,8 @@ repositories:
     maintainers:
       - email: charts-maintainers@riskfocus.com
         name: Riskfocus
+  - name: halkeye
+    url: https://halkeye.github.io/helm-charts/
+    maintainers:
+      - email: helm@gavinmogan.com
+        name: Gavin Mogan
