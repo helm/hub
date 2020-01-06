@@ -216,16 +216,12 @@ repositories:
     url: https://helm.nginx.com/edge
     maintainers:
       - email: kubernetes@nginx.com
-  - name: cic
-    url: https://citrix.github.io/citrix-k8s-ingress-controller/
-    maintainers:
-      - email: priyanka.sharma@citrix.com
-      - email: subash.dangol@citrix.com
   - name: citrix
-    url: https://citrix.github.io/citrix-istio-adaptor/
+    url: https://citrix.github.io/citrix-helm-charts/
     maintainers:
       - email: dhiraj.gedam@citrix.com
       - email: subash.dangol@citrix.com
+      - email: priyanka.sharma@citrix.com
   - name: zooz
     url: https://zooz.github.io/helm/
     maintainers:
@@ -752,3 +748,8 @@ repositories:
         name: cpanato
       - email: naseemkullah@gmail.com
         name: naseemkullah
+  - name: riskfocus
+    url: https://riskfocus.github.io/helm-charts-public/
+    maintainers:
+      - email: charts-maintainers@riskfocus.com
+        name: Riskfocus
