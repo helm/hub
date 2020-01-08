@@ -270,6 +270,8 @@ sync:
       url: https://jaegertracing.github.io/helm-charts
     - name: riskfocus
       url: https://riskfocus.github.io/helm-charts-public/
+    - name: flink-operator
+      url: https://googlecloudplatform.github.io/flink-on-k8s-operator/
     - name: halkeye
       url: https://halkeye.github.io/helm-charts/
     - name: wavefront

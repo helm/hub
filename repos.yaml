@@ -758,6 +758,11 @@ repositories:
     maintainers:
       - email: charts-maintainers@riskfocus.com
         name: Riskfocus
+  - name: flink-operator
+    url: https://googlecloudplatform.github.io/flink-on-k8s-operator/
+    maintainer:
+      - email: dataproc-dev@google.com
+        name: dataproc-dev
   - name: halkeye
     url: https://halkeye.github.io/helm-charts/
     maintainers:
