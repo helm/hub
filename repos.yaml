@@ -643,6 +643,11 @@ repositories:
         name: Jay Pipes
       - email: mhausler@amazon.com
         name: Micah Hausler
+  - name: kubeinvaders
+    url: https://lucky-sideburn.github.io/helm-charts/
+    maintainers:
+      - email: luckysideburn@gmail.com
+        name: Eugenio Marzo
   - name: wso2
     url: https://helm.wso2.com
     maintainers:
@@ -758,3 +763,10 @@ repositories:
     maintainers:
       - email: helm@gavinmogan.com
         name: Gavin Mogan
+  - name: wavefront
+    url: https://wavefronthq.github.io/helm/
+    maintainers:
+      - email: ptessier@vmware.com
+        name: Pierre Tessier
+      - email: rvikram@vmare.com
+        name: Vikram Raman

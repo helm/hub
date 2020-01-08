@@ -232,6 +232,8 @@ sync:
       url: https://charts.softonic.io
     - name: aws
       url: https://aws.github.io/eks-charts
+    - name: kubeinvaders
+      url: https://lucky-sideburn.github.io/helm-charts/ 
     - name: wso2
       url: https://helm.wso2.com
     - name: crossplane
@@ -270,3 +272,5 @@ sync:
       url: https://riskfocus.github.io/helm-charts-public/
     - name: halkeye
       url: https://halkeye.github.io/helm-charts/
+    - name: wavefront
+      url: https://wavefronthq.github.io/helm/
