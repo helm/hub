@@ -270,3 +270,5 @@ sync:
       url: https://jaegertracing.github.io/helm-charts
     - name: riskfocus
       url: https://riskfocus.github.io/helm-charts-public/
+    - name: wavefront
+      url: https://wavefronthq.github.io/helm/
