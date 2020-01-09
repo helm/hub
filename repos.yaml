@@ -775,3 +775,14 @@ repositories:
         name: Pierre Tessier
       - email: rvikram@vmare.com
         name: Vikram Raman
+  - name: eclipse-iot
+    url: https://www.eclipse.org/packages/charts/
+    maintainers:
+      - email: thomas.jaeckle@bosch-si.com
+        name: Thomas Jaeckle
+      - email: jreimann@redhat.com
+        name: Jens Reimann
+      - email: carsten.lohmann@bosch-si.com
+        name: Carsten Lohmann
+      - email: axel.koehler@kiwigrid.com
+        name: Axel Koehler
