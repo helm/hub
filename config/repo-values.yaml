@@ -227,7 +227,7 @@ sync:
     - name: jenkins
       url: https://raw.githubusercontent.com/jenkinsci/kubernetes-operator/master/chart
     - name: talend
-      url: https://talend.github.io/helm-charts-public
+      url: https://talend.github.io/helm-charts-public/stable
     - name: softonic
       url: https://charts.softonic.io
     - name: aws
