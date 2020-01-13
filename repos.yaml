@@ -775,3 +775,8 @@ repositories:
         name: Pierre Tessier
       - email: rvikram@vmare.com
         name: Vikram Raman
+  - name: ntppool
+    url: https://charts.ntppool.org/
+    maintainers:
+      - email: ask@ntppool.org
+        name: Ask Bjørn Hansen

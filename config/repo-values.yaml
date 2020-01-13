@@ -276,3 +276,5 @@ sync:
       url: https://halkeye.github.io/helm-charts/
     - name: wavefront
       url: https://wavefronthq.github.io/helm/
+    - name: ntppool
+      url: https://charts.ntppool.org/
