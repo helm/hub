@@ -780,3 +780,8 @@ repositories:
     maintainers:
       - email: ask@ntppool.org
         name: Ask Bjørn Hansen
+  - name: pomerium
+    url: https://helm.pomerium.io
+    maintainers:
+      - name: Pomerium Team
+        email: info@pomerium.io
