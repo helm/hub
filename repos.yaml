@@ -796,3 +796,10 @@ repositories:
     maintainers:
       - name: Pomerium Team
         email: info@pomerium.io
+  - name: http-folder
+    url: https://aureliengasser.github.io/charts
+    maintainers:
+      - email: aurelien.gasser@gmail.com
+        name: Aurélien Gasser
+      - email: clement@gauter.im
+        name: Clément Gautier

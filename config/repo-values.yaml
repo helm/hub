@@ -282,3 +282,5 @@ sync:
       url: https://charts.ntppool.org/
     - name: pomerium
       url: https://helm.pomerium.io
+    - name: http-folder
+      url: https://aureliengasser.github.io/charts
