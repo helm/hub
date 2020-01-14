@@ -233,7 +233,7 @@ sync:
     - name: aws
       url: https://aws.github.io/eks-charts
     - name: kubeinvaders
-      url: https://lucky-sideburn.github.io/helm-charts/ 
+      url: https://lucky-sideburn.github.io/helm-charts/
     - name: wso2
       url: https://helm.wso2.com
     - name: crossplane
@@ -280,3 +280,5 @@ sync:
       url: https://www.eclipse.org/packages/charts/
     - name: ntppool
       url: https://charts.ntppool.org/
+    - name: pomerium
+      url: https://helm.pomerium.io
