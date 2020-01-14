@@ -796,3 +796,12 @@ repositories:
     maintainers:
       - name: Pomerium Team
         email: info@pomerium.io
+  - name: kong
+    url: https://charts.konghq.com
+    maintainers:
+      - name: Harry
+        email: harry@konghq.com
+      - name: Shashi
+        email: shashi@konghq.com
+      - name: Travis
+        email: traines@konghq.com
