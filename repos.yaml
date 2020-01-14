@@ -776,7 +776,7 @@ repositories:
       - email: rvikram@vmare.com
         name: Vikram Raman
   - name: eclipse-iot
-    url: https://www.eclipse.org/packages/charts/
+    url: https://www.eclipse.org/packages/charts/    
     maintainers:
       - email: thomas.jaeckle@bosch-si.com
         name: Thomas Jaeckle
@@ -786,3 +786,8 @@ repositories:
         name: Carsten Lohmann
       - email: axel.koehler@kiwigrid.com
         name: Axel Koehler
+  - name: ntppool
+    url: https://charts.ntppool.org/
+    maintainers:
+      - email: ask@ntppool.org
+        name: Ask Bjørn Hansen
