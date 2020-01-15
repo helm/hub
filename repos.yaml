@@ -803,3 +803,12 @@ repositories:
         name: Aurélien Gasser
       - email: clement@gauter.im
         name: Clément Gautier
+  - name: kong
+    url: https://charts.konghq.com
+    maintainers:
+      - name: Harry
+        email: harry@konghq.com
+      - name: Shashi
+        email: shashi@konghq.com
+      - name: Travis
+        email: traines@konghq.com
