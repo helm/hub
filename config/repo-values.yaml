@@ -286,3 +286,5 @@ sync:
       url: https://charts.konghq.com
     - name: dynatrace
       url: https://raw.githubusercontent.com/Dynatrace/helm-charts/master/repos/stable/
+    - name: solace
+      url: https://solaceproducts.github.io/pubsubplus-kubernetes-quickstart/helm-charts
