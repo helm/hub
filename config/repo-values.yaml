@@ -284,10 +284,9 @@ sync:
       url: https://helm.pomerium.io
     - name: kong
       url: https://charts.konghq.com
-<<<<<<< HEAD
     - name: dynatrace
       url: https://raw.githubusercontent.com/Dynatrace/helm-charts/master/repos/stable/
-=======
     - name: purestorage
       url: https://purestorage.github.io/helm-charts
->>>>>>> adding purestorage helm repo
+    - name: purestorage
+      url: https://purestorage.github.io/helm-charts
