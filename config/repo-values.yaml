@@ -286,5 +286,10 @@ sync:
       url: https://aureliengasser.github.io/charts
     - name: kong
       url: https://charts.konghq.com
+<<<<<<< HEAD
     - name: dynatrace
       url: https://raw.githubusercontent.com/Dynatrace/helm-charts/master/repos/stable/
+=======
+    - name: purestorage
+      url: https://purestorage.github.io/helm-charts
+>>>>>>> adding purestorage helm repo

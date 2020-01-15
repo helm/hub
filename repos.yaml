@@ -812,8 +812,16 @@ repositories:
         email: shashi@konghq.com
       - name: Travis
         email: traines@konghq.com
+<<<<<<< HEAD
   - name: dynatrace
     url: https://raw.githubusercontent.com/Dynatrace/helm-charts/master/repos/stable/
     maintainers:
       - email: support@dynatrace.com
         name: Dynatrace LLC
+=======
+  - name: purestorage
+    url: https://purestorage.github.io/helm-charts
+    maintainers:
+      - name: purestorage
+        email: pure-helm@purestorage.com
+>>>>>>> adding purestorage helm repo
