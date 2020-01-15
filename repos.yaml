@@ -805,3 +805,8 @@ repositories:
         email: shashi@konghq.com
       - name: Travis
         email: traines@konghq.com
+  - name: dynatrace
+    url: https://raw.githubusercontent.com/Dynatrace/helm-charts/master/repos/stable/
+    maintainers:
+      - email: support@dynatrace.com
+        name: Dynatrace LLC
