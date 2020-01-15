@@ -805,3 +805,8 @@ repositories:
         email: shashi@konghq.com
       - name: Travis
         email: traines@konghq.com
+  - name: purestorage
+    url: https://purestorage.github.io/helm-charts
+    maintainers:
+      - name: purestorage
+        email: pure-helm@purestorage.com

@@ -284,3 +284,5 @@ sync:
       url: https://helm.pomerium.io
     - name: kong
       url: https://charts.konghq.com
+    - name: purestorage
+      url: https://purestorage.github.io/helm-charts
