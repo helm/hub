@@ -822,3 +822,14 @@ repositories:
     maintainers:
       - name: purestorage
         email: pure-helm@purestorage.com
+  - name: solace
+    url: https://solaceproducts.github.io/pubsubplus-kubernetes-quickstart/helm-charts/
+    maintainers:
+      - email: balazs.czoma@solace.com
+        name: bczoma
+      - email: ken.barr@solace.com
+        name: KenBarr
+      - email: philippe.khalife@solace.com
+        name: PhilippeKhalife
+      - email: support@solace.com
+        name: Solace Support

@@ -290,3 +290,5 @@ sync:
       url: https://raw.githubusercontent.com/Dynatrace/helm-charts/master/repos/stable/
     - name: purestorage
       url: https://purestorage.github.io/helm-charts
+    - name: solace
+      url: https://solaceproducts.github.io/pubsubplus-kubernetes-quickstart/helm-charts
