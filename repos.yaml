@@ -810,3 +810,11 @@ repositories:
     maintainers:
       - email: support@dynatrace.com
         name: Dynatrace LLC
+  - name: mojo2600
+    url: https://mojo2600.github.io/pihole-kubernetes/
+    maintainers:
+      - email: christian.erhardt@mojo2k.de
+        name: Christian Erhardt
+      - email: jeff@billimek.com
+        name: Jeff Billimek
+
