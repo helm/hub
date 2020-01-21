@@ -288,6 +288,8 @@ sync:
       url: https://charts.konghq.com
     - name: dynatrace
       url: https://raw.githubusercontent.com/Dynatrace/helm-charts/master/repos/stable/
+    - name: mojo2600
+      url: https://mojo2600.github.io/pihole-kubernetes/
     - name: purestorage
       url: https://purestorage.github.io/helm-charts
     - name: solace
