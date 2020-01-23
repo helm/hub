@@ -23,6 +23,8 @@ sync:
       url: https://charts.rimusz.net
     - name: buildkite
       url: https://buildkite.github.io/charts
+    - name: cloudposse
+      url: https://charts.cloudposse.com/incubator/
     - name: keel
       url: https://charts.keel.sh
     - name: appscode

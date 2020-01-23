@@ -55,6 +55,11 @@ repositories:
     maintainers:
       - email: rmocius@gmail.com
         name: rimusz
+  - name: cloudposse
+    url: https://charts.cloudposse.com/incubator/
+    maintainers:
+      - email: ops@cloudposse.com
+      - name: cloudposse
   - name: keel
     url: https://charts.keel.sh
     maintainers:
