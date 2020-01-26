@@ -298,3 +298,5 @@ sync:
       url: https://solaceproducts.github.io/pubsubplus-kubernetes-quickstart/helm-charts
     - name: code-chris
       url: https://code-chris.github.io/helm-charts/charts
+    - name: ealenn
+      url: https://ealenn.github.io/charts
