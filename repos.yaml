@@ -850,3 +850,8 @@ repositories:
     maintainers:
       - name: code-chris
         email: christian.kotzbauer@gmail.com
+ - name: oteemo
+   url: https://oteemo.github.io/charts/
+   maintainers:
+     - name: Oteemo Support
+       email: charts@oteemo.com
