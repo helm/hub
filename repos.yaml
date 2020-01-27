@@ -850,6 +850,11 @@ repositories:
     maintainers:
       - name: code-chris
         email: christian.kotzbauer@gmail.com
+  - name: ealenn
+    url: https://ealenn.github.io/charts
+    maintainers:
+      - name: Rudy Marchandise
+        email: ealenn.github-helm@yahoo.com
  - name: oteemo
    url: https://oteemo.github.io/charts/
    maintainers:
