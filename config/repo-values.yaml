@@ -300,3 +300,6 @@ sync:
       url: https://code-chris.github.io/helm-charts/charts
     - name: ealenn
       url: https://ealenn.github.io/charts
+      url: https://code-chris.github.io/helm-charts
+    - name: oteemo
+      url: https://oteemo.github.io/charts/
