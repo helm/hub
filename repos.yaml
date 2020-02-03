@@ -860,3 +860,8 @@ repositories:
    maintainers:
      - name: Oteemo Support
        email: charts@oteemo.com
+ - name: tietoevryfs
+   url: https://evryfs.github.io/helm-charts/
+   maintainers:
+     - name: TietoEVRY Financial Services
+       email: fsdevops@evry.com

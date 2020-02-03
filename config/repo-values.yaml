@@ -302,3 +302,5 @@ sync:
       url: https://ealenn.github.io/charts
     - name: oteemo
       url: https://oteemo.github.io/charts/
+    - name: tietoevryfs
+      url: https://evryfs.github.io/helm-charts/
