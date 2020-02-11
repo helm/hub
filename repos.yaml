@@ -865,3 +865,8 @@ repositories:
    maintainers:
      - name: TietoEVRY Financial Services
        email: fsdevops@evry.com
+ - name: meshery
+   url: https://meshery.io/charts/
+   maintainers:
+     - name: Aisuko
+       email: urakiny@gmail.com
