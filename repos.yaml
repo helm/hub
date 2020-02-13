@@ -865,3 +865,8 @@ repositories:
    maintainers:
      - name: TietoEVRY Financial Services
        email: fsdevops@evry.com
+ - name: dniel
+   url: https://dniel.github.io/charts/
+   maintainers:
+     - name: Daniel Engfeldt
+       email: daniel@engfeldt.net
