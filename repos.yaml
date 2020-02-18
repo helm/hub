@@ -781,7 +781,7 @@ repositories:
       - email: rvikram@vmare.com
         name: Vikram Raman
   - name: eclipse-iot
-    url: https://www.eclipse.org/packages/charts/    
+    url: https://www.eclipse.org/packages/charts/
     maintainers:
       - email: thomas.jaeckle@bosch-si.com
         name: Thomas Jaeckle
@@ -855,16 +855,21 @@ repositories:
     maintainers:
       - name: Rudy Marchandise
         email: ealenn.github-helm@yahoo.com
- - name: oteemo
-   url: https://oteemo.github.io/charts/
-   maintainers:
-     - name: Oteemo Support
-       email: charts@oteemo.com
- - name: tietoevryfs
-   url: https://evryfs.github.io/helm-charts/
-   maintainers:
-     - name: TietoEVRY Financial Services
-       email: fsdevops@evry.com
+  - name: oteemo
+    url: https://oteemo.github.io/charts/
+    maintainers:
+      - name: Oteemo Support
+        email: charts@oteemo.com
+  - name: tietoevryfs
+    url: https://evryfs.github.io/helm-charts/
+    maintainers:
+      - name: TietoEVRY Financial Services
+        email: fsdevops@evry.com
+  - name: cleardata
+    url: https://helm.cleardata.com/
+    maintainers:
+      - name: ClearDATA Locate Team
+        email: locate-support@cleardata.com
  - name: meshery
    url: https://meshery.io/charts/
    maintainers:

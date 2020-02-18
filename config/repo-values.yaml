@@ -304,5 +304,7 @@ sync:
       url: https://oteemo.github.io/charts/
     - name: tietoevryfs
       url: https://evryfs.github.io/helm-charts/
+    - name: cleardata
+      url: https://helm.cleardata.com/
     - name: meshery
       url: https://meshery.io/charts/
