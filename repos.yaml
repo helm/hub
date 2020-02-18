@@ -880,6 +880,11 @@ repositories:
    maintainers:
      - email: ryan@ryanholt.net
        name: Ryan Holt
+ - name: quarks
+   url: https://cloudfoundry-incubator.github.io/quarks-helm/
+   maintainers:
+     - name: project-quarks
+       email: project-quarks@googlegroups.com
  - name: dniel
    url: https://dniel.github.io/charts/
    maintainers:
