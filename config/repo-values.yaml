@@ -32,7 +32,7 @@ sync:
     - name: gitlab
       url: https://charts.gitlab.io/
     - name: bitnami
-      url: https://charts.bitnami.com
+      url: https://charts.bitnami.com/bitnami
     - name: fluxcd
       url: https://charts.fluxcd.io
     - name: jetstack

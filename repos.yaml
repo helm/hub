@@ -76,7 +76,7 @@ repositories:
       - name: GitLab
         email: distribution@gitlab.com
   - name: bitnami
-    url: https://charts.bitnami.com
+    url: https://charts.bitnami.com/bitnami
     maintainers:
       - name: Bitnami
         email: containers@bitnami.com
