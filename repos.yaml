@@ -76,7 +76,7 @@ repositories:
       - name: GitLab
         email: distribution@gitlab.com
   - name: bitnami
-    url: https://charts.bitnami.com
+    url: https://charts.bitnami.com/bitnami
     maintainers:
       - name: Bitnami
         email: containers@bitnami.com
@@ -870,3 +870,8 @@ repositories:
     maintainers:
       - name: ClearDATA Locate Team
         email: locate-support@cleardata.com
+ - name: meshery
+   url: https://meshery.io/charts/
+   maintainers:
+     - name: Aisuko
+       email: urakiny@gmail.com
