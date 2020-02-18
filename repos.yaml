@@ -880,6 +880,11 @@ repositories:
    maintainers:
      - email: ryan@ryanholt.net
        name: Ryan Holt
+ - name: dniel
+   url: https://dniel.github.io/charts/
+   maintainers:
+     - name: Daniel Engfeldt
+       email: daniel@engfeldt.net
  - name: cowboysysop
    url: https://cowboysysop.github.io/charts/
    maintainers:
