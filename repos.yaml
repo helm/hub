@@ -76,7 +76,7 @@ repositories:
       - name: GitLab
         email: distribution@gitlab.com
   - name: bitnami
-    url: https://charts.bitnami.com
+    url: https://charts.bitnami.com/bitnami
     maintainers:
       - name: Bitnami
         email: containers@bitnami.com
@@ -781,7 +781,7 @@ repositories:
       - email: rvikram@vmare.com
         name: Vikram Raman
   - name: eclipse-iot
-    url: https://www.eclipse.org/packages/charts/    
+    url: https://www.eclipse.org/packages/charts/
     maintainers:
       - email: thomas.jaeckle@bosch-si.com
         name: Thomas Jaeckle
@@ -855,18 +855,48 @@ repositories:
     maintainers:
       - name: Rudy Marchandise
         email: ealenn.github-helm@yahoo.com
- - name: oteemo
-   url: https://oteemo.github.io/charts/
+  - name: oteemo
+    url: https://oteemo.github.io/charts/
+    maintainers:
+      - name: Oteemo Support
+        email: charts@oteemo.com
+  - name: tietoevryfs
+    url: https://evryfs.github.io/helm-charts/
+    maintainers:
+      - name: TietoEVRY Financial Services
+        email: fsdevops@evry.com
+  - name: cleardata
+    url: https://helm.cleardata.com/
+    maintainers:
+      - name: ClearDATA Locate Team
+        email: locate-support@cleardata.com
+ - name: meshery
+   url: https://meshery.io/charts/
    maintainers:
-     - name: Oteemo Support
-       email: charts@oteemo.com
- - name: tietoevryfs
-   url: https://evryfs.github.io/helm-charts/
+     - name: Aisuko
+       email: urakiny@gmail.com
+ - name: blazure
+   url: https://charts.blazure.com
    maintainers:
-     - name: TietoEVRY Financial Services
-       email: fsdevops@evry.com
+     - email: ryan@ryanholt.net
+       name: Ryan Holt
  - name: cdi
    url: http://raw.githubusercontent.com/woohhan/cdi-chart/master/
    maintainers:
      - name: Woohyung Han
        email: woohhan@gmail.com
+ - name: quarks
+   url: https://cloudfoundry-incubator.github.io/quarks-helm/
+   maintainers:
+     - name: project-quarks
+       email: project-quarks@googlegroups.com
+ - name: dniel
+   url: https://dniel.github.io/charts/
+   maintainers:
+     - name: Daniel Engfeldt
+       email: daniel@engfeldt.net
+ - name: cowboysysop
+   url: https://cowboysysop.github.io/charts/
+   maintainers:
+     - name: Sébastien Prud'homme
+       email: sebastien.prudhomme@gmail.com
