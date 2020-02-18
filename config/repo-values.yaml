@@ -304,6 +304,8 @@ sync:
       url: https://oteemo.github.io/charts/
     - name: tietoevryfs
       url: https://evryfs.github.io/helm-charts/
+    - name: cowboysysop
+      url: https://cowboysysop.github.io/charts/
     - name: blazure
       url: https://charts.blazure.com
     - name: cleardata

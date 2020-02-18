@@ -880,3 +880,8 @@ repositories:
    maintainers:
      - email: ryan@ryanholt.net
        name: Ryan Holt
+ - name: cowboysysop
+   url: https://cowboysysop.github.io/charts/
+   maintainers:
+     - name: Sébastien Prud'homme
+       email: sebastien.prudhomme@gmail.com
