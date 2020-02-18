@@ -304,6 +304,8 @@ sync:
       url: https://oteemo.github.io/charts/
     - name: tietoevryfs
       url: https://evryfs.github.io/helm-charts/
+    - name: cdi
+      url: http://raw.githubusercontent.com/woohhan/cdi-chart/master/
     - name: quarks
       url: https://cloudfoundry-incubator.github.io/quarks-helm/
     - name: dniel
