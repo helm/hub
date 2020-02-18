@@ -875,3 +875,8 @@ repositories:
    maintainers:
      - name: Aisuko
        email: urakiny@gmail.com
+ - name: blazure
+   url: https://charts.blazure.com
+   maintainers:
+     - email: ryan@ryanholt.net
+       name: Ryan Holt
