@@ -32,7 +32,7 @@ sync:
     - name: gitlab
       url: https://charts.gitlab.io/
     - name: bitnami
-      url: https://charts.bitnami.com
+      url: https://charts.bitnami.com/bitnami
     - name: fluxcd
       url: https://charts.fluxcd.io
     - name: jetstack
@@ -306,3 +306,9 @@ sync:
       url: https://evryfs.github.io/helm-charts/
     - name: cowboysysop
       url: https://cowboysysop.github.io/charts/
+    - name: blazure
+      url: https://charts.blazure.com
+    - name: cleardata
+      url: https://helm.cleardata.com/
+    - name: meshery
+      url: https://meshery.io/charts/
