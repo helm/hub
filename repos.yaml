@@ -870,33 +870,33 @@ repositories:
     maintainers:
       - name: ClearDATA Locate Team
         email: locate-support@cleardata.com
- - name: meshery
-   url: https://meshery.io/charts/
-   maintainers:
-     - name: Aisuko
-       email: urakiny@gmail.com
- - name: blazure
-   url: https://charts.blazure.com
-   maintainers:
-     - email: ryan@ryanholt.net
-       name: Ryan Holt
- - name: cdi
-   url: http://raw.githubusercontent.com/woohhan/cdi-chart/master/
-   maintainers:
-     - name: Woohyung Han
-       email: woohhan@gmail.com
- - name: quarks
-   url: https://cloudfoundry-incubator.github.io/quarks-helm/
-   maintainers:
-     - name: project-quarks
-       email: project-quarks@googlegroups.com
- - name: dniel
-   url: https://dniel.github.io/charts/
-   maintainers:
-     - name: Daniel Engfeldt
-       email: daniel@engfeldt.net
- - name: cowboysysop
-   url: https://cowboysysop.github.io/charts/
-   maintainers:
-     - name: Sébastien Prud'homme
-       email: sebastien.prudhomme@gmail.com
+  - name: meshery
+    url: https://meshery.io/charts/
+    maintainers:
+      - name: Aisuko
+        email: urakiny@gmail.com
+  - name: blazure
+    url: https://charts.blazure.com
+    maintainers:
+      - email: ryan@ryanholt.net
+        name: Ryan Holt
+  - name: cdi
+    url: http://raw.githubusercontent.com/woohhan/cdi-chart/master/
+    maintainers:
+      - name: Woohyung Han
+        email: woohhan@gmail.com
+  - name: quarks
+    url: https://cloudfoundry-incubator.github.io/quarks-helm/
+    maintainers:
+      - name: project-quarks
+        email: project-quarks@googlegroups.com
+  - name: dniel
+    url: https://dniel.github.io/charts/
+    maintainers:
+      - name: Daniel Engfeldt
+        email: daniel@engfeldt.net
+  - name: cowboysysop
+    url: https://cowboysysop.github.io/charts/
+    maintainers:
+      - name: Sébastien Prud'homme
+        email: sebastien.prudhomme@gmail.com
