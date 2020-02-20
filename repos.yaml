@@ -900,3 +900,10 @@ repositories:
     maintainers:
       - name: Sébastien Prud'homme
         email: sebastien.prudhomme@gmail.com
+  - name: influxdata
+    url: https://helm.influxdata.com/
+    maintainers:
+      - name: David McKay
+        email: rawkode@influxdata.com
+      - name: Giacomo Tirabassi
+        email: giacomo@influxdata.com
