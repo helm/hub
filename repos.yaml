@@ -870,3 +870,7 @@ repositories:
    maintainers:
      - name: Dgraph Labs
        email: contact@dgraph.io
+     - name: Daniel Mai
+       email: daniel@dgraph.io
+     - name: Prashant Shahi
+       email: prashant@dgraph.io
