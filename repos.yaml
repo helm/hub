@@ -937,3 +937,8 @@ repositories:
         email: avoronkov@enapter.com
       - name: Enapter
         email: admin@enapter.com
+  - name: camptocamp
+    url: http://camptocamp.github.io/charts/
+    maintainers:
+      - name: Camptocamp Infrastructure Department
+        email: kubernetes@camptocamp.com
