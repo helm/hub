@@ -855,15 +855,15 @@ repositories:
     maintainers:
       - name: Rudy Marchandise
         email: ealenn.github-helm@yahoo.com
- - name: dgraph
-   url: https://charts.dgraph.io
-   maintainers:
-     - name: Dgraph Labs
-       email: contact@dgraph.io
-     - name: Daniel Mai
-       email: daniel@dgraph.io
-     - name: Prashant Shahi
-       email: prashant@dgraph.io
+  - name: dgraph
+    url: https://charts.dgraph.io
+    maintainers:
+      - name: Dgraph Labs
+        email: contact@dgraph.io
+      - name: Daniel Mai
+        email: daniel@dgraph.io
+      - name: Prashant Shahi
+        email: prashant@dgraph.io
   - name: oteemo
     url: https://oteemo.github.io/charts/
     maintainers:

@@ -1,6 +1,6 @@
 name: CI
 
-on: [push]
+on: [push, pull_request]
 
 jobs:
   build:
@@ -12,9 +12,15 @@ jobs:
 
     - name: Install yq
       run: |
-        curl -fsSL -o yq https://github.com/mikefarah/yq/releases/download/3.1.1/yq_linux_amd64
+        curl -fsSL -o yq https://github.com/mikefarah/yq/releases/download/3.1.2/yq_linux_amd64
         chmod +x yq
         sudo mv yq /usr/local/bin/yq
 
-    - name: Validate repository index
+    - name: Validate repos metadata
       run: yq v repos.yaml
+
+    - name: Validate monocular repo configuration
+      run: yq v config/repo-values.yaml
+
+    - name: Validate monocular hub values
+      run: yq v config/helm-hub-values.yaml
