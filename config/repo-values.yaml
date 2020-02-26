@@ -318,3 +318,5 @@ sync:
       url: https://helm.cleardata.com/
     - name: meshery
       url: https://meshery.io/charts/
+    - name: influxdata
+      url: https://helm.influxdata.com/
