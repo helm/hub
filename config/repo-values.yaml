@@ -322,3 +322,5 @@ sync:
       url: https://meshery.io/charts/
     - name: influxdata
       url: https://helm.influxdata.com/
+    - name: microcks
+      url: https://microcks.io/helm
