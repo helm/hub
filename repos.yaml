@@ -921,3 +921,10 @@ repositories:
     maintainers:
       - name: Laurent Broudoux
         email: laurent.broudoux@gmail.com
+  - name: enapter
+    url: https://enapter.github.io/charts/
+    maintainers:
+      - name: Andrey Voronkov
+        email: avoronkov@enapter.com
+      - name: Enapter
+        email: admin@enapter.com
