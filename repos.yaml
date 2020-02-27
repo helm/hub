@@ -916,3 +916,12 @@ repositories:
         email: rawkode@influxdata.com
       - name: Giacomo Tirabassi
         email: giacomo@influxdata.com
+  - name: eclipse-dirigible
+    url: https://dirigiblelabs.github.io/charts/
+    maintainers:
+      - email: yordan.pavlov@sap.com
+        name: Yordan Pavlov
+      - email: nedelcho.delchev@sap.com
+        name: Nedelcho Delchev
+      - email: georgi.pavlov@sap.com
+        name: Georgi Pavlov
