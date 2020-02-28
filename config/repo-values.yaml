@@ -322,6 +322,8 @@ sync:
       url: https://meshery.io/charts/
     - name: influxdata
       url: https://helm.influxdata.com/
+    - name: eclipse-dirigible
+      url: https://dirigiblelabs.github.io/charts/
     - name: microcks
       url: https://microcks.io/helm
     - name: enapter
