@@ -324,3 +324,5 @@ sync:
       url: https://helm.influxdata.com/
     - name: microcks
       url: https://microcks.io/helm
+    - name: enapter
+      url: https://enapter.github.io/charts/
