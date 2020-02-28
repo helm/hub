@@ -925,3 +925,8 @@ repositories:
         name: Nedelcho Delchev
       - email: georgi.pavlov@sap.com
         name: Georgi Pavlov
+  - name: microcks
+    url: https://microcks.io/helm
+    maintainers:
+      - name: Laurent Broudoux
+        email: laurent.broudoux@gmail.com

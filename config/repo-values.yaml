@@ -324,3 +324,5 @@ sync:
       url: https://helm.influxdata.com/
     - name: eclipse-dirigible
       url: https://dirigiblelabs.github.io/charts/
+    - name: microcks
+      url: https://microcks.io/helm
