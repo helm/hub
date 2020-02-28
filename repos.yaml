@@ -916,3 +916,8 @@ repositories:
         email: rawkode@influxdata.com
       - name: Giacomo Tirabassi
         email: giacomo@influxdata.com
+  - name: microcks
+    url: https://microcks.io/helm
+    maintainers:
+      - name: Laurent Broudoux
+        email: laurent.broudoux@gmail.com
