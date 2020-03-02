@@ -328,3 +328,5 @@ sync:
       url: https://microcks.io/helm
     - name: enapter
       url: https://enapter.github.io/charts/
+    - name: camel-k
+      url: https://apache.github.io/camel-k/charts/
