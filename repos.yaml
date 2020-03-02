@@ -937,3 +937,10 @@ repositories:
         email: avoronkov@enapter.com
       - name: Enapter
         email: admin@enapter.com
+  - name: camel-k
+    url: https://apache.github.io/camel-k/charts/
+    maintainers:
+      - email: dev@camel.apache.org
+        name: Apache Camel Team
+      - email: nferraro@apache.org
+        name: Nicola Ferraro
