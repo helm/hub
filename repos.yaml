@@ -944,3 +944,8 @@ repositories:
         name: Apache Camel Team
       - email: nferraro@apache.org
         name: Nicola Ferraro
+  - name: pgadmin4
+    url: https://github.com/rowanruseler/pgAdmin4
+    maintainers:
+      - email: rowanruseler@gmail.com
+        name: Rowan Ruseler
