@@ -336,3 +336,5 @@ sync:
       url: https://helm.tricksterproxy.io/
     - name: gradiant
       url: https://gradiant.github.io/charts/
+    - name: runix
+      url: https://helm.runix.net/
