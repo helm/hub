@@ -956,3 +956,8 @@ repositories:
         name: James Ranson
       - email: limitlessearth@gmail.com
         name: Adam Ross
+  - name: gradiant
+    url: https://gradiant.github.io/charts/
+    maintainers:
+      - email: cgiraldo@gradiant.org
+        name: Carlos Giraldo
