@@ -944,3 +944,8 @@ repositories:
         name: Apache Camel Team
       - email: nferraro@apache.org
         name: Nicola Ferraro
+  - name: gradiant
+    url: https://gradiant.github.io/charts/
+    maintainers:
+      - email: cgiraldo@gradiant.org
+        name: Carlos Giraldo
