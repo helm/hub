@@ -328,7 +328,11 @@ sync:
       url: https://microcks.io/helm
     - name: enapter
       url: https://enapter.github.io/charts/
+    - name: camptocamp
+      url: http://camptocamp.github.io/charts/
     - name: camel-k
       url: https://apache.github.io/camel-k/charts/
     - name: pgadmin4
       url: https://github.com/rowanruseler/pgAdmin4
+    - name: trickster
+      url: https://helm.tricksterproxy.io/

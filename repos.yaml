@@ -937,6 +937,11 @@ repositories:
         email: avoronkov@enapter.com
       - name: Enapter
         email: admin@enapter.com
+  - name: camptocamp
+    url: http://camptocamp.github.io/charts/
+    maintainers:
+      - name: Camptocamp Infrastructure Department
+        email: kubernetes@camptocamp.com
   - name: camel-k
     url: https://apache.github.io/camel-k/charts/
     maintainers:
@@ -949,3 +954,10 @@ repositories:
     maintainers:
       - email: rowanruseler@gmail.com
         name: Rowan Ruseler
+  - name: trickster
+    url: https://helm.tricksterproxy.io/
+    maintainers:
+      - email: james@ranson.org
+        name: James Ranson
+      - email: limitlessearth@gmail.com
+        name: Adam Ross
