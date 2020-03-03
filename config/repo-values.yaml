@@ -330,3 +330,5 @@ sync:
       url: https://enapter.github.io/charts/
     - name: camptocamp
       url: http://camptocamp.github.io/charts/
+    - name: camel-k
+      url: https://apache.github.io/camel-k/charts/
