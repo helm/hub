@@ -949,3 +949,10 @@ repositories:
         name: Apache Camel Team
       - email: nferraro@apache.org
         name: Nicola Ferraro
+  - name: trickster
+    url: https://helm.tricksterproxy.io/
+    maintainers:
+      - email: james@ranson.org
+        name: James Ranson
+      - email: limitlessearth@gmail.com
+        name: Adam Ross
