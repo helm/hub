@@ -97,6 +97,11 @@ repositories:
     maintainers:
       - email: icp@ibm.com
         name: IBM Cloud Private
+  - name: infobloxopen
+    url: https://infobloxopen.github.io/cert-manager/
+    maintainers:
+      - email: dwells@infoblox.com
+        name: Drew Wells
   - name: kanister
     url: https://charts.kanister.io/
     maintainers:
