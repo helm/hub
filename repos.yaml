@@ -961,3 +961,8 @@ repositories:
     maintainers:
       - email: cgiraldo@gradiant.org
         name: Carlos Giraldo
+  - name: runix
+    url: https://helm.runix.net/
+    maintainers:
+      - email: rowanruseler@gmail.com
+        name: Rowan Ruseler
