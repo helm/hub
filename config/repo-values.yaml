@@ -331,7 +331,7 @@ sync:
     - name: enapter
       url: https://enapter.github.io/charts/
     - name: camptocamp
-      url: http://camptocamp.github.io/charts/
+      url: http://charts.camptocamp.com
     - name: camel-k
       url: https://apache.github.io/camel-k/charts/
     - name: trickster
