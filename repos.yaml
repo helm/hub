@@ -971,3 +971,8 @@ repositories:
     maintainers:
       - email: rowanruseler@gmail.com
         name: Rowan Ruseler
+  - name: jitterbit
+    url: https://jitterbit.github.io/charts/
+    maintainers:
+      - name: Sean Krail
+        email: sean.krail@jitterbit.com

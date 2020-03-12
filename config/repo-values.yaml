@@ -340,3 +340,5 @@ sync:
       url: https://gradiant.github.io/charts/
     - name: runix
       url: https://helm.runix.net/
+    - name: jitterbit
+      url: https://jitterbit.github.io/charts/
