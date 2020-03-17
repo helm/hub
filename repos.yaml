@@ -976,3 +976,10 @@ repositories:
     maintainers:
       - name: Sean Krail
         email: sean.krail@jitterbit.com
+  - name: prometheus-msteams
+    url: https://prometheus-msteams.github.io/helm-chart
+    maintainers:
+      - name: John Bryan Sazon
+        email: jb.jorge.sazon@gmail.com
+      - name: Andy Knapp
+        email: andy.knapp.ak@googlemail.com
