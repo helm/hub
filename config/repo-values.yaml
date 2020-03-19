@@ -342,5 +342,7 @@ sync:
       url: https://helm.runix.net/
     - name: jitterbit
       url: https://jitterbit.github.io/charts/
+    - name: franzinc
+      url: https://franz.com/ftp/pub/helm/charts/
     - name: prometheus-msteams
       url: https://prometheus-msteams.github.io/helm-chart

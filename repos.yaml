@@ -976,6 +976,11 @@ repositories:
     maintainers:
       - name: Sean Krail
         email: sean.krail@jitterbit.com
+  - name: franzinc
+    url: https://franz.com/ftp/pub/helm/charts/
+    maintainers:
+      - name: Franz Inc
+        email: support@franz.com
   - name: prometheus-msteams
     url: https://prometheus-msteams.github.io/helm-chart
     maintainers:
