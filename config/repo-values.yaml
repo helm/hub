@@ -346,3 +346,5 @@ sync:
       url: https://franz.com/ftp/pub/helm/charts/
     - name: prometheus-msteams
       url: https://prometheus-msteams.github.io/helm-chart
+    - name: brannon
+      url: https://helm.brannon.online
