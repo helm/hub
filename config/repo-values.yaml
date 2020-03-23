@@ -348,3 +348,5 @@ sync:
       url: https://prometheus-msteams.github.io/helm-chart
     - name: dandydeveloper
       url: https://dandydeveloper.github.io/charts
+    - name: brannon
+      url: https://helm.brannon.online

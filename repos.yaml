@@ -995,3 +995,8 @@ repositories:
       name: ssalaues
     - email: aaron.layfield@gmail.com
       name: dandydeveloper
+  - name: brannon
+    url: https://helm.brannon.online
+    maintainers:
+      - name: Brannon Dorsey
+        email: brannon@brannondorsey.com
