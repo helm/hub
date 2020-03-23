@@ -988,3 +988,10 @@ repositories:
         email: jb.jorge.sazon@gmail.com
       - name: Andy Knapp
         email: andy.knapp.ak@googlemail.com
+  - name: dandydeveloper
+    url: https://dandydeveloper.github.io/charts
+    maintainers:
+    - email: salimsalaues@gmail.com
+      name: ssalaues
+    - email: aaron.layfield@gmail.com
+      name: dandydeveloper
