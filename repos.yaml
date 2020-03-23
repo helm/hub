@@ -988,3 +988,8 @@ repositories:
         email: jb.jorge.sazon@gmail.com
       - name: Andy Knapp
         email: andy.knapp.ak@googlemail.com
+  - name: brannon
+    url: https://helm.brannon.online
+    maintainers:
+      - name: Brannon Dorsey
+        email: brannon@brannondorsey.com
