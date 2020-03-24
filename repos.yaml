@@ -991,8 +991,6 @@ repositories:
   - name: dandydeveloper
     url: https://dandydeveloper.github.io/charts
     maintainers:
-    - email: salimsalaues@gmail.com
-      name: ssalaues
     - email: aaron.layfield@gmail.com
       name: dandydeveloper
   - name: brannon
