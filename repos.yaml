@@ -1005,6 +1005,11 @@ repositories:
     maintainers:
       - name: Brannon Dorsey
         email: brannon@brannondorsey.com
+  - name: pcktdmp
+    url: https://pcktdmp.github.io/charts
+    maintainers:
+      - name: Serge van Namen
+        email: serge@se-cured.org
   - name: fluent
     url: https://fluent.github.io/helm-charts
     maintainers:
