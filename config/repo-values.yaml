@@ -352,3 +352,5 @@ sync:
       url: https://dandydeveloper.github.io/charts
     - name: brannon
       url: https://helm.brannon.online
+    - name: fluent
+      url: https://fluent.github.io/helm-charts

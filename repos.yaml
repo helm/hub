@@ -1005,3 +1005,10 @@ repositories:
     maintainers:
       - name: Brannon Dorsey
         email: brannon@brannondorsey.com
+  - name: fluent
+    url: https://fluent.github.io/helm-charts
+    maintainers:
+      - email: eduardo@treasure-data.com
+        name: edsiper
+      - email: naseemkullah@gmail.com
+        name: naseemkullah
