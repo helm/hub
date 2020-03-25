@@ -855,6 +855,11 @@ repositories:
     maintainers:
       - name: code-chris
         email: christian.kotzbauer@gmail.com
+  - name: larribas
+    url: https://larribas.me/helm-charts
+    maintainers:
+      - name: larribas
+        email: contact@larribas.me
   - name: ealenn
     url: https://ealenn.github.io/charts
     maintainers:
@@ -1005,3 +1010,10 @@ repositories:
     maintainers:
       - name: Serge van Namen
         email: serge@se-cured.org
+  - name: fluent
+    url: https://fluent.github.io/helm-charts
+    maintainers:
+      - email: eduardo@treasure-data.com
+        name: edsiper
+      - email: naseemkullah@gmail.com
+        name: naseemkullah
