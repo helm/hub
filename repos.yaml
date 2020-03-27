@@ -1017,3 +1017,8 @@ repositories:
         name: edsiper
       - email: naseemkullah@gmail.com
         name: naseemkullah
+  - name: ververica
+    url: https://charts.ververica.com/
+    maintainers:
+      - name: Ververica
+        email: platform@ververica.com
