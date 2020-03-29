@@ -358,3 +358,5 @@ sync:
       url: https://fluent.github.io/helm-charts
     - name: ververica
       url: https://charts.ververica.com/
+    - name: smueller18
+      url: https://smueller18.gitlab.io/helm-charts

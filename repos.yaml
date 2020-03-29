@@ -1022,3 +1022,8 @@ repositories:
     maintainers:
       - name: Ververica
         email: platform@ververica.com
+  - name: smueller18
+    url: https://smueller18.gitlab.io/helm-charts
+    maintainers:
+      - name: Stephan Müller
+        email: mail@stephanmueller.eu
