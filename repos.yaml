@@ -1027,3 +1027,8 @@ repositories:
     maintainers:
       - name: Stephan Müller
         email: mail@stephanmueller.eu
+  - name: renovate
+    url: https://docs.renovatebot.com/helm-charts
+    maintainers:
+      - name: Jamie Magee
+        email: jamie.magee@gmail.com

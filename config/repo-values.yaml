@@ -360,3 +360,5 @@ sync:
       url: https://charts.ververica.com/
     - name: smueller18
       url: https://smueller18.gitlab.io/helm-charts
+    - name: renovate
+      url: https://docs.renovatebot.com/helm-charts
