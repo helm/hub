@@ -1038,7 +1038,7 @@ repositories:
       - name: David Cruz
         email: david@typokign.com
   - name: kuberhealthy
-    url: https://comcast.github.io/kuberhealthy/
+    url: https://comcast.github.io/kuberhealthy/helm-repos
     maintainers:
       - name: tp-cts-kubesquad
       - email: tp-cts-kubesquad@comcast.com
