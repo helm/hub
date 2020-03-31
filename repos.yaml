@@ -1032,3 +1032,8 @@ repositories:
     maintainers:
       - name: Jamie Magee
         email: jamie.magee@gmail.com
+  - name: dacruz21
+    url: https://dacruz21.github.io/helm-charts
+    maintainers:
+      - name: David Cruz
+        email: david@typokign.com
