@@ -362,3 +362,5 @@ sync:
       url: https://smueller18.gitlab.io/helm-charts
     - name: renovate
       url: https://docs.renovatebot.com/helm-charts
+    - name: dacruz21
+      url: https://dacruz21.github.io/helm-charts
