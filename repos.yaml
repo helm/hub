@@ -1042,3 +1042,8 @@ repositories:
     maintainers:
       - name: tp-cts-kubesquad
       - email: tp-cts-kubesquad@comcast.com
+  - name: touk
+    url: https://helm-charts.touk.pl/public/
+    maintainers:
+      - name: TouK Helm Charts Team
+      - email: helm-charts@touk.pl
