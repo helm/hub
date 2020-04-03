@@ -374,3 +374,5 @@ sync:
       url: https://carlosjgp.github.io/open-charts/
     - name: fyipe
       url: https://fyipe.com/chart
+    - name: nats
+      url: https://nats-io.github.io/k8s/helm/charts/
