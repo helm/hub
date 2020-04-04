@@ -1047,3 +1047,8 @@ repositories:
     maintainers:
       - name: TouK Helm Charts Team
       - email: helm-charts@touk.pl
+  - name: codimd
+    url: https://helm.codimd.dev/
+    maintainers:
+      - name: HackMD Inc. Dev Team
+      - email: support@hackmd.io
