@@ -1041,14 +1041,14 @@ repositories:
     url: https://comcast.github.io/kuberhealthy/helm-repos
     maintainers:
       - name: tp-cts-kubesquad
-      - email: tp-cts-kubesquad@comcast.com
+        email: tp-cts-kubesquad@comcast.com
   - name: touk
     url: https://helm-charts.touk.pl/public/
     maintainers:
       - name: TouK Helm Charts Team
-      - email: helm-charts@touk.pl
+        email: helm-charts@touk.pl
   - name: codimd
     url: https://helm.codimd.dev/
     maintainers:
       - name: HackMD Inc. Dev Team
-      - email: support@hackmd.io
+        email: support@hackmd.io
