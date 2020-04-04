@@ -368,3 +368,5 @@ sync:
       url: https://comcast.github.io/kuberhealthy/helm-repos
     - name: touk
       url: https://helm-charts.touk.pl/public/
+    - name: codimd
+      url: https://helm.codimd.dev/
