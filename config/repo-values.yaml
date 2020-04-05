@@ -370,3 +370,5 @@ sync:
       url: https://helm-charts.touk.pl/public/
     - name: codimd
       url: https://helm.codimd.dev/
+    - name: carlosjgp
+      url: https://carlosjgp.github.io/open-charts/
