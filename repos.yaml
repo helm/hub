@@ -1052,3 +1052,8 @@ repositories:
     maintainers:
       - name: HackMD Inc. Dev Team
         email: support@hackmd.io
+  - name: carlosjgp
+    url: https://carlosjgp.github.io/open-charts/
+    maintainers:
+      - name: Carlos Juan Gómez Peñalver
+        email: carlosjuangp@gmail.com
