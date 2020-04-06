@@ -372,3 +372,5 @@ sync:
       url: https://helm.codimd.dev/
     - name: carlosjgp
       url: https://carlosjgp.github.io/open-charts/
+    - name: fyipe
+      url: https://fyipe.com/chart
