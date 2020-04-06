@@ -1057,3 +1057,10 @@ repositories:
     maintainers:
       - name: Carlos Juan Gómez Peñalver
         email: carlosjuangp@gmail.com
+  - name: pndaproject
+    url: https://pndaproject.github.io/pnda-helm-chart/
+    maintainers:
+      - name: Carlos Giraldo
+        email: cgiraldo@gradiant.org
+      - name: Donald Hunter
+        email: donaldh@cisco.com
