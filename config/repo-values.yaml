@@ -366,5 +366,5 @@ sync:
       url: https://dacruz21.github.io/helm-charts
     - name: kuberhealthy
       url: https://comcast.github.io/kuberhealthy/helm-repos
-    - name: neo4j-community
-      url: https://equinor.github.io/neo4j-charts/charts/
+    - name: equinor-charts
+      url: https://equinor.github.io/equinor-charts/charts/

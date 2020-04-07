@@ -1042,8 +1042,8 @@ repositories:
     maintainers:
       - name: tp-cts-kubesquad
       - email: tp-cts-kubesquad@comcast.com
-  - name: neo4j-community
-    url: https://equinor.github.io/neo4j-charts/charts/
+  - name: equinor-charts
+    url: https://equinor.github.io/equinor-charts/charts/
     maintainers:
       - name: Stian Ovrevage
       - email: stian@peritusconsulting.no
