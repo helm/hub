@@ -1043,7 +1043,7 @@ repositories:
       - name: tp-cts-kubesquad
       - email: tp-cts-kubesquad@comcast.com
   - name: equinor-charts
-    url: https://equinor.github.io/equinor-charts/charts/
+    url: https://equinor.github.io/helm-charts/charts/
     maintainers:
       - name: Stian Ovrevage
       - email: stian@peritusconsulting.no

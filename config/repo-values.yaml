@@ -367,4 +367,4 @@ sync:
     - name: kuberhealthy
       url: https://comcast.github.io/kuberhealthy/helm-repos
     - name: equinor-charts
-      url: https://equinor.github.io/equinor-charts/charts/
+      url: https://equinor.github.io/helm-charts/charts/
