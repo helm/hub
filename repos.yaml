@@ -1062,3 +1062,8 @@ repositories:
     maintainers:
       - name: Fyipe Engineering Team
         email: engineering@fyipe.com
+  - name: nats
+    url: https://nats-io.github.io/k8s/helm/charts/
+    maintainers:
+      - name: Waldemar Quevedo
+      - email: wally@nats.io
