@@ -380,3 +380,5 @@ sync:
       url: https://nats-io.github.io/k8s/helm/charts/
     - name: pndaproject
       url: https://pndaproject.github.io/pnda-helm-chart/
+    - name: wyrihaximusnet
+      url: https://helm.wyrihaximus.net/
