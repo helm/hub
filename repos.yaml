@@ -1057,6 +1057,16 @@ repositories:
     maintainers:
       - name: Carlos Juan Gómez Peñalver
         email: carlosjuangp@gmail.com
+  - name: fyipe
+    url: https://fyipe.com/chart
+    maintainers:
+      - name: Fyipe Engineering Team
+        email: engineering@fyipe.com
+  - name: nats
+    url: https://nats-io.github.io/k8s/helm/charts/
+    maintainers:
+      - name: Waldemar Quevedo
+      - email: wally@nats.io
   - name: pndaproject
     url: https://pndaproject.github.io/pnda-helm-chart/
     maintainers:
