@@ -1072,3 +1072,10 @@ repositories:
     maintainers:
       - name: Waldemar Quevedo
       - email: wally@nats.io
+  - name: pndaproject
+    url: https://pndaproject.github.io/pnda-helm-chart/
+    maintainers:
+      - name: Carlos Giraldo
+        email: cgiraldo@gradiant.org
+      - name: Donald Hunter
+        email: donaldh@cisco.com
