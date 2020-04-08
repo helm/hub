@@ -1047,3 +1047,28 @@ repositories:
     maintainers:
       - name: Stian Ovrevage
       - email: stian@peritusconsulting.no
+  - name: touk
+    url: https://helm-charts.touk.pl/public/
+    maintainers:
+      - name: TouK Helm Charts Team
+        email: helm-charts@touk.pl
+  - name: codimd
+    url: https://helm.codimd.dev/
+    maintainers:
+      - name: HackMD Inc. Dev Team
+        email: support@hackmd.io
+  - name: carlosjgp
+    url: https://carlosjgp.github.io/open-charts/
+    maintainers:
+      - name: Carlos Juan Gómez Peñalver
+        email: carlosjuangp@gmail.com
+  - name: fyipe
+    url: https://fyipe.com/chart
+    maintainers:
+      - name: Fyipe Engineering Team
+        email: engineering@fyipe.com
+  - name: nats
+    url: https://nats-io.github.io/k8s/helm/charts/
+    maintainers:
+      - name: Waldemar Quevedo
+      - email: wally@nats.io

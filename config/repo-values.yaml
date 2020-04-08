@@ -368,3 +368,13 @@ sync:
       url: https://comcast.github.io/kuberhealthy/helm-repos
     - name: equinor-charts
       url: https://equinor.github.io/helm-charts/charts/
+    - name: touk
+      url: https://helm-charts.touk.pl/public/
+    - name: codimd
+      url: https://helm.codimd.dev/
+    - name: carlosjgp
+      url: https://carlosjgp.github.io/open-charts/
+    - name: fyipe
+      url: https://fyipe.com/chart
+    - name: nats
+      url: https://nats-io.github.io/k8s/helm/charts/
