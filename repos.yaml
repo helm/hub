@@ -1041,7 +1041,12 @@ repositories:
     url: https://comcast.github.io/kuberhealthy/helm-repos
     maintainers:
       - name: tp-cts-kubesquad
-        email: tp-cts-kubesquad@comcast.com
+      - email: tp-cts-kubesquad@comcast.com
+  - name: equinor-charts
+    url: https://equinor.github.io/helm-charts/charts/
+    maintainers:
+      - name: Stian Ovrevage
+      - email: stian@peritusconsulting.no
   - name: touk
     url: https://helm-charts.touk.pl/public/
     maintainers:

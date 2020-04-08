@@ -366,6 +366,8 @@ sync:
       url: https://dacruz21.github.io/helm-charts
     - name: kuberhealthy
       url: https://comcast.github.io/kuberhealthy/helm-repos
+    - name: equinor-charts
+      url: https://equinor.github.io/helm-charts/charts/
     - name: touk
       url: https://helm-charts.touk.pl/public/
     - name: codimd
