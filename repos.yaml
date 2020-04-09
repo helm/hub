@@ -1079,3 +1079,8 @@ repositories:
         email: cgiraldo@gradiant.org
       - name: Donald Hunter
         email: donaldh@cisco.com
+  - name: wyrihaximusnet
+    url: https://helm.wyrihaximus.net/
+    maintainers:
+      - name: Cees-Jan Kiewiet
+        email: helm@wyrihaximus.net
