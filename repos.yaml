@@ -1084,3 +1084,8 @@ repositories:
     maintainers:
       - name: Cees-Jan Kiewiet
         email: helm@wyrihaximus.net
+  - name: tremolosecurity
+    url: https://nexus.tremolo.io/repository/helm/
+    maintainers:
+      - name: Tremolo Security
+        email: helm@tremolo.io

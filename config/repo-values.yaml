@@ -382,3 +382,5 @@ sync:
       url: https://pndaproject.github.io/pnda-helm-chart/
     - name: wyrihaximusnet
       url: https://helm.wyrihaximus.net/
+    - name: tremolosecurity
+      url: https://nexus.tremolo.io/repository/helm/
