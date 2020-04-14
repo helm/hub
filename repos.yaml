@@ -1089,3 +1089,8 @@ repositories:
     maintainers:
       - name: Tremolo Security
         email: helm@tremolo.io
+  - name: cronce
+    url: https://charts.cronce.io/
+    maintainers:
+      - name: Mike Cronce
+        email: helm@cronce.io

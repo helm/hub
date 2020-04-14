@@ -384,3 +384,5 @@ sync:
       url: https://helm.wyrihaximus.net/
     - name: tremolosecurity
       url: https://nexus.tremolo.io/repository/helm/
+    - name: cronce
+      url: https://charts.cronce.io/
