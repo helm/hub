@@ -1094,3 +1094,10 @@ repositories:
     maintainers:
       - name: Mike Cronce
         email: helm@cronce.io
+  - name: verdaccio
+    url: https://charts.verdaccio.org/
+    maintainers:
+      - name: Juan Picado
+        email: juanpicado19@gmail.com
+      - name: Jhon Mike
+        email: jhon.msdev@gmail.com

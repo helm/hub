@@ -386,3 +386,5 @@ sync:
       url: https://nexus.tremolo.io/repository/helm/
     - name: cronce
       url: https://charts.cronce.io/
+    - name: verdaccio
+      url: https://charts.verdaccio.org/
