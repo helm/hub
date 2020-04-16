@@ -388,3 +388,5 @@ sync:
       url: https://charts.cronce.io/
     - name: verdaccio
       url: https://charts.verdaccio.org/
+    - name: enix
+      url: https://charts.enix.io/
