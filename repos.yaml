@@ -294,7 +294,7 @@ repositories:
       - email: aaron@ecomaz.net
         name: Aaron Schlesinger
   - name: zentainer
-    url: https://charts.zenatiner.app
+    url: https://charts.zentainer.app
     maintainers:
       - name: Will Newby
         email: will@zentainer.app
