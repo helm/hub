@@ -1106,3 +1106,8 @@ repositories:
     maintainers:
       - name: Antoine Millet
         email: antoine.millet@enix.fr
+  - name: mox
+    url: https://helm.mox.sh/
+    maintainers:
+      - name: Javier Moreno
+        email: jmox@protonmail.com
