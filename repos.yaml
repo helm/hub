@@ -1101,3 +1101,8 @@ repositories:
         email: juanpicado19@gmail.com
       - name: Jhon Mike
         email: jhon.msdev@gmail.com
+  - name: enix
+    url: https://charts.enix.io/
+    maintainers:
+      - name: Antoine Millet
+        email: antoine.millet@enix.fr
