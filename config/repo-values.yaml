@@ -390,3 +390,5 @@ sync:
       url: https://charts.verdaccio.org/
     - name: enix
       url: https://charts.enix.io/
+    - name: emagtechlabs
+      url: https://emagtechlabs.github.io/helm-charts/

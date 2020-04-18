@@ -1106,3 +1106,8 @@ repositories:
     maintainers:
       - name: Antoine Millet
         email: antoine.millet@enix.fr
+  - name: emagtechlabs
+    url: https://emagtechlabs.github.io/helm-charts/
+    maintainers:
+      - name: Beniamin Calota
+        email: beniamin.calota@emag.ro
