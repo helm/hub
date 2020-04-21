@@ -392,3 +392,7 @@ sync:
       url: https://charts.enix.io/
     - name: mox
       url: https://helm.mox.sh/
+    - name: saikatharryc
+      url: https://saikatharryc.github.io/helm/
+    - name: volantmq
+      url: https://volantmq.github.io/helm/
