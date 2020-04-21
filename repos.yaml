@@ -1111,3 +1111,8 @@ repositories:
     maintainers:
       - name: Javier Moreno
         email: jmox@protonmail.com
+  - name: ukfast
+    url: https://ukfast.github.io/helm-charts
+    maintainers:
+      - name: Lee Spottiswood
+        email: lee.spottiswood@ukfast.co.uk

@@ -392,3 +392,5 @@ sync:
       url: https://charts.enix.io/
     - name: mox
       url: https://helm.mox.sh/
+    - name: ukfast
+      url: https://ukfast.github.io/helm-charts
