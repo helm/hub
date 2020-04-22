@@ -1123,6 +1123,11 @@ repositories:
         email: gnante0@gmail.com
       - name: Saikat Chakrabortty
         email: saikatchakrabortty2@gmail.com
+  - name: ukfast
+    url: https://ukfast.github.io/helm-charts
+    maintainers:
+      - name: Lee Spottiswood
+        email: lee.spottiswood@ukfast.co.uk
   - name: redash
     url: https://getredash.github.io/contrib-helm-chart/
     maintainers:

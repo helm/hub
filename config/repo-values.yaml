@@ -396,5 +396,7 @@ sync:
       url: https://saikatharryc.github.io/helm/
     - name: volantmq
       url: https://volantmq.github.io/helm/
+    - name: ukfast
+      url: https://ukfast.github.io/helm-charts
     - name: redash
       url: https://getredash.github.io/contrib-helm-chart/
