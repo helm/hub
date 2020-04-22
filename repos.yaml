@@ -1111,6 +1111,18 @@ repositories:
     maintainers:
       - name: Javier Moreno
         email: jmox@protonmail.com
+  - name: saikatharryc
+    url: https://saikatharryc.github.io/helm/
+    maintainers:
+      - name: Saikat Chakrabortty
+        email: saikatchakrabortty2@gmail.com
+  - name: volantmq
+    url: https://volantmq.github.io/helm/
+    maintainers:
+      - name: Ante Gulin
+        email: gnante0@gmail.com
+      - name: Saikat Chakrabortty
+        email: saikatchakrabortty2@gmail.com
   - name: ukfast
     url: https://ukfast.github.io/helm-charts
     maintainers:
