@@ -1133,3 +1133,8 @@ repositories:
     maintainers:
       - name: Owen Barton
         email: owen.barton@civicactions.com
+  - name: emagtechlabs
+    url: https://emagtechlabs.github.io/helm-charts/
+    maintainers:
+      - name: Beniamin Calota
+        email: beniamin.calota@emag.ro

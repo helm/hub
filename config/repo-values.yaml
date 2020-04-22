@@ -400,3 +400,5 @@ sync:
       url: https://ukfast.github.io/helm-charts
     - name: redash
       url: https://getredash.github.io/contrib-helm-chart/
+    - name: emagtechlabs
+      url: https://emagtechlabs.github.io/helm-charts/
