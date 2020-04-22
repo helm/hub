@@ -1123,3 +1123,8 @@ repositories:
         email: gnante0@gmail.com
       - name: Saikat Chakrabortty
         email: saikatchakrabortty2@gmail.com
+  - name: redash
+    url: https://getredash.github.io/contrib-helm-chart/
+    maintainers:
+      - name: Owen Barton
+        email: owen.barton@civicactions.com

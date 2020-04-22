@@ -396,3 +396,5 @@ sync:
       url: https://saikatharryc.github.io/helm/
     - name: volantmq
       url: https://volantmq.github.io/helm/
+    - name: redash
+      url: https://getredash.github.io/contrib-helm-chart/
