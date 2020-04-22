@@ -394,3 +394,5 @@ sync:
       url: https://helm.mox.sh/
     - name: ukfast
       url: https://ukfast.github.io/helm-charts
+    - name: redash
+      url: https://getredash.github.io/contrib-helm-chart/

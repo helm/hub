@@ -1116,3 +1116,8 @@ repositories:
     maintainers:
       - name: Lee Spottiswood
         email: lee.spottiswood@ukfast.co.uk
+  - name: redash
+    url: https://getredash.github.io/contrib-helm-chart/
+    maintainers:
+      - name: Owen Barton
+        email: owen.barton@civicactions.com
