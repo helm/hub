@@ -402,3 +402,5 @@ sync:
       url: https://getredash.github.io/contrib-helm-chart/
     - name: emagtechlabs
       url: https://emagtechlabs.github.io/helm-charts/
+    - name: gitkent
+      url: https://gitkent.github.io/helm-charts/
