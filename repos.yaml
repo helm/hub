@@ -1138,3 +1138,8 @@ repositories:
     maintainers:
       - name: Beniamin Calota
         email: beniamin.calota@emag.ro
+  - name: gitkent
+    url: https://gitkent.github.io/helm-charts/
+    maintainers:
+      - name: Kent Lee
+        email: kentw3e.lee@gmail.com
