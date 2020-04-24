@@ -1138,3 +1138,8 @@ repositories:
     maintainers:
       - name: Beniamin Calota
         email: beniamin.calota@emag.ro
+  - name: logiqai
+    url: https://logiqai.github.io/helm-charts/
+    maintainers:
+      - name: Ranjan Parthasarathy
+        email: ranjan@logiq.ai
