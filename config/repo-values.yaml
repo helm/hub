@@ -404,3 +404,5 @@ sync:
       url: https://emagtechlabs.github.io/helm-charts/
     - name: gitkent
       url: https://gitkent.github.io/helm-charts/
+    - name: logiqai
+      url: https://logiqai.github.io/helm-charts/
