@@ -1148,3 +1148,10 @@ repositories:
     maintainers:
       - name: Ranjan Parthasarathy
         email: ranjan@logiq.ai
+  - name: couchbase
+    url: https://couchbase-partners.github.io/helm-charts/
+    maintainers:
+    - name: Couchbase Cloud Native Team
+      email: kubernetes@couchbase.com
+    - name: Tommie McAfee
+      email: tommie@couchbase.com
