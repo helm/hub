@@ -1143,3 +1143,8 @@ repositories:
     maintainers:
       - name: Kent Lee
         email: kentw3e.lee@gmail.com
+  - name: logiqai
+    url: https://logiqai.github.io/helm-charts/
+    maintainers:
+      - name: Ranjan Parthasarathy
+        email: ranjan@logiq.ai
