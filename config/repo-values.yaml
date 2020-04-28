@@ -406,3 +406,5 @@ sync:
       url: https://gitkent.github.io/helm-charts/
     - name: logiqai
       url: https://logiqai.github.io/helm-charts/
+    - name: couchbase
+      url: https://couchbase-partners.github.io/helm-charts/
