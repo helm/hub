@@ -1155,3 +1155,11 @@ repositories:
       email: kubernetes@couchbase.com
     - name: Tommie McAfee
       email: tommie@couchbase.com
+  - name: hokstack
+    url: https://charts.hokstack.io
+    maintainers:
+    - name: Rohit Sharma
+      email: rohit@hokstack.io
+    - name: Subhmoy Biswas
+      email: subhmoy@hokstack.io
+
