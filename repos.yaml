@@ -80,6 +80,17 @@ repositories:
     maintainers:
       - name: Bitnami
         email: containers@bitnami.com
+  - name: puppet
+    url: https://puppetlabs.github.io/puppetserver-helm-chart
+    maintainers:
+      - name: Pupperware Team
+        email: pupperware@puppet.com
+      - name: underscorgan
+        email: morgan@puppet.com
+      - name: Xtigyro
+        email: miroslav.hadzhiev@gmail.com
+      - name: slconley
+        email: slconley@gmail.com
   - name: fluxcd
     url: https://charts.fluxcd.io
     maintainers:
