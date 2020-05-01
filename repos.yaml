@@ -80,7 +80,7 @@ repositories:
     maintainers:
       - name: Bitnami
         email: containers@bitnami.com
-  - name: puppetserver
+  - name: puppet
     url: https://puppetlabs.github.io/puppetserver-helm-chart
     maintainers:
       - name: Pupperware Team

@@ -408,5 +408,5 @@ sync:
       url: https://logiqai.github.io/helm-charts/
     - name: couchbase
       url: https://couchbase-partners.github.io/helm-charts/
-    - name: puppetserver
+    - name: puppet
       url: https://puppetlabs.github.io/puppetserver-helm-chart
