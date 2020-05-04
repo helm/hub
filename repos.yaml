@@ -1173,3 +1173,8 @@ repositories:
       email: rohitrsh@gmail.com
     - name: Shubhomoy Biswas
       email: shubhomoy.biswas95@gmail.com
+  - name: redsky
+    url: https://redskyops.dev/charts/
+    maintainers:
+    - name: Red Sky Ops Team
+      email: info@redskyops.dev
