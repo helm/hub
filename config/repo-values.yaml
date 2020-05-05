@@ -412,3 +412,5 @@ sync:
       url: https://puppetlabs.github.io/puppetserver-helm-chart
     - name: hokstack
       url: https://charts.hokstack.io
+    - name: redsky
+      url: https://redskyops.dev/charts/
