@@ -118,6 +118,11 @@ repositories:
     maintainers:
       - email: helm@kasten.io
         name: Kanister
+  - name: fikaworks
+    url: https://fikaworks.github.io/helm-charts
+    maintainers:
+      - email: etienne.tremel@fika.works
+        name: Etienne Tremel
   - name: flagger
     url: https://flagger.app
     maintainers:
