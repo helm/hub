@@ -418,3 +418,5 @@ sync:
       url: https://redskyops.dev/charts/
     - name: honeycomb
       url: https://honeycombio.github.io./helm-charts/
+    - name: stardog
+      url: https://stardog-union.github.io/helm-charts/
