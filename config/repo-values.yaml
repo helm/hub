@@ -414,3 +414,5 @@ sync:
       url: https://charts.hokstack.io
     - name: redsky
       url: https://redskyops.dev/charts/
+    - name: honeycomb
+      url: https://honeycombio.github.io./helm-charts/
