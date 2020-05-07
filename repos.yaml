@@ -1183,3 +1183,8 @@ repositories:
     maintainers:
     - name: Red Sky Ops Team
       email: info@redskyops.dev
+  - name: honeycomb
+    utl: https://honeycombio.github.io/helm-charts/
+    maintainers:
+    - name: Pierre Tessier
+      email: pierre@honeycomb.io
