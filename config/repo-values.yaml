@@ -43,6 +43,8 @@ sync:
       url: https://infobloxopen.github.io/cert-manager/
     - name: kanister
       url: https://charts.kanister.io/
+    - name: fikaworks
+      url: https://fikaworks.github.io/helm-charts
     - name: flagger
       url: https://flagger.app
     - name: zammad
