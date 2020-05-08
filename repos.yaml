@@ -1184,7 +1184,14 @@ repositories:
     - name: Red Sky Ops Team
       email: info@redskyops.dev
   - name: honeycomb
-    utl: https://honeycombio.github.io/helm-charts/
+    url: https://honeycombio.github.io/helm-charts/
     maintainers:
     - name: Pierre Tessier
       email: pierre@honeycomb.io
+  - name: azure-apim-gateway
+    url: https://azure.github.io/api-management-self-hosted-gateway/helm-charts/
+    maintainers:
+    - email: apimgmt@microsoft.com
+      name: Azure API Management team
+    - email: kerkhove.tom@gmail.com
+      name: Tom Kerkhove
