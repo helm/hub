@@ -1188,3 +1188,8 @@ repositories:
     maintainers:
     - name: Pierre Tessier
       email: pierre@honeycomb.io
+  - name: stardog
+    url: https://stardog-union.github.io/helm-charts/
+    maintainers:
+    - name: Stardog Union
+      email: tech@stardog.com
