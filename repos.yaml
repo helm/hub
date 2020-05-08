@@ -1195,3 +1195,8 @@ repositories:
       name: Azure API Management team
     - email: kerkhove.tom@gmail.com
       name: Tom Kerkhove
+  - name: stardog
+    url: https://stardog-union.github.io/helm-charts/
+    maintainers:
+    - name: Stardog Union
+      email: tech@stardog.com
