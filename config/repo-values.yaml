@@ -420,3 +420,5 @@ sync:
       url: https://honeycombio.github.io./helm-charts/
     - name: stardog
       url: https://stardog-union.github.io/helm-charts/
+    - name: ladeit
+      url: https://ladeit.github.io/charts

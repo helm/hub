@@ -1193,3 +1193,8 @@ repositories:
     maintainers:
     - name: Stardog Union
       email: tech@stardog.com
+  - name: ladeit
+    url: https://ladeit.github.io/charts
+    maintainers:
+    - name: Ladeit Team
+      email: jiiiuxiii@gmail.com
