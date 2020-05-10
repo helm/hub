@@ -1211,7 +1211,7 @@ repositories:
     - name: Pozetron Inc
       email: charts@pozetroninc.com
   - name: sudermanjr
-    url: https://sudermanjr.com
+    url: https://charts.sudermanjr.com
     maintainers:
     - name: Andrew Suderman
       email: andrew@sudermanjr.com
