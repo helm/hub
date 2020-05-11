@@ -1215,3 +1215,8 @@ repositories:
     maintainers:
     - name: Andrew Suderman
       email: andrew@sudermanjr.com
+  - name: cnieg
+    url: https://cnieg.github.io/helm-charts
+    maintainers:
+    - name: CNIEG maintainers
+      email: maintainers@cnieg.fr
