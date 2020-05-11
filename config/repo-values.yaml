@@ -426,5 +426,7 @@ sync:
       url: https://ladeit.github.io/charts
     - name: pozetron
       url: https://www.pozetron.com/helm/
+    - name: sudermanjr
+      url: https://charts.sudermanjr.com
     - name: cnieg
       url: https://cnieg.github.io/helm-charts    
