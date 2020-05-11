@@ -1184,10 +1184,17 @@ repositories:
     - name: Red Sky Ops Team
       email: info@redskyops.dev
   - name: honeycomb
-    utl: https://honeycombio.github.io/helm-charts/
+    url: https://honeycombio.github.io/helm-charts/
     maintainers:
     - name: Pierre Tessier
       email: pierre@honeycomb.io
+  - name: azure-apim-gateway
+    url: https://azure.github.io/api-management-self-hosted-gateway/helm-charts/
+    maintainers:
+    - email: apimgmt@microsoft.com
+      name: Azure API Management team
+    - email: kerkhove.tom@gmail.com
+      name: Tom Kerkhove
   - name: stardog
     url: https://stardog-union.github.io/helm-charts/
     maintainers:
@@ -1198,3 +1205,8 @@ repositories:
     maintainers:
     - name: Ladeit Team
       email: jiiiuxiii@gmail.com
+  - name: pozetron
+    url: https://www.pozetron.com/helm/
+    maintainers:
+    - name: Pozetron Inc
+      email: charts@pozetroninc.com
