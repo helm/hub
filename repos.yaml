@@ -1200,3 +1200,8 @@ repositories:
     maintainers:
     - name: Stardog Union
       email: tech@stardog.com
+  - name: pozetron
+    url: https://www.pozetron.com/helm/
+    maintainers:
+    - name: Pozetron Inc
+      email: charts@pozetroninc.com

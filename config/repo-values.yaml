@@ -422,3 +422,5 @@ sync:
       url: https://azure.github.io/api-management-self-hosted-gateway/helm-charts/
     - name: stardog
       url: https://stardog-union.github.io/helm-charts/
+    - name: pozetron
+      url: https://www.pozetron.com/helm/
