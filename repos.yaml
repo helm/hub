@@ -1210,3 +1210,8 @@ repositories:
     maintainers:
     - name: Pozetron Inc
       email: charts@pozetroninc.com
+  - name: cnieg
+    url: https://cnieg.github.io/helm-charts
+    maintainers:
+    - name: CNIEG maintainers
+      email: maintainers@cnieg.fr
