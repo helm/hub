@@ -1200,6 +1200,13 @@ repositories:
     maintainers:
     - name: Stardog Union
       email: tech@stardog.com
+  - name: erpnext
+    url: https://helm.erpnext.com
+    maintainers:
+    - name: revant
+      email: revant@revant.me
+    - name: thunderbottom
+      email: chinmaydpai@gmail.com
   - name: ladeit
     url: https://ladeit.github.io/charts
     maintainers:
