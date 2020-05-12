@@ -1227,3 +1227,8 @@ repositories:
     maintainers:
     - name: CNIEG maintainers
       email: maintainers@cnieg.fr
+  - name: zhilyaev-marge
+    url: https://github.com/zhilyaev/marge-bot-helm
+    maintainers:
+    - name: Dmitriy Zhilyaev
+      email: zhilyaev.dmitriy@gmail.com
