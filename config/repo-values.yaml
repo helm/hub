@@ -431,4 +431,6 @@ sync:
     - name: sudermanjr
       url: https://charts.sudermanjr.com
     - name: cnieg
-      url: https://cnieg.github.io/helm-charts    
+      url: https://cnieg.github.io/helm-charts
+    - name: weblate
+      url: https://helm.weblate.org

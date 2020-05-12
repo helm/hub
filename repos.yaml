@@ -1227,3 +1227,10 @@ repositories:
     maintainers:
     - name: CNIEG maintainers
       email: maintainers@cnieg.fr
+  - name: weblate
+    url: https://helm.weblate.org
+    maintainers:
+    - name: Patrick Ruckstuhl
+      email: patrick@ch.tario.org
+    - name: Weblate Support
+      email: info@weblate.org
