@@ -1227,3 +1227,8 @@ repositories:
     maintainers:
     - name: CNIEG maintainers
       email: maintainers@cnieg.fr
+  - name: snyk
+    url: https://snyk.github.io/kubernetes-monitor/
+    maintainers:
+      - name: Snyk Support
+        email: support@snyk.io
