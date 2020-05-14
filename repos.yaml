@@ -1244,3 +1244,8 @@ repositories:
     maintainers:
     - name: Houston Putman
       email: houston@apache.org
+  - name: inaccel
+    url: https://setup.inaccel.com/helm
+    maintainers:
+      - name: InAccel
+        email: info@inaccel.com
