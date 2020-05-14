@@ -434,3 +434,7 @@ sync:
       url: https://cnieg.github.io/helm-charts
     - name: snyk
       url: https://snyk.github.io/kubernetes-monitor/
+    - name: weblate
+      url: https://helm.weblate.org
+    - name: solr-operator
+      url: https://bloomberg.github.io/solr-operator/charts
