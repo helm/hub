@@ -440,3 +440,5 @@ sync:
       url: https://bloomberg.github.io/solr-operator/charts
     - name: inaccel
       url: https://setup.inaccel.com/helm
+    - name: datawire
+      url: https://getambassador.io/

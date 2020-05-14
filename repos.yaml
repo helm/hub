@@ -1249,3 +1249,8 @@ repositories:
     maintainers:
       - name: InAccel
         email: info@inaccel.com
+  - name: datawire
+    url: https://getambassador.io/
+    maintainers:
+      - name: Datwire
+        email: dev@datawire.io
