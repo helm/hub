@@ -1249,3 +1249,8 @@ repositories:
     maintainers:
       - name: InAccel
         email: info@inaccel.com
+  - name: hashicorp
+    url: https://helm.releases.hashicorp.com
+    maintainers:
+      - name: HashiCorp
+        email: consul-tool@googlegroups.com
