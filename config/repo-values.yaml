@@ -438,3 +438,5 @@ sync:
       url: https://helm.weblate.org
     - name: solr-operator
       url: https://bloomberg.github.io/solr-operator/charts
+    - name: inaccel
+      url: https://setup.inaccel.com/helm
