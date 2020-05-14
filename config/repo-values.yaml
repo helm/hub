@@ -433,4 +433,6 @@ sync:
     - name: cnieg
       url: https://cnieg.github.io/helm-charts
     - name: zhilyaev-marge
-      url: https://raw.githubusercontent.com/zhilyaev/marge-bot-helm/master
+      url: https://raw.githubusercontent.com/zhilyaev/marge-bot-helm/master  
+    - name: solr-operator
+      url: https://bloomberg.github.io/solr-operator/charts

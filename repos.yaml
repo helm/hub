@@ -1232,4 +1232,7 @@ repositories:
     maintainers:
     - name: Dmitriy Zhilyaev
       email: zhilyaev.dmitriy@gmail.com
-
+  - name: solr-operator
+    url: https://bloomberg.github.io/solr-operator/charts/
+    maintainers:
+    - name: Houston Putman
