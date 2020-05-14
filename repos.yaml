@@ -1234,3 +1234,8 @@ repositories:
       email: patrick@ch.tario.org
     - name: Weblate Support
       email: info@weblate.org
+  - name: solr-operator
+    url: https://bloomberg.github.io/solr-operator/charts/
+    maintainers:
+    - name: Houston Putman
+      email: houston@apache.org
