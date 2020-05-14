@@ -432,3 +432,5 @@ sync:
       url: https://charts.sudermanjr.com
     - name: cnieg
       url: https://cnieg.github.io/helm-charts    
+    - name: inaccel
+      url: https://setup.inaccel.com/helm

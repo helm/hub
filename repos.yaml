@@ -1227,3 +1227,8 @@ repositories:
     maintainers:
     - name: CNIEG maintainers
       email: maintainers@cnieg.fr
+  - name: inaccel
+    url: https://setup.inaccel.com/helm
+    maintainers:
+      - name: InAccel
+        email: info@inaccel.com
