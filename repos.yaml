@@ -866,10 +866,10 @@ repositories:
         name: PhilippeKhalife
       - email: support@solace.com
         name: Solace Support
-  - name: code-chris
-    url: https://code-chris.github.io/helm-charts
+  - name: ckotzbauer
+    url: https://ckotzbauer.github.io/helm-charts
     maintainers:
-      - name: code-chris
+      - name: ckotzbauer
         email: christian.kotzbauer@gmail.com
   - name: larribas
     url: https://larribas.me/helm-charts
