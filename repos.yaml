@@ -1254,3 +1254,8 @@ repositories:
     maintainers:
       - name: HashiCorp
         email: consul-tool@googlegroups.com
+  - name: datawire
+    url: https://getambassador.io/
+    maintainers:
+      - name: Datwire
+        email: dev@datawire.io
