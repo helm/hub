@@ -1249,3 +1249,8 @@ repositories:
     maintainers:
       - name: InAccel
         email: info@inaccel.com
+  - name: neo4j
+    url: https://neo4j-contrib.github.io/neo4j-helm/
+    maintainers:
+      - name: Neo4j
+        email: ecosystem@neo4j.com
