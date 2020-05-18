@@ -300,8 +300,8 @@ sync:
       url: https://purestorage.github.io/helm-charts
     - name: solace
       url: https://solaceproducts.github.io/pubsubplus-kubernetes-quickstart/helm-charts
-    - name: code-chris
-      url: https://code-chris.github.io/helm-charts
+    - name: ckotzbauer
+      url: https://ckotzbauer.github.io/helm-charts
     - name: larribas
       url: https://larribas.me/helm-charts
     - name: ealenn
@@ -444,3 +444,5 @@ sync:
       url: https://helm.releases.hashicorp.com
     - name: eddycharly
       url: https://eddycharly.github.io/tekton-helm
+    - name: datawire
+      url: https://getambassador.io/
