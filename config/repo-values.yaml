@@ -442,5 +442,7 @@ sync:
       url: https://setup.inaccel.com/helm
     - name: hashicorp
       url: https://helm.releases.hashicorp.com
+    - name: eddycharly
+      url: https://eddycharly.github.io/tekton-helm
     - name: datawire
       url: https://getambassador.io/

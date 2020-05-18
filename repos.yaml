@@ -1254,6 +1254,11 @@ repositories:
     maintainers:
       - name: HashiCorp
         email: consul-tool@googlegroups.com
+  - name: eddycharly
+    url: https://eddycharly.github.io/tekton-helm
+    maintainers:
+      - name: eddycharly
+        email: ceb@agriconomie.com
   - name: datawire
     url: https://getambassador.io/
     maintainers:
