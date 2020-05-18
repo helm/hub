@@ -1249,3 +1249,8 @@ repositories:
     maintainers:
       - name: InAccel
         email: info@inaccel.com
+  - name: eddycharly
+    url: https://eddycharly.github.io/tekton-helm
+    maintainers:
+      - name: eddycharly
+        email: ceb@agriconomie.com
