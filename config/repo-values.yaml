@@ -440,6 +440,8 @@ sync:
       url: https://bloomberg.github.io/solr-operator/charts
     - name: inaccel
       url: https://setup.inaccel.com/helm
+    - name: neo4j
+      url: https://neo4j-contrib.github.io/neo4j-helm/
     - name: hashicorp
       url: https://helm.releases.hashicorp.com
     - name: eddycharly
