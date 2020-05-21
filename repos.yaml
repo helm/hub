@@ -287,6 +287,10 @@ repositories:
     url: https://funkypenguin.github.io/helm-charts
     maintainers:
       - email: helm-charts@funkypenguin.co.nz
+  - name: geek-cookbook
+    url: https://geek-cookbook.github.io/charts
+    maintainers:
+      - email: helm-charts@funkypenguin.co.nz
   - name: mattermost
     url: https://helm.mattermost.com
     maintainers:

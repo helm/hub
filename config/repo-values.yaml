@@ -107,6 +107,8 @@ sync:
       url: https://herbrandson.github.io/k8dash/helm
     - name: funkypenguin
       url: https://funkypenguin.github.io/helm-charts
+    - name: geek-cookbook
+      url: https://geek-cookbook.github.io/charts
     - name: mattermost
       url: https://helm.mattermost.com
     - name: emberstack
