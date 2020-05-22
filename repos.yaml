@@ -1270,7 +1270,7 @@ repositories:
       - name: Datwire
         email: dev@datawire.io
   - name: apicheck
-    url: https://github.com/BBVA/apicheck
+    url: https://bbva.github.io/apicheck/charts/
     maintainers:
       - name: innovation4security
         email: security.group@bbva.com
