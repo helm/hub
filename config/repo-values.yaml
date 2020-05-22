@@ -448,3 +448,5 @@ sync:
       url: https://eddycharly.github.io/tekton-helm
     - name: datawire
       url: https://getambassador.io/
+    - name: apicheck
+      url: https://bbva.github.io/apicheck/charts/
