@@ -1273,3 +1273,8 @@ repositories:
     maintainers:
       - name: Datwire
         email: dev@datawire.io
+  - name: waldur
+    url: https://opennode.github.io/waldur-helm/
+    maintainers:
+      - name: Waldur
+        email: info@opennodecloud.com

@@ -450,3 +450,5 @@ sync:
       url: https://eddycharly.github.io/tekton-helm
     - name: datawire
       url: https://getambassador.io/
+    - name: waldur
+      url: https://opennode.github.io/waldur-helm/
