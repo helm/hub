@@ -454,3 +454,5 @@ sync:
       url: https://getambassador.io/
     - name: apicheck
       url: https://bbva.github.io/apicheck/charts/
+    - name: milvus
+      url: https://milvus-io.github.io/milvus-helm/

@@ -1282,3 +1282,10 @@ repositories:
     maintainers:
       - name: innovation4security
         email: security.group@bbva.com
+  - name: milvus
+    url: https://milvus-io.github.io/milvus-helm/
+    maintainers:
+      - name: milvus-dev
+        email: dev.milvus@zilliz.com
+      - name: community
+        email: community@zilliz.com
