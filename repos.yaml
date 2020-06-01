@@ -230,8 +230,17 @@ repositories:
     maintainers:
       - email: rafal@hazelcast.com
         name: Rafal Leszko
-      - email: guglielmo@hazelcast.com
-        name: Guglielmo Nigri
+      - email: hasan@hazelcast.com
+        name: Hasan Celik
+      - email: mesut@hazelcast.com
+        name: Mesut Celik
+  - name: hazelcast-jet
+    url: https://hazelcast.github.io/charts/
+    maintainers:
+      - email: rafal@hazelcast.com
+        name: Rafal Leszko
+      - email: hasan@hazelcast.com
+        name: Hasan Celik
       - email: mesut@hazelcast.com
         name: Mesut Celik
   - name: nginx
