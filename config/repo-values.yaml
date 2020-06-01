@@ -456,3 +456,5 @@ sync:
       url: https://bbva.github.io/apicheck/charts/
     - name: waldur
       url: https://opennode.github.io/waldur-helm/
+    - name: milvus
+      url: https://milvus-io.github.io/milvus-helm/
