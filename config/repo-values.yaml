@@ -97,6 +97,8 @@ sync:
       url: https://grafana.github.io/loki/charts
     - name: microsoft
       url: https://microsoft.github.io/charts/repo
+    - name: expedia
+      url: https://expediagroup.github.io/helm-charts/repo
     - name: codecentric
       url: https://codecentric.github.io/helm-charts
     - name: okgolove
@@ -450,5 +452,7 @@ sync:
       url: https://eddycharly.github.io/tekton-helm
     - name: datawire
       url: https://getambassador.io/
+    - name: apicheck
+      url: https://bbva.github.io/apicheck/charts/
     - name: waldur
       url: https://opennode.github.io/waldur-helm/

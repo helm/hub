@@ -267,6 +267,10 @@ repositories:
       - name: mstf-charts
         email: msft-charts-support@microsoft.com
       - email: dabanda@microsoft.com
+  - name: expedia
+    url: https://expediagroup.github.io/helm-charts/repo
+    maintainers:
+      - email: dmartinsalbuqu@expediagroup.com
   - name: codecentric
     url: https://codecentric.github.io/helm-charts
     maintainers:
@@ -1273,6 +1277,11 @@ repositories:
     maintainers:
       - name: Datwire
         email: dev@datawire.io
+  - name: apicheck
+    url: https://bbva.github.io/apicheck/charts/
+    maintainers:
+      - name: innovation4security
+        email: security.group@bbva.com
   - name: waldur
     url: https://opennode.github.io/waldur-helm/
     maintainers:
