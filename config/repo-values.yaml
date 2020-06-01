@@ -83,6 +83,8 @@ sync:
       url: https://charts.yourls.org
     - name: hazelcast
       url: https://hazelcast.github.io/charts/
+    - name: hazelcast-jet
+      url: https://hazelcast.github.io/charts/
     - name: nginx
       url: https://helm.nginx.com/stable
     - name: nginx-edge
