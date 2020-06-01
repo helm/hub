@@ -1282,3 +1282,8 @@ repositories:
     maintainers:
       - name: innovation4security
         email: security.group@bbva.com
+  - name: YuniKorn
+    url: https://apache.github.io/incubator-yunikorn-release
+    maintainers:
+      - name: YuniKorn Dev
+        email: dev@yunikorn.apache.org
