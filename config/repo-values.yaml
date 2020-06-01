@@ -454,3 +454,5 @@ sync:
       url: https://getambassador.io/
     - name: apicheck
       url: https://bbva.github.io/apicheck/charts/
+    - name: waldur
+      url: https://opennode.github.io/waldur-helm/

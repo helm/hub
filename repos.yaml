@@ -1282,3 +1282,8 @@ repositories:
     maintainers:
       - name: innovation4security
         email: security.group@bbva.com
+  - name: waldur
+    url: https://opennode.github.io/waldur-helm/
+    maintainers:
+      - name: Waldur
+        email: info@opennodecloud.com
