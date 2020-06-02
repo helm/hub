@@ -1294,3 +1294,10 @@ repositories:
         email: dev.milvus@zilliz.com
       - name: community
         email: community@zilliz.com
+  - name: sysdiglabs
+    url: https://sysdiglabs.github.io/charts/
+    maintainers:
+      - name: team cloud native
+        email: team-cloud-native@sysdig.com
+      - name: Néstor Salceda
+        email: nestor.salceda@sysdig.com
