@@ -1306,7 +1306,7 @@ repositories:
     maintainers:
       - name: YuniKorn Dev
         email: dev@yunikorn.apache.org
-  - name: kubernetes-dashboard
+  - name: k8s-dashboard
     url: https://kubernetes.github.io/dashboard
     maintainers:
       - name: Kubernetes SIG UI
