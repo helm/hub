@@ -462,5 +462,5 @@ sync:
       url: https://sysdiglabs.github.io/charts/
     - name: yunikorn
       url: https://apache.github.io/incubator-yunikorn-release
-    - name: kubernetes-dashboard
+    - name: k8s-dashboard
       url: https://kubernetes.github.io/dashboard
