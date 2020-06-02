@@ -1294,6 +1294,11 @@ repositories:
         email: dev.milvus@zilliz.com
       - name: community
         email: community@zilliz.com
+  - name: YuniKorn
+    url: https://apache.github.io/incubator-yunikorn-release
+    maintainers:
+      - name: YuniKorn Dev
+        email: dev@yunikorn.apache.org
   - name: kubernetes-dashboard
     url: https://kubernetes.github.io/dashboard
     maintainers:
