@@ -460,3 +460,7 @@ sync:
       url: https://milvus-io.github.io/milvus-helm/
     - name: sysdiglabs
       url: https://sysdiglabs.github.io/charts/
+    - name: YuniKorn
+      url: https://apache.github.io/incubator-yunikorn-release
+    - name: kubernetes-dashboard
+      url: https://kubernetes.github.io/dashboard
