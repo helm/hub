@@ -1282,6 +1282,18 @@ repositories:
     maintainers:
       - name: innovation4security
         email: security.group@bbva.com
+  - name: waldur
+    url: https://opennode.github.io/waldur-helm/
+    maintainers:
+      - name: Waldur
+        email: info@opennodecloud.com
+  - name: milvus
+    url: https://milvus-io.github.io/milvus-helm/
+    maintainers:
+      - name: milvus-dev
+        email: dev.milvus@zilliz.com
+      - name: community
+        email: community@zilliz.com
   - name: YuniKorn
     url: https://apache.github.io/incubator-yunikorn-release
     maintainers:

@@ -454,5 +454,10 @@ sync:
       url: https://getambassador.io/
     - name: apicheck
       url: https://bbva.github.io/apicheck/charts/
+
+    - name: waldur
+      url: https://opennode.github.io/waldur-helm/
+    - name: milvus
+      url: https://milvus-io.github.io/milvus-helm/
     - name: YuniKorn
       url: https://apache.github.io/incubator-yunikorn-release
