@@ -1299,3 +1299,10 @@ repositories:
     maintainers:
       - name: YuniKorn Dev
         email: dev@yunikorn.apache.org
+  - name: kubernetes-dashboard
+    url: https://kubernetes.github.io/dashboard
+    maintainers:
+      - name: Kubernetes SIG UI
+        email: kubernetes-sig-ui@googlegroups.com
+      - name: Cédric de Saint Martin
+        email: cedric@desaintmartin.fr
