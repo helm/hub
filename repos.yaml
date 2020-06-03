@@ -918,6 +918,10 @@ repositories:
     maintainers:
       - name: Aisuko
         email: urakiny@gmail.com
+      - name: Lee Calcote
+        email: lee.calcote@layer5.io
+      - name: Layer5 Authors
+        email: community@layer5.io
   - name: blazure
     url: https://charts.blazure.com
     maintainers:
