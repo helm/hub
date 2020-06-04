@@ -1317,6 +1317,13 @@ repositories:
         email: kubernetes-sig-ui@googlegroups.com
       - name: Cédric de Saint Martin
         email: cedric@desaintmartin.fr
+  - name: newrelic
+    url: https://helm-charts.newrelic.com
+    maintainers:
+      - name: Douglas Camata
+        email: dcamata@newrelic.com
+      - name: Jorik van der Werf
+        email: jvanderwerf@nwerelic.com
   - name: codesim
     url: https://helm.codesim.com
     maintainers:
