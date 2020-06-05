@@ -466,3 +466,5 @@ sync:
       url: https://kubernetes.github.io/dashboard
     - name: newrelic
       url: https://helm-charts.newrelic.com
+    - name: codesim
+      url: https://helm.codesim.com

@@ -1324,3 +1324,8 @@ repositories:
         email: dcamata@newrelic.com
       - name: Jorik van der Werf
         email: jvanderwerf@nwerelic.com
+  - name: codesim
+    url: https://helm.codesim.com
+    maintainers:
+      - name: Codesim LLC
+        email: info@codesim.com
