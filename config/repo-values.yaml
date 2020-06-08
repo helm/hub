@@ -82,7 +82,7 @@ sync:
     - name: yourls
       url: https://charts.yourls.org
     - name: hazelcast
-      url: https://hazelcast.github.io/charts/
+      url: https://hazelcast-charts.s3.amazonaws.com/
     - name: nginx
       url: https://helm.nginx.com/stable
     - name: nginx-edge

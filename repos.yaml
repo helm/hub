@@ -226,12 +226,12 @@ repositories:
       - email: yourls@yourls.org
         name: YOURLS
   - name: hazelcast
-    url: https://hazelcast.github.io/charts/
+    url: https://hazelcast-charts.s3.amazonaws.com/
     maintainers:
       - email: rafal@hazelcast.com
         name: Rafal Leszko
-      - email: guglielmo@hazelcast.com
-        name: Guglielmo Nigri
+      - email: hasan@hazelcast.com
+        name: Hasan Celik
       - email: mesut@hazelcast.com
         name: Mesut Celik
   - name: nginx
