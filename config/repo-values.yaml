@@ -468,3 +468,5 @@ sync:
       url: https://helm-charts.newrelic.com
     - name: codesim
       url: https://helm.codesim.com
+    - name: dash-ops
+      url: https://dash-ops.github.io/helm-charts
