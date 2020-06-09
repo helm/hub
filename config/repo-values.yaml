@@ -470,3 +470,5 @@ sync:
       url: https://helm.codesim.com
     - name: curity
       url: https://curityio.github.io/idsvr-helm
+    - name: dash-ops
+      url: https://dash-ops.github.io/helm-charts
