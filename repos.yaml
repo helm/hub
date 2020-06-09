@@ -1329,6 +1329,11 @@ repositories:
     maintainers:
       - name: Codesim LLC
         email: info@codesim.com
+  - name: curity
+    url: https://github.com/curityio/idsvr-helm
+    maintainers:
+      - name: Curity AB
+        email: info@curity.io
   - name: dash-ops
     url: http://dash-ops.github.io/helm-charts
     maintainers:
