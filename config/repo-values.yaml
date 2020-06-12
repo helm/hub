@@ -472,3 +472,5 @@ sync:
       url: https://curityio.github.io/idsvr-helm
     - name: dash-ops
       url: https://dash-ops.github.io/helm-charts
+    - name: rasooll
+      url: https://rasooll.github.io/helm-charts

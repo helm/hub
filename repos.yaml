@@ -1339,3 +1339,8 @@ repositories:
     maintainers:
       - name: Jhon Mike
         email: jhon.msdev@gmail.com
+  - name: rasooll
+    url: https://rasooll.github.io/helm-charts
+    maintainers:
+      - name: Rasool Safari
+        email: safari@rasooll.com
