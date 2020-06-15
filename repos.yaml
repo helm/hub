@@ -1344,3 +1344,10 @@ repositories:
     maintainers:
       - name: Rasool Safari
         email: safari@rasooll.com
+  - name: pulsar
+    url: https://helm.kafkaesque.io
+    maintainers:
+      - name: Chris Bartholomew
+        email: chris.bartholomew@kafkaesque.io
+      - name: Ming Luo
+        email: itestmycode@gmail.com
