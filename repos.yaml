@@ -1344,3 +1344,10 @@ repositories:
     maintainers:
       - name: Rasool Safari
         email: safari@rasooll.com
+  - name: openebs
+    url: https://openebs.github.io/charts
+    maintainers:
+      - name: Kiran Mova
+        email: kiran.mova@mayadata.io
+      - name: Prateek Pandey
+        email: prateek.pandey@openebs.io
