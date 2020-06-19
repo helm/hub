@@ -27,6 +27,8 @@ sync:
       url: https://charts.cloudposse.com/incubator/
     - name: keel
       url: https://charts.keel.sh
+    - name: webhookrelay
+      url: https://charts.webhookrelay.com
     - name: appscode
       url: https://charts.appscode.com/stable/
     - name: gitlab
