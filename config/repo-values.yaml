@@ -476,3 +476,5 @@ sync:
       url: https://rasooll.github.io/helm-charts
     - name: openebs
       url: https://openebs.github.io/charts
+    - name: pulsar
+      url: https://helm.kafkaesque.io
