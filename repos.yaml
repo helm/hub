@@ -1351,3 +1351,10 @@ repositories:
         email: kiran.mova@mayadata.io
       - name: Prateek Pandey
         email: prateek.pandey@openebs.io
+  - name: pulsar
+    url: https://helm.kafkaesque.io
+    maintainers:
+      - name: Chris Bartholomew
+        email: chris.bartholomew@kafkaesque.io
+      - name: Ming Luo
+        email: itestmycode@gmail.com
