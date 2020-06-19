@@ -65,6 +65,11 @@ repositories:
     maintainers:
       - email: karolis.rusenas@gmail.com
         name: rusenask
+  - name: webhookrelay
+    url: https://charts.webhookrelay.com
+    maintainers:
+      - email: karolis@webhookrelay.com
+        name: rusenask
   - name: appscode
     url: https://charts.appscode.com/stable/
     maintainers:
