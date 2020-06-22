@@ -480,3 +480,5 @@ sync:
       url: https://openebs.github.io/charts
     - name: pulsar
       url: https://helm.kafkaesque.io
+    - name: cape
+      url: https://charts.cape.sh
