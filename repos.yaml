@@ -1363,3 +1363,8 @@ repositories:
         email: chris.bartholomew@kafkaesque.io
       - name: Ming Luo
         email: itestmycode@gmail.com
+  - name: cape
+    url: https://charts.cape.sh
+    maintainers:
+      - name: Cloud Native Team
+        email: cloudnative@biqmind.com
