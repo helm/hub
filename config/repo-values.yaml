@@ -480,3 +480,5 @@ sync:
       url: https://openebs.github.io/charts
     - name: pulsar
       url: https://helm.kafkaesque.io
+    - name: hkube
+      url: https://github.com/kube-HPC/helm
