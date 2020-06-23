@@ -1363,3 +1363,10 @@ repositories:
         email: chris.bartholomew@kafkaesque.io
       - name: Ming Luo
         email: itestmycode@gmail.com
+  - name: hkube
+    url: https://hkube.io/
+    maintainers:
+      - name: Maty Zisserman
+        email: maty21@gmail.com
+      - name: Yehiyam Livneh
+        email: yehiyam@gmail.com
