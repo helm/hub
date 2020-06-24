@@ -481,4 +481,4 @@ sync:
     - name: pulsar
       url: https://helm.kafkaesque.io
     - name: hkube
-      url: https://github.com/kube-HPC/helm
+      url: https://hkube.io/helm

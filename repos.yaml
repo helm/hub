@@ -1364,7 +1364,7 @@ repositories:
       - name: Ming Luo
         email: itestmycode@gmail.com
   - name: hkube
-    url: https://hkube.io/
+    url: https://hkube.io/helm
     maintainers:
       - name: Maty Zisserman
         email: maty21@gmail.com
