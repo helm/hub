@@ -1368,3 +1368,8 @@ repositories:
     maintainers:
       - name: Cloud Native Team
         email: cloudnative@biqmind.com
+  - name: cgsimmons
+    url: https://cgsimmons.github.io/charts
+    maintainers:
+      - name: Chris Simmons
+        email: chris.simmons.alt@gmail.com
