@@ -484,5 +484,7 @@ sync:
       url: https://helm.kafkaesque.io
     - name: cape
       url: https://charts.cape.sh
+    - name: traefik
+      url: https://containous.github.io/traefik-helm-chart
     - name: cgsimmons
       url: https://cgsimmons.github.io/charts
