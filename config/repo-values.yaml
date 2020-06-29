@@ -484,3 +484,5 @@ sync:
       url: https://helm.kafkaesque.io
     - name: cape
       url: https://charts.cape.sh
+    - name: cgsimmons
+      url: https://cgsimmons.github.io/charts
