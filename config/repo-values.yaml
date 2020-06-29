@@ -25,6 +25,8 @@ sync:
       url: https://buildkite.github.io/charts
     - name: cloudposse
       url: https://charts.cloudposse.com/incubator/
+    - name: cockroachdb
+      url: https://charts.cockroachdb.com/
     - name: keel
       url: https://charts.keel.sh
     - name: webhookrelay
@@ -484,3 +486,5 @@ sync:
       url: https://charts.cape.sh
     - name: traefik
       url: https://containous.github.io/traefik-helm-chart
+    - name: cgsimmons
+      url: https://cgsimmons.github.io/charts
