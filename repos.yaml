@@ -60,6 +60,11 @@ repositories:
     maintainers:
       - email: ops@cloudposse.com
       - name: cloudposse
+  - name: cockroachdb
+    url: https://charts.cockroachdb.com/
+    maintainers:
+      - email: helm-charts@cockroachlabs.com
+        name: Cockroach Labs
   - name: keel
     url: https://charts.keel.sh
     maintainers:
