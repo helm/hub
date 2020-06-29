@@ -482,3 +482,5 @@ sync:
       url: https://helm.kafkaesque.io
     - name: cape
       url: https://charts.cape.sh
+    - name: maesh
+      url: https://containous.github.io/maesh/charts

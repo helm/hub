@@ -1368,3 +1368,8 @@ repositories:
     maintainers:
       - name: Cloud Native Team
         email: cloudnative@biqmind.com
+  - name: maesh
+    url: https://containous.github.io/maesh/charts
+    maintainers:
+      - name: Containous Team
+        email: helm-charts@containo.us
