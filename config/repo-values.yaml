@@ -482,3 +482,5 @@ sync:
       url: https://helm.kafkaesque.io
     - name: cape
       url: https://charts.cape.sh
+    - name: wombat
+      url: https://esl.github.io/helm-chart/charts/wombatChart
