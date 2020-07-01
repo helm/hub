@@ -60,6 +60,11 @@ repositories:
     maintainers:
       - email: ops@cloudposse.com
       - name: cloudposse
+  - name: cockroachdb
+    url: https://charts.cockroachdb.com/
+    maintainers:
+      - email: helm-charts@cockroachlabs.com
+        name: Cockroach Labs
   - name: keel
     url: https://charts.keel.sh
     maintainers:
@@ -1375,3 +1380,18 @@ repositories:
         email: maty21@gmail.com
       - name: Yehiyam Livneh
         email: yehiyam@gmail.com
+  - name: maesh
+    url: https://containous.github.io/maesh/charts
+    maintainers:
+      - name: Containous Team
+        email: helm-charts@containo.us
+  - name: traefik
+    url: https://containous.github.io/traefik-helm-chart
+    maintainers:
+      - name: Containous Team
+        email: helm-charts@containo.us
+  - name: cgsimmons
+    url: https://cgsimmons.github.io/charts
+    maintainers:
+      - name: Chris Simmons
+        email: chris.simmons.alt@gmail.com
