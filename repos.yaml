@@ -1380,6 +1380,13 @@ repositories:
         email: mohamed.ali.khechine@erlang-solutions.com
       - name: Tamás Lengyel
         email: tamas.lengyel@erlang-solutions.com
+  - name: hkube
+    url: https://hkube.io/helm
+    maintainers:
+      - name: Maty Zisserman
+        email: maty21@gmail.com
+      - name: Yehiyam Livneh
+        email: yehiyam@gmail.com
   - name: maesh
     url: https://containous.github.io/maesh/charts
     maintainers:
