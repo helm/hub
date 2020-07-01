@@ -1373,6 +1373,13 @@ repositories:
     maintainers:
       - name: Cloud Native Team
         email: cloudnative@biqmind.com
+  - name: wombat
+    url: https://esl.github.io/helm-chart/charts/wombatChart
+    maintainers:
+      - name: Mohamed Ali Khechine
+        email: mohamed.ali.khechine@erlang-solutions.com
+      - name: Tamás Lengyel
+        email: tamas.lengyel@erlang-solutions.com
   - name: hkube
     url: https://hkube.io/helm
     maintainers:
