@@ -1402,3 +1402,8 @@ repositories:
     maintainers:
       - name: Chris Simmons
         email: chris.simmons.alt@gmail.com
+  - name: splicemachine
+    url: https://splicemachine.github.io/charts
+    maintainers:
+      - name: cloud-support
+        email: cloud-support@splicemachine.com

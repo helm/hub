@@ -494,3 +494,5 @@ sync:
       url: https://containous.github.io/traefik-helm-chart
     - name: cgsimmons
       url: https://cgsimmons.github.io/charts
+    - name: splicemachine
+      url: https://splicemachine.github.io/charts
