@@ -494,3 +494,5 @@ sync:
       url: https://containous.github.io/traefik-helm-chart
     - name: cgsimmons
       url: https://cgsimmons.github.io/charts
+    - name: streamnative
+      url: https://charts.streamnative.io/

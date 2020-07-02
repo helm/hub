@@ -1402,3 +1402,8 @@ repositories:
     maintainers:
       - name: Chris Simmons
         email: chris.simmons.alt@gmail.com
+  - name: streamnative
+    url: https://charts.streamnative.io
+    maintainers:
+      - name: StreamNative Support
+        email: support@streamnative.io
