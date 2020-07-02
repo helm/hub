@@ -1417,3 +1417,9 @@ repositories:
     maintainers:
       - name: StreamNative Support
         email: support@streamnative.io
+  - name: twingate
+    url: https://twingate.github.io/helm-charts
+    maintainers:
+      - name: Twingate Ops
+        email: ops@twingate.com
+
