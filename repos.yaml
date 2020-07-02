@@ -1362,6 +1362,11 @@ repositories:
       - name: Prateek Pandey
         email: prateek.pandey@openebs.io
   - name: pulsar
+    url: https://pulsar.apache.org/charts
+    maintainers:
+      - name: Apache Pulsar Team
+        email: dev@pulsar.apache.org
+  - name: kafkaesque
     url: https://helm.kafkaesque.io
     maintainers:
       - name: Chris Bartholomew
