@@ -1417,3 +1417,10 @@ repositories:
     maintainers:
       - name: StreamNative Support
         email: support@streamnative.io
+  - name: kured
+    url: https://weaveworks.github.io/kured
+    maintainers:
+      - name: dholbach
+        email: daniel@weave.works
+      - name: ckotzbauer
+        email: christian.kotzbauer@gmail.com

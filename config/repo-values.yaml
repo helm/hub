@@ -500,3 +500,5 @@ sync:
       url: https://splicemachine.github.io/charts
     - name: streamnative
       url: https://charts.streamnative.io/
+    - name: kured
+      url: https://weaveworks.github.io/kured
