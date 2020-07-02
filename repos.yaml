@@ -1412,3 +1412,8 @@ repositories:
     maintainers:
       - name: cloud-support
         email: cloud-support@splicemachine.com
+  - name: streamnative
+    url: https://charts.streamnative.io
+    maintainers:
+      - name: StreamNative Support
+        email: support@streamnative.io
