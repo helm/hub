@@ -498,3 +498,5 @@ sync:
       url: https://cgsimmons.github.io/charts
     - name: splicemachine
       url: https://splicemachine.github.io/charts
+    - name: streamnative
+      url: https://charts.streamnative.io/
