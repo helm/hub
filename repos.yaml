@@ -1424,3 +1424,8 @@ repositories:
         email: daniel@weave.works
       - name: ckotzbauer
         email: christian.kotzbauer@gmail.com
+  - name: mlohr
+    url: https://helm-charts.mlohr.com/
+    maintainers:
+      - name: Matthias Lohr
+        email: mail@mlohr.com
