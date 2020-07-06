@@ -1424,3 +1424,8 @@ repositories:
         email: daniel@weave.works
       - name: ckotzbauer
         email: christian.kotzbauer@gmail.com
+  - name: unofficial-superset-snowflake
+    url: https://github.com/MiguelElGallo/helm_superset_snowflake
+    maintainers:
+      - name: MiguelElGallo
+        email: info@any-iot.com
