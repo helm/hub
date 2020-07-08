@@ -109,10 +109,10 @@ repositories:
   - name: jetstack
     url: https://charts.jetstack.io/
     maintainers:
-      - email: james.munnelly@jetstack.io
+      - email: cert-manager-maintainers@jetstack.io
+        name: cert-manager project maintainers
+      - email: james@munnelly.eu
         name: James Munnelly
-      - email: christian.simon@jetstack.io
-        name: Christian Simon
   - name: ibm-charts
     url: https://raw.githubusercontent.com/IBM/charts/master/repo/stable/
     maintainers:
