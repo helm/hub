@@ -1434,3 +1434,8 @@ repositories:
     maintainers:
       - name: Matthias Lohr
         email: mail@mlohr.com
+  - name: twingate
+    url: https://twingate.github.io/helm-charts
+    maintainers:
+      - name: Twingate Ops
+        email: ops@twingate.com
