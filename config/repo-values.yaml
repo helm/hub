@@ -502,5 +502,3 @@ sync:
       url: https://charts.streamnative.io/
     - name: twingate
       url: https://twingate.github.io/helm-charts
-    - name: kured
-      url: https://weaveworks.github.io/kured

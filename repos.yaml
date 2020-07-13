@@ -1422,10 +1422,3 @@ repositories:
     maintainers:
       - name: Twingate Ops
         email: ops@twingate.com
-  - name: kured
-    url: https://weaveworks.github.io/kured
-    maintainers:
-      - name: dholbach
-        email: daniel@weave.works
-      - name: ckotzbauer
-        email: christian.kotzbauer@gmail.com
