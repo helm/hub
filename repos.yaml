@@ -1424,6 +1424,11 @@ repositories:
         email: daniel@weave.works
       - name: ckotzbauer
         email: christian.kotzbauer@gmail.com
+  - name: pl-helm-charts
+    url: https://pranay-lonkar.github.io/helm-charts
+    maintainers:
+      - name: pranay-lonkar
+        email: pranaylonkar19@gmail.com
   - name: mlohr
     url: https://helm-charts.mlohr.com/
     maintainers:
