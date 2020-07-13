@@ -101,7 +101,7 @@ sync:
       url: https://grafana.github.io/loki/charts
     - name: microsoft
       url: https://microsoft.github.io/charts/repo
-    - name: expedia
+    - name: expediagroup
       url: https://expediagroup.github.io/helm-charts/repo
     - name: codecentric
       url: https://codecentric.github.io/helm-charts
@@ -504,3 +504,5 @@ sync:
       url: https://weaveworks.github.io/kured
     - name: pl-helm-charts
       url: https://pranay-lonkar.github.io/helm-charts
+    - name: mlohr
+      url: https://helm-charts.mlohr.com/
