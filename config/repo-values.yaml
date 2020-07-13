@@ -502,3 +502,5 @@ sync:
       url: https://charts.streamnative.io/
     - name: kured
       url: https://weaveworks.github.io/kured
+    - name: mlohr
+      url: https://helm-charts.mlohr.com/
