@@ -508,3 +508,5 @@ sync:
       url: https://pranay-lonkar.github.io/helm-charts
     - name: mlohr
       url: https://helm-charts.mlohr.com/
+    - name: twingate
+      url: https://twingate.github.io/helm-charts
