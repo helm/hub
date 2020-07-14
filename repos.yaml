@@ -1424,6 +1424,13 @@ repositories:
         email: daniel@weave.works
       - name: ckotzbauer
         email: christian.kotzbauer@gmail.com
+  - name: litmuschaos
+    url: https://litmuschaos.github.io/litmus-helm/
+    maintainers:
+      - name: Karthik S
+        email: karthik.s@mayadata.io
+      - name: Maria Kotlyarevskaya
+        email: jasssstkn@yahoo.com
   - name: pl-helm-charts
     url: https://pranay-lonkar.github.io/helm-charts
     maintainers:
