@@ -504,5 +504,7 @@ sync:
       url: https://weaveworks.github.io/kured
     - name: litmuschaos
       url: https://litmuschaos.github.io/litmus-helm/
+    - name: pl-helm-charts
+      url: https://pranay-lonkar.github.io/helm-charts
     - name: mlohr
       url: https://helm-charts.mlohr.com/

@@ -1431,6 +1431,11 @@ repositories:
         email: karthik.s@mayadata.io
       - name: Maria Kotlyarevskaya
         email: jasssstkn@yahoo.com
+  - name: pl-helm-charts
+    url: https://pranay-lonkar.github.io/helm-charts
+    maintainers:
+      - name: pranay-lonkar
+        email: pranaylonkar19@gmail.com
   - name: mlohr
     url: https://helm-charts.mlohr.com/
     maintainers:
