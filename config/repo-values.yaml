@@ -510,3 +510,5 @@ sync:
       url: https://helm-charts.mlohr.com/
     - name: twingate
       url: https://twingate.github.io/helm-charts
+    - name: longhorn
+      url: https://charts.longhorn.io
