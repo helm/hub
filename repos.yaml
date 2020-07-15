@@ -1446,3 +1446,10 @@ repositories:
     maintainers:
       - name: Twingate Ops
         email: ops@twingate.com
+  - name: longhorn
+    url: https://charts.longhorn.io
+    maintainers:
+      - name: Longhorn maintainers
+        email: maintainers@longhorn.io
+      - name: Sheng Yang
+        email: sheng@yasker.org
