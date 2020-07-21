@@ -1453,3 +1453,9 @@ repositories:
         email: maintainers@longhorn.io
       - name: Sheng Yang
         email: sheng@yasker.org
+  - name: falcosecurity
+    url: https://falcosecurity.github.io/charts
+    maintainers:
+      - name: The Falco Authors
+        email: cncf-falco-dev@lists.cncf.io
+
