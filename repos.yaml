@@ -1458,4 +1458,8 @@ repositories:
     maintainers:
       - name: The Falco Authors
         email: cncf-falco-dev@lists.cncf.io
-
+  - name: aerokube
+    url: https://charts.aerokube.com/
+    maintainers:
+      - name: Aerokube Team
+        email: support@aerokube.com

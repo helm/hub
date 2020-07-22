@@ -514,3 +514,5 @@ sync:
       url: https://charts.longhorn.io
     - name: falcosecurity
       url: https://falcosecurity.github.io/charts
+    - name: aerokube
+      url: https://charts.aerokube.com/
