@@ -516,3 +516,5 @@ sync:
       url: https://falcosecurity.github.io/charts
     - name: aerokube
       url: https://charts.aerokube.com/
+    - name: gissilabs
+      url: https://gissilabs.github.io/charts/
