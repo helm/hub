@@ -8,8 +8,6 @@ sync:
   repos:
     # Helm hosted repositories
     - name: stable
-      url: https://sonatype.github.io/helm3-charts/
-    - name: stable
       url: https://kubernetes-charts.storage.googleapis.com
     - name: incubator
       url: https://kubernetes-charts-incubator.storage.googleapis.com
@@ -518,3 +516,5 @@ sync:
       url: https://falcosecurity.github.io/charts
     - name: aerokube
       url: https://charts.aerokube.com/
+    - name: sonatype
+      url: https://sonatype.github.io/helm3-charts/
