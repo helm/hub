@@ -14,11 +14,6 @@
 # because projects often have multiple people who may rotate on the team.
 repositories:
   - name: stable
-    url: https://sonatype.github.io/helm3-charts/
-    maintainers:
-      - name: Sonatype
-        email: ops@sonatype.com
-  - name: stable
     url: https://kubernetes-charts.storage.googleapis.com
     maintainers:
       - name: Helm Project
@@ -1468,3 +1463,8 @@ repositories:
     maintainers:
       - name: Aerokube Team
         email: support@aerokube.com
+  - name: sonatype
+    url: https://sonatype.github.io/helm3-charts/
+    maintainers:
+      - name: Sonatype
+        email: ops@sonatype.com
