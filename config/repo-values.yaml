@@ -518,3 +518,5 @@ sync:
       url: https://charts.aerokube.com/
     - name: sonatype
       url: https://sonatype.github.io/helm3-charts/
+    - name: gissilabs
+      url: https://gissilabs.github.io/charts/

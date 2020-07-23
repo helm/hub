@@ -1468,3 +1468,8 @@ repositories:
     maintainers:
       - name: Sonatype
         email: ops@sonatype.com
+  - name: gissilabs
+    url: https://gissilabs.github.io/charts/
+    maintainers:
+      - name: Silvio Gissi
+        email: silvio@gissilabs.com
