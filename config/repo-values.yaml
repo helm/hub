@@ -522,3 +522,5 @@ sync:
       url: https://gissilabs.github.io/charts/
     - name: sematext
       url: https://cdn.sematext.com/helm-charts/
+    - name: storageos
+      url: https://charts.storageos.com
