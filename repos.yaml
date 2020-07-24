@@ -1473,3 +1473,8 @@ repositories:
     maintainers:
       - name: Silvio Gissi
         email: silvio@gissilabs.com
+  - name: sematext
+    url: https://cdn.sematext.com/helm-charts/
+    maintainers:
+      - name: Ciprian Hacman
+        email: ciprian.hacman@sematext.com
