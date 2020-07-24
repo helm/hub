@@ -1478,3 +1478,8 @@ repositories:
     maintainers:
       - name: Ciprian Hacman
         email: ciprian.hacman@sematext.com
+  - name: ctron
+    url: https://ctron.github.io/helm-charts/
+    maintainers:
+      - name: Jens Reimann
+        email: ctron@dentrassi.de
