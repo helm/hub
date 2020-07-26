@@ -1478,3 +1478,8 @@ repositories:
     maintainers:
       - name: Ciprian Hacman
         email: ciprian.hacman@sematext.com
+  - name: w2bro
+    url: https://radio-charts.w2bro.dev
+    maintainers:
+      - name: Ross McKelvie
+        email: charts@w2b.ro
