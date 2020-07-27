@@ -1478,3 +1478,8 @@ repositories:
     maintainers:
       - name: Ciprian Hacman
         email: ciprian.hacman@sematext.com
+  - name: storageos
+    url: https://charts.storageos.com
+    maintainers:
+      - name: StorageOS
+        email: support@storageos.com
