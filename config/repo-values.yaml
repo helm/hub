@@ -528,3 +528,5 @@ sync:
       url: https://charts.balle-petersen.org/
     - name: storageos
       url: https://charts.storageos.com
+    - name: w2bro
+      url: https://radio-charts.w2bro.dev
