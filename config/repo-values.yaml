@@ -522,6 +522,8 @@ sync:
       url: https://gissilabs.github.io/charts/
     - name: sematext
       url: https://cdn.sematext.com/helm-charts/
+    - name: ctron
+      url: https://ctron.github.io/helm-charts/
     - name: balle-petersen
       url: https://charts.balle-petersen.org/
     - name: storageos
