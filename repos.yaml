@@ -1478,6 +1478,11 @@ repositories:
     maintainers:
       - name: Ciprian Hacman
         email: ciprian.hacman@sematext.com
+  - name: balle-petersen
+    url: https://charts.balle-petersen.org/
+    maintainers:
+      - name: Tobias Balle-Petersen
+        email: tobiasbp@gmail.com
   - name: storageos
     url: https://charts.storageos.com
     maintainers:
