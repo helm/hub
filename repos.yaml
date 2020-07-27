@@ -1483,3 +1483,8 @@ repositories:
     maintainers:
       - name: Tobias Balle-Petersen
         email: tobiasbp@gmail.com
+  - name: storageos
+    url: https://charts.storageos.com
+    maintainers:
+      - name: StorageOS
+        email: support@storageos.com
