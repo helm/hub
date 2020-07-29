@@ -1493,6 +1493,11 @@ repositories:
     maintainers:
       - name: StorageOS
         email: support@storageos.com
+  - name: datadog
+    url: https://helm.datadoghq.com
+    maintainers:
+      - name: Datadog
+        email: support@datadoghq.com
   - name: w2bro
     url: https://radio-charts.w2bro.dev
     maintainers:
