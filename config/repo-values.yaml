@@ -530,3 +530,5 @@ sync:
       url: https://charts.storageos.com
     - name: w2bro
       url: https://radio-charts.w2bro.dev
+    - name: neoskop
+      url: https://charts.neoskop.dev
