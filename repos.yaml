@@ -1498,3 +1498,10 @@ repositories:
     maintainers:
       - name: Ross McKelvie
         email: charts@w2b.ro
+  - name: kuma
+    url: https://kumahq.github.io/charts
+    maintainers:
+      - name: Nikolay Nikolaev
+        email: nikolay.nikolaev@konghq.com
+      - name: Austin Cawley-Edwards
+        email: austin.cawley@gmail.com
