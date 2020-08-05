@@ -1498,3 +1498,8 @@ repositories:
     maintainers:
       - name: Ross McKelvie
         email: charts@w2b.ro
+  - name: vertigo
+    url: https://vertigobr.github.io/vkpr
+    maintainers:
+      - name: Vertigo
+        email: devops@vertigo.com.br
