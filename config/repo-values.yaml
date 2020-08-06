@@ -532,3 +532,5 @@ sync:
       url: https://helm.datadoghq.com
     - name: w2bro
       url: https://radio-charts.w2bro.dev
+    - name: fermosit
+      url: https://harbor.fermosit.es/chartrepo/library
