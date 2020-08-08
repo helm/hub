@@ -1503,3 +1503,8 @@ repositories:
     maintainers:
       - name: Ross McKelvie
         email: charts@w2b.ro
+  - name: vulcanlink
+    url: https://vulcanlink.github.io/charts/
+    maintainers:
+      - name: Leo Vigna 
+        email: leo@vulcan.link 
