@@ -1493,11 +1493,21 @@ repositories:
     maintainers:
       - name: StorageOS
         email: support@storageos.com
+  - name: datadog
+    url: https://helm.datadoghq.com
+    maintainers:
+      - name: Datadog
+        email: support@datadoghq.com
   - name: w2bro
     url: https://radio-charts.w2bro.dev
     maintainers:
       - name: Ross McKelvie
         email: charts@w2b.ro
+  - name: codit
+    url: https://coditeu.github.io/charts
+    maintainers:
+    - name: Tom Kerkhove
+      email: tom.kerkhove@codit.eu
   - name: stevehipwell
     url: https://stevehipwell.github.io/helm-charts/
     maintainers:
