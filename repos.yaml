@@ -1503,3 +1503,8 @@ repositories:
     maintainers:
       - name: Ross McKelvie
         email: charts@w2b.ro
+  - name: codit
+    url: https://coditeu.github.io/charts
+    maintainers:
+    - name: Tom Kerkhove
+      email: tom.kerkhove@codit.eu
