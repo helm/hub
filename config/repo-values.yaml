@@ -528,7 +528,17 @@ sync:
       url: https://charts.balle-petersen.org/
     - name: storageos
       url: https://charts.storageos.com
+    - name: datadog
+      url: https://helm.datadoghq.com
     - name: w2bro
       url: https://radio-charts.w2bro.dev
     - name: minio
       url: https://helm.min.io/
+    - name: fermosit
+      url: https://harbor.fermosit.es/chartrepo/library
+    - name: astarte
+      url: https://helm.astarte-platform.org
+    - name: codit
+      url: https://coditeu.github.io/charts
+    - name: stevehipwell
+      url: https://stevehipwell.github.io/helm-charts/
