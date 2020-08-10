@@ -1528,3 +1528,10 @@ repositories:
     maintainers:
       - name: Steve Hipwell
         email: steve.hipwell@gmail.com
+  - name: neoskop
+    url: https://charts.neoskop.dev
+    maintainers:
+      - name: Arne Diekmann
+        email: diekmann@neoskop.de
+      - name: Neoskop
+        email: devops@neoskop.de
