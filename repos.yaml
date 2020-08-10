@@ -1533,3 +1533,15 @@ repositories:
     maintainers:
       - name: Devops
         email: devops@vertigo.com.br
+  - name: neoskop
+    url: https://charts.neoskop.dev
+    maintainers:
+      - name: Arne Diekmann
+        email: diekmann@neoskop.de
+      - name: Neoskop
+        email: devops@neoskop.de
+  - name: vulcanlink
+    url: https://vulcanlink.github.io/charts/
+    maintainers:
+      - name: Leo Vigna 
+        email: leo@vulcan.link 
