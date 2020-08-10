@@ -1528,6 +1528,11 @@ repositories:
     maintainers:
       - name: Steve Hipwell
         email: steve.hipwell@gmail.com
+  - name: vertigo
+    url: https://charts.vertigo.com.br/
+    maintainers:
+      - name: Devops
+        email: devops@vertigo.com.br
   - name: neoskop
     url: https://charts.neoskop.dev
     maintainers:

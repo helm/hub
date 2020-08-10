@@ -542,6 +542,8 @@ sync:
       url: https://coditeu.github.io/charts
     - name: stevehipwell
       url: https://stevehipwell.github.io/helm-charts/
+    - name: vertigo
+      url: https://charts.vertigo.com.br/
     - name: neoskop
       url: https://charts.neoskop.dev
     - name: vulcanlink
