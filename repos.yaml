@@ -1535,3 +1535,8 @@ repositories:
         email: diekmann@neoskop.de
       - name: Neoskop
         email: devops@neoskop.de
+  - name: vulcanlink
+    url: https://vulcanlink.github.io/charts/
+    maintainers:
+      - name: Leo Vigna 
+        email: leo@vulcan.link 
