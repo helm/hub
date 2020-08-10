@@ -536,3 +536,5 @@ sync:
       url: https://helm.astarte-platform.org
     - name: codit
       url: https://coditeu.github.io/charts
+    - name: stevehipwell
+      url: https://stevehipwell.github.io/helm-charts/
