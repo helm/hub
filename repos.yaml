@@ -1503,6 +1503,11 @@ repositories:
     maintainers:
       - name: Ross McKelvie
         email: charts@w2b.ro
+  - name: fermosit
+    url: https://harbor.fermosit.es/chartrepo/library
+    maintainers:
+      - name: Jose Manuel Ferrer
+        email: elmanytas@gmail.com
   - name: astarte
     url: https://helm.astarte-platform.org
     maintainers:
