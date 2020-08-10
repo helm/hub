@@ -1503,6 +1503,11 @@ repositories:
     maintainers:
       - name: Ross McKelvie
         email: charts@w2b.ro
+  - name: minio
+    url: https://helm.min.io/
+    maintainers:
+      - name: Minio
+        email: dev@minio.io
   - name: fermosit
     url: https://harbor.fermosit.es/chartrepo/library
     maintainers:
