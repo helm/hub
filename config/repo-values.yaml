@@ -542,3 +542,5 @@ sync:
       url: https://coditeu.github.io/charts
     - name: stevehipwell
       url: https://stevehipwell.github.io/helm-charts/
+    - name: neoskop
+      url: https://charts.neoskop.dev
