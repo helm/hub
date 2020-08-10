@@ -1493,6 +1493,11 @@ repositories:
     maintainers:
       - name: StorageOS
         email: support@storageos.com
+  - name: datadog
+    url: https://helm.datadoghq.com
+    maintainers:
+      - name: Datadog
+        email: support@datadoghq.com
   - name: w2bro
     url: https://radio-charts.w2bro.dev
     maintainers:
@@ -1503,3 +1508,8 @@ repositories:
     maintainers:
       - name: Astarte Maintainers
         email: maintainers@astarte-platform.org
+  - name: codit
+    url: https://coditeu.github.io/charts
+    maintainers:
+    - name: Tom Kerkhove
+      email: tom.kerkhove@codit.eu
