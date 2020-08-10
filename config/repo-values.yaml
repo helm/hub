@@ -534,3 +534,9 @@ sync:
       url: https://radio-charts.w2bro.dev
     - name: fermosit
       url: https://harbor.fermosit.es/chartrepo/library
+    - name: astarte
+      url: https://helm.astarte-platform.org
+    - name: codit
+      url: https://coditeu.github.io/charts
+    - name: stevehipwell
+      url: https://stevehipwell.github.io/helm-charts/

@@ -1034,10 +1034,10 @@ repositories:
   - name: dandydeveloper
     url: https://dandydeveloper.github.io/charts
     maintainers:
-    - email: salimsalaues@gmail.com
-      name: ssalaues
-    - email: aaron.layfield@gmail.com
-      name: dandydeveloper
+      - email: salimsalaues@gmail.com
+        name: ssalaues
+      - email: aaron.layfield@gmail.com
+        name: dandydeveloper
   - name: brannon
     url: https://helm.brannon.online
     maintainers:
@@ -1189,66 +1189,66 @@ repositories:
   - name: couchbase
     url: https://couchbase-partners.github.io/helm-charts/
     maintainers:
-    - name: Couchbase Cloud Native Team
-      email: kubernetes@couchbase.com
-    - name: Tommie McAfee
-      email: tommie@couchbase.com
+      - name: Couchbase Cloud Native Team
+        email: kubernetes@couchbase.com
+      - name: Tommie McAfee
+        email: tommie@couchbase.com
   - name: hokstack
     url: https://charts.hokstack.io
     maintainers:
-    - name: Rohit Sharma
-      email: rohitrsh@gmail.com
-    - name: Shubhomoy Biswas
-      email: shubhomoy.biswas95@gmail.com
+      - name: Rohit Sharma
+        email: rohitrsh@gmail.com
+      - name: Shubhomoy Biswas
+        email: shubhomoy.biswas95@gmail.com
   - name: redsky
     url: https://redskyops.dev/charts/
     maintainers:
-    - name: Red Sky Ops Team
-      email: info@redskyops.dev
+      - name: Red Sky Ops Team
+        email: info@redskyops.dev
   - name: honeycomb
     url: https://honeycombio.github.io/helm-charts/
     maintainers:
-    - name: Pierre Tessier
-      email: pierre@honeycomb.io
+      - name: Pierre Tessier
+        email: pierre@honeycomb.io
   - name: azure-apim-gateway
     url: https://azure.github.io/api-management-self-hosted-gateway/helm-charts/
     maintainers:
-    - email: apimgmt@microsoft.com
-      name: Azure API Management team
-    - email: kerkhove.tom@gmail.com
-      name: Tom Kerkhove
+      - email: apimgmt@microsoft.com
+        name: Azure API Management team
+      - email: kerkhove.tom@gmail.com
+        name: Tom Kerkhove
   - name: stardog
     url: https://stardog-union.github.io/helm-charts/
     maintainers:
-    - name: Stardog Union
-      email: tech@stardog.com
+      - name: Stardog Union
+        email: tech@stardog.com
   - name: erpnext
     url: https://helm.erpnext.com
     maintainers:
-    - name: revant
-      email: revant@revant.me
-    - name: thunderbottom
-      email: chinmaydpai@gmail.com
+      - name: revant
+        email: revant@revant.me
+      - name: thunderbottom
+        email: chinmaydpai@gmail.com
   - name: ladeit
     url: https://ladeit.github.io/charts
     maintainers:
-    - name: Ladeit Team
-      email: jiiiuxiii@gmail.com
+      - name: Ladeit Team
+        email: jiiiuxiii@gmail.com
   - name: pozetron
     url: https://www.pozetron.com/helm/
     maintainers:
-    - name: Pozetron Inc
-      email: charts@pozetroninc.com
+      - name: Pozetron Inc
+        email: charts@pozetroninc.com
   - name: sudermanjr
     url: https://charts.sudermanjr.com
     maintainers:
-    - name: Andrew Suderman
-      email: andrew@sudermanjr.com
+      - name: Andrew Suderman
+        email: andrew@sudermanjr.com
   - name: cnieg
     url: https://cnieg.github.io/helm-charts
     maintainers:
-    - name: CNIEG maintainers
-      email: maintainers@cnieg.fr
+      - name: CNIEG maintainers
+        email: maintainers@cnieg.fr
   - name: snyk
     url: https://snyk.github.io/kubernetes-monitor/
     maintainers:
@@ -1257,15 +1257,15 @@ repositories:
   - name: weblate
     url: https://helm.weblate.org
     maintainers:
-    - name: Patrick Ruckstuhl
-      email: patrick@ch.tario.org
-    - name: Weblate Support
-      email: info@weblate.org
+      - name: Patrick Ruckstuhl
+        email: patrick@ch.tario.org
+      - name: Weblate Support
+        email: info@weblate.org
   - name: solr-operator
     url: https://bloomberg.github.io/solr-operator/charts/
     maintainers:
-    - name: Houston Putman
-      email: houston@apache.org
+      - name: Houston Putman
+        email: houston@apache.org
   - name: inaccel
     url: https://setup.inaccel.com/helm
     maintainers:
@@ -1508,3 +1508,18 @@ repositories:
     maintainers:
       - name: Jose Manuel Ferrer
         email: elmanytas@gmail.com
+  - name: astarte
+    url: https://helm.astarte-platform.org
+    maintainers:
+      - name: Astarte Maintainers
+        email: maintainers@astarte-platform.org
+  - name: codit
+    url: https://coditeu.github.io/charts
+    maintainers:
+    - name: Tom Kerkhove
+      email: tom.kerkhove@codit.eu
+  - name: stevehipwell
+    url: https://stevehipwell.github.io/helm-charts/
+    maintainers:
+      - name: Steve Hipwell
+        email: steve.hipwell@gmail.com
