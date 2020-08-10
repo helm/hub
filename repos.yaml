@@ -1503,6 +1503,11 @@ repositories:
     maintainers:
       - name: Ross McKelvie
         email: charts@w2b.ro
+  - name: astarte
+    url: https://helm.astarte-platform.org
+    maintainers:
+      - name: Astarte Maintainers
+        email: maintainers@astarte-platform.org
   - name: codit
     url: https://coditeu.github.io/charts
     maintainers:
