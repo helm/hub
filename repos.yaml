@@ -1557,3 +1557,10 @@ repositories:
         email: nikolay.nikolaev@konghq.com
       - name: Austin Cawley-Edwards
         email: austin.cawley@gmail.com
+  - name: anchore
+    url: https://charts.anchore.io
+    maintainers:
+      - name: Brady Todhunter
+        email: bradyt@anchore.com
+      - name: Zach Hill
+        email: zach@anchore.com
