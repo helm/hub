@@ -552,3 +552,5 @@ sync:
       url: https://percona-lab.github.io/percona-helm-charts/
     - name: kuma
       url: https://kumahq.github.io/charts
+    - name: anchore
+      url: https://charts.anchore.io
