@@ -272,8 +272,6 @@ sync:
       url: https://backube.github.io/helm-charts/
     - name: k8s-land
       url: https://charts.k8s.land
-    - name: chartsm
-      url: https://api.chartsm.com
     - name: fold
       url: https://charts.foldapp.com
     - name: vmware-tanzu
@@ -550,3 +548,5 @@ sync:
       url: https://vulcanlink.github.io/charts/
     - name: percona
       url: https://percona-lab.github.io/percona-helm-charts/
+    - name: kuma
+      url: https://kumahq.github.io/charts

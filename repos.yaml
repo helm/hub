@@ -764,11 +764,6 @@ repositories:
     maintainers:
       - email: charlie+helm@charliedrage.com
         name: Charlie Drage
-  - name: chartsm
-    url: https://api.chartsm.com
-    maintainers:
-      - email: arnaud@deviarch.be
-        name: Arnaud De Backer
   - name: fold
     url: https://charts.foldapp.com
     maintainers:
@@ -1550,3 +1545,10 @@ repositories:
     maintainers:
       - name: Ivan Pylypenko
         email: ivan.pylypenko@percona.com
+  - name: kuma
+    url: https://kumahq.github.io/charts
+    maintainers:
+      - name: Nikolay Nikolaev
+        email: nikolay.nikolaev@konghq.com
+      - name: Austin Cawley-Edwards
+        email: austin.cawley@gmail.com
