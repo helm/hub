@@ -1516,8 +1516,8 @@ repositories:
   - name: codit
     url: https://coditeu.github.io/charts
     maintainers:
-    - name: Tom Kerkhove
-      email: tom.kerkhove@codit.eu
+      - name: Tom Kerkhove
+        email: tom.kerkhove@codit.eu
   - name: stevehipwell
     url: https://stevehipwell.github.io/helm-charts/
     maintainers:
@@ -1538,8 +1538,13 @@ repositories:
   - name: vulcanlink
     url: https://vulcanlink.github.io/charts/
     maintainers:
-      - name: Leo Vigna 
-        email: leo@vulcan.link 
+      - name: Leo Vigna
+        email: leo@vulcan.link
+  - name: descheduler
+    url: https://kubernetes-sigs.github.io/descheduler/
+    maintainers:
+      - name: Kubernetes SIG Scheduling
+        email: kubernetes-sig-scheduling@googlegroups.com
   - name: percona
     url: https://percona-lab.github.io/percona-helm-charts/
     maintainers:

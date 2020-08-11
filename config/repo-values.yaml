@@ -546,6 +546,8 @@ sync:
       url: https://charts.neoskop.dev
     - name: vulcanlink
       url: https://vulcanlink.github.io/charts/
+    - name: descheduler
+      url: https://kubernetes-sigs.github.io/descheduler/
     - name: percona
       url: https://percona-lab.github.io/percona-helm-charts/
     - name: kuma
