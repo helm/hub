@@ -1540,6 +1540,11 @@ repositories:
     maintainers:
       - name: Leo Vigna 
         email: leo@vulcan.link 
+  - name: percona
+    url: https://percona-lab.github.io/percona-helm-charts/
+    maintainers:
+      - name: Ivan Pylypenko
+        email: ivan.pylypenko@percona.com
   - name: kuma
     url: https://kumahq.github.io/charts
     maintainers:

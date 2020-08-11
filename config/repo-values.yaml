@@ -546,5 +546,7 @@ sync:
       url: https://charts.neoskop.dev
     - name: vulcanlink
       url: https://vulcanlink.github.io/charts/
+    - name: percona
+      url: https://percona-lab.github.io/percona-helm-charts/
     - name: kuma
       url: https://kumahq.github.io/charts
