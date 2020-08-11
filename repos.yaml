@@ -764,11 +764,6 @@ repositories:
     maintainers:
       - email: charlie+helm@charliedrage.com
         name: Charlie Drage
-  - name: chartsm
-    url: https://api.chartsm.com
-    maintainers:
-      - email: arnaud@deviarch.be
-        name: Arnaud De Backer
   - name: fold
     url: https://charts.foldapp.com
     maintainers:
