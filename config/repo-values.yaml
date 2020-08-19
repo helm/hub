@@ -554,5 +554,7 @@ sync:
       url: https://kumahq.github.io/charts
     - name: anchore
       url: https://charts.anchore.io
+    - name: polyaxon
+      url: https://charts.polyaxon.com
     - name: ingress-nginx
       url: https://kubernetes.github.io/ingress-nginx

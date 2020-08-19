@@ -1564,6 +1564,11 @@ repositories:
         email: bradyt@anchore.com
       - name: Zach Hill
         email: zach@anchore.com
+  - name: polyaxon
+    url: https://charts.polyaxon.com/
+    maintainers:
+      - name: Polyaxon
+        email: contact@polyaxon.com
   - name: ingress-nginx
     url: https://kubernetes.github.io/ingress-nginx
     maintainers:
