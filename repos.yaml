@@ -1569,3 +1569,10 @@ repositories:
     maintainers:
       - name: Polyaxon
         email: contact@polyaxon.com
+  - name: ingress-nginx
+    url: https://kubernetes.github.io/ingress-nginx
+    maintainers:
+      - name: ChiefAlexander
+        email: acharder4@yahoo.com
+      - name: aledbf
+        email: aledbf@gmail.com
