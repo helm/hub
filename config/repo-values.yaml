@@ -558,3 +558,5 @@ sync:
       url: https://charts.polyaxon.com
     - name: ingress-nginx
       url: https://kubernetes.github.io/ingress-nginx
+    - name: lakefs
+      url: https://charts.lakefs.io
