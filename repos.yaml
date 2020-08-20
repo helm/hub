@@ -1576,3 +1576,8 @@ repositories:
         email: acharder4@yahoo.com
       - name: aledbf
         email: aledbf@gmail.com
+  - name: lakefs
+    url: https://charts.lakefs.io
+    maintainers:
+      - name: Treeverse
+        email: support@treeverse.io
