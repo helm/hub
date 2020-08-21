@@ -532,7 +532,6 @@ sync:
       url: https://radio-charts.w2bro.dev
     - name: minio
       url: https://helm.min.io/
-<<<<<<< Updated upstream
     - name: fermosit
       url: https://harbor.fermosit.es/chartrepo/library
     - name: astarte

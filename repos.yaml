@@ -1503,7 +1503,6 @@ repositories:
     maintainers:
       - name: Minio
         email: dev@minio.io
-<<<<<<< Updated upstream
   - name: fermosit
     url: https://harbor.fermosit.es/chartrepo/library
     maintainers:
