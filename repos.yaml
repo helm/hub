@@ -1503,6 +1503,7 @@ repositories:
     maintainers:
       - name: Minio
         email: dev@minio.io
+<<<<<<< Updated upstream
   - name: fermosit
     url: https://harbor.fermosit.es/chartrepo/library
     maintainers:
@@ -1581,3 +1582,10 @@ repositories:
     maintainers:
       - name: Treeverse
         email: support@treeverse.io
+  - name: stakater
+    url: https://stakater.github.io/stakater-charts
+    maintainers:
+      - name: Stakater
+        email: hello@stakater.com
+      - name: waseem-h
+        email: waseemhassan@stakater.com
