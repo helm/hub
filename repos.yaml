@@ -1581,3 +1581,8 @@ repositories:
     maintainers:
       - name: Treeverse
         email: support@treeverse.io
+  - name: questdb
+    url: https://helm.questdb.io
+    maintainers:
+      - name: QuestDB Team
+        email: containers@questdb.io
