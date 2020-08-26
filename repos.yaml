@@ -1581,3 +1581,8 @@ repositories:
     maintainers:
       - name: Treeverse
         email: support@treeverse.io
+  - name: kvaps
+    url: https://kvaps.github.io/charts
+    maintainers:
+      - name: Andrei Kvapil
+        email: kvapss@gmail.com
