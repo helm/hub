@@ -560,3 +560,5 @@ sync:
       url: https://kubernetes.github.io/ingress-nginx
     - name: lakefs
       url: https://charts.lakefs.io
+    - name: portainer
+      url: https://portainer.github.io/k8s/

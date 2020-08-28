@@ -1581,3 +1581,8 @@ repositories:
     maintainers:
       - name: Treeverse
         email: support@treeverse.io
+  - name: portainer
+    url: https://portainer.github.io/k8s/
+    maintainers:
+      - name: funkypenguin
+        email: davidy@funkypenguin.co.nz
