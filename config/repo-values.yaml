@@ -562,4 +562,3 @@ sync:
       url: https://charts.lakefs.io
     - name: fasterbytes
       url: https://fasterbytes.github.io/charts
-      
