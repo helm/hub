@@ -1581,3 +1581,8 @@ repositories:
     maintainers:
       - name: Treeverse
         email: support@treeverse.io
+  - name: fasterbytes
+    url: https://fasterbytes.github.io/charts
+    maintainers:
+      - name: John Teague
+        email: john@fasterbytes.com

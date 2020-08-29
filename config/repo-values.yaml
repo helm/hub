@@ -560,3 +560,5 @@ sync:
       url: https://kubernetes.github.io/ingress-nginx
     - name: lakefs
       url: https://charts.lakefs.io
+    - name: fasterbytes
+      url: https://fasterbytes.github.io/charts
