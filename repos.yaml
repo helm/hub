@@ -1581,3 +1581,8 @@ repositories:
     maintainers:
       - name: Treeverse
         email: support@treeverse.io
+  - name: duyet
+    url: https://duyet.github.io/charts
+    maintainers:
+      - name: duyet
+        email: me@duyet.net
