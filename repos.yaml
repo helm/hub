@@ -271,6 +271,10 @@ repositories:
     maintainers:
       - name: Loki Maintainers
         email: lokiproject@googlegroups.com
+  - name: grafana-helm2
+    url: https://github.com/grafana/helm2-grafana
+    maintainers:
+      - email: zanhsieh@gmail.com
   - name: microsoft
     url: https://microsoft.github.io/charts/repo/
     maintainers:
