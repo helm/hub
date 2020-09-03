@@ -564,5 +564,7 @@ sync:
       url: https://kubernetes.github.io/ingress-nginx
     - name: lakefs
       url: https://charts.lakefs.io
+    - name: questdb
+      url: https://helm.questdb.io
     - name: lightstepsatellite
       url: https://lightstep.github.io/lightstep-satellite-helm-chart/

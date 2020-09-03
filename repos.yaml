@@ -1590,6 +1590,11 @@ repositories:
     maintainers:
       - name: Treeverse
         email: support@treeverse.io
+  - name: questdb
+    url: https://helm.questdb.io
+    maintainers:
+      - name: QuestDB Team
+        email: containers@questdb.io
   - name: lightstepsatellite
     url: https://lightstep.github.io/lightstep-satellite-helm-chart/
     maintainers:
