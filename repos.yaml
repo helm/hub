@@ -1590,3 +1590,8 @@ repositories:
     maintainers:
       - name: Treeverse
         email: support@treeverse.io
+  - name: lightstepsatellite
+    url: https://lightstep.github.io/lightstep-satellite-helm-chart/
+    maintainers:
+      - name: Adam Johnson
+        email: ajohnson@lightstep.com
