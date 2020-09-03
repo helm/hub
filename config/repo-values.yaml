@@ -564,6 +564,8 @@ sync:
       url: https://kubernetes.github.io/ingress-nginx
     - name: lakefs
       url: https://charts.lakefs.io
+    - name: duyet
+      url: https://duyet.github.io/charts
     - name: kvaps
       url: https://kvaps.github.io/charts
     - name: questdb
