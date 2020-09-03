@@ -99,6 +99,8 @@ sync:
       url: https://releases.rancher.com/server-charts/stable
     - name: loki
       url: https://grafana.github.io/loki/charts
+    - name: grafana
+      url: https://github.com/grafana/helm2-grafana
     - name: microsoft
       url: https://microsoft.github.io/charts/repo
     - name: expediagroup
@@ -240,6 +242,8 @@ sync:
       url: https://cgroschupp.github.io/helm-charts/
     - name: jenkins
       url: https://raw.githubusercontent.com/jenkinsci/kubernetes-operator/master/chart
+    - name: jenkinsci
+      url: https://charts.jenkins.io/
     - name: talend
       url: https://talend.github.io/helm-charts-public/stable
     - name: softonic
@@ -562,3 +566,7 @@ sync:
       url: https://charts.lakefs.io
     - name: kvaps
       url: https://kvaps.github.io/charts
+    - name: questdb
+      url: https://helm.questdb.io
+    - name: lightstepsatellite
+      url: https://lightstep.github.io/lightstep-satellite-helm-chart/
