@@ -572,3 +572,5 @@ sync:
       url: https://helm.questdb.io
     - name: lightstepsatellite
       url: https://lightstep.github.io/lightstep-satellite-helm-chart/
+    - name: fasterbytes
+      url: https://fasterbytes.github.io/charts

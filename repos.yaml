@@ -1610,3 +1610,8 @@ repositories:
     maintainers:
       - name: Adam Johnson
         email: ajohnson@lightstep.com
+  - name: fasterbytes
+    url: https://fasterbytes.github.io/charts
+    maintainers:
+      - name: John Teague
+        email: john@fasterbytes.com
