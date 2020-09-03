@@ -271,6 +271,10 @@ repositories:
     maintainers:
       - name: Loki Maintainers
         email: lokiproject@googlegroups.com
+  - name: grafana-helm2
+    url: https://github.com/grafana/helm2-grafana
+    maintainers:
+      - email: zanhsieh@gmail.com
   - name: microsoft
     url: https://microsoft.github.io/charts/repo/
     maintainers:
@@ -658,6 +662,11 @@ repositories:
         name: Tomasz Sęk
       - email: jal-khalili@virtuslab.com
         name: Jakub Al-Khalili
+  - name: jenkinsci
+    url: https://charts.jenkins.io/
+    maintainers:
+      - email: mail@torstenwalter.de
+        name: Torsten Walter
   - name: talend
     url: https://talend.github.io/helm-charts-public/stable
     maintainers:
@@ -1586,3 +1595,8 @@ repositories:
     maintainers:
       - name: QuestDB Team
         email: containers@questdb.io
+  - name: lightstepsatellite
+    url: https://lightstep.github.io/lightstep-satellite-helm-chart/
+    maintainers:
+      - name: Adam Johnson
+        email: ajohnson@lightstep.com
