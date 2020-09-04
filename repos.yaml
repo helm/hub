@@ -1615,3 +1615,45 @@ repositories:
     maintainers:
       - name: John Teague
         email: john@fasterbytes.com
+  - name: prometheus-community
+    url: https://prometheus-community.github.io/helm-charts
+    maintainers:
+      - email: gianrubio@gmail.com
+        name: gianrubio
+      - email: zanhsieh@gmail.com
+        name: zanhsieh
+      - email: miroslav.hadzhiev@gmail.com
+        name: Xtigyro
+      - email: mattias.gees@jetstack.io
+        name: mattiasgees
+      - email: hfernandez@mesosphere.com
+        name: hectorj2f
+      - email: cedric@desaintmartin.fr
+        name: desaintmartin
+      - email: me@sota.sh
+        name: rsotnychenko
+      - email: mail@torstenwalter.de
+        name: torstenwalter
+      - email: asher@asherfoa.com
+        name: asherf
+      - email: 8890118+timm088@users.noreply.github.com
+        name: timm088
+      - email: github.gkarthiks@gmail.com
+        name: gkarthiks
+      - email: ssheehy@firescope.com
+        name: steven-sheehy
+      - email: juan.chimienti@gmail.com
+        name: juanchimienti
+      - email: monotek23@gmail.com
+        name: monotek
+      - email: okgolove@markeloff.net
+        name: okgolove
+      - email: carlos@carlosbecker.com
+        name: caarlos0
+      - name: vsliouniaev
+      - email: christian.staude@staffbase.com
+        name: cstaud
+      - email: maxime@root314.com
+        name: miouge1
+      - email: arcadie.condrat@gmail.com
+        name: acondrat
