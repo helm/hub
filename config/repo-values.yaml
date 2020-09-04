@@ -574,3 +574,5 @@ sync:
       url: https://lightstep.github.io/lightstep-satellite-helm-chart/
     - name: fasterbytes
       url: https://fasterbytes.github.io/charts
+    - name: prometheus-community
+      url: https://prometheus-community.github.io/helm-charts
