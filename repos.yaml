@@ -272,13 +272,13 @@ repositories:
       - name: Loki Maintainers
         email: lokiproject@googlegroups.com
   - name: grafana
-    url: https://github.com/grafana/helm-charts
+    url: https://grafana.github.io/helm-charts
     maintainers:
       - email: zanhsieh@gmail.com
   - name: microsoft
     url: https://microsoft.github.io/charts/repo/
     maintainers:
-      - name: mstf-charts
+      - name: mstf-chart/
         email: msft-charts-support@microsoft.com
       - email: dabanda@microsoft.com
   - name: expediagroup
