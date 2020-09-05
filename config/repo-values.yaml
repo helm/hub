@@ -100,7 +100,7 @@ sync:
     - name: loki
       url: https://grafana.github.io/loki/charts
     - name: grafana
-      url: https://github.com/grafana/helm-charts
+      url:  https://grafana.github.io/helm-charts
     - name: microsoft
       url: https://microsoft.github.io/charts/repo
     - name: expediagroup
