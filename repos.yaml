@@ -1555,10 +1555,10 @@ repositories:
       - name: Kubernetes SIG Scheduling
         email: kubernetes-sig-scheduling@googlegroups.com
   - name: percona
-    url: https://percona-lab.github.io/percona-helm-charts/
+    url: https://percona.github.io/percona-helm-charts/
     maintainers:
-      - name: Ivan Pylypenko
-        email: ivan.pylypenko@percona.com
+      - name: EngCloud
+        email: eng-cloud@percona.com
   - name: kuma
     url: https://kumahq.github.io/charts
     maintainers:

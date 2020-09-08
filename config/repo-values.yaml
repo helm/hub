@@ -553,7 +553,7 @@ sync:
     - name: descheduler
       url: https://kubernetes-sigs.github.io/descheduler/
     - name: percona
-      url: https://percona-lab.github.io/percona-helm-charts/
+      url: https://percona.github.io/percona-helm-charts/
     - name: kuma
       url: https://kumahq.github.io/charts
     - name: anchore
