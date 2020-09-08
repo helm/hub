@@ -4,6 +4,12 @@ This document outlines the requirements and guidelines for a Helm repository to
 be listed in the distributed search hosted by the Helm Project. This document
 may be updated at any time.
 
+## Artifact Hub
+
+The Helm Hub is in the process of migrating to the [Artifact Hub](https://artifacthub.io/).
+Please list your repository in the Artifact Hub prior to listing it in the Helm
+Hub.
+
 ## Process to Add A Repository
 
 To add a repository create a new pull request with the following two pieces
