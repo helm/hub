@@ -1620,3 +1620,8 @@ repositories:
     maintainers:
       - email: scott@r6by.com
         name: scottrigby
+  - name: drycc
+    url: https://charts.drycc.cc/stable
+    maintainers:
+      - email: duanhongyi@drycc.cc
+        name: duanhongyi
