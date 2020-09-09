@@ -1625,3 +1625,8 @@ repositories:
     maintainers:
       - email: duanhongyi@drycc.cc
         name: duanhongyi
+  - name: mongoosehelm
+    url: https://esl.github.io/MongooseHelm/
+    maintainers:
+      - name: MongooseIM Team
+        email: mongooseim@erlang-solutions.com
