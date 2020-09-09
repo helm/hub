@@ -1625,3 +1625,10 @@ repositories:
     maintainers:
       - email: duanhongyi@drycc.cc
         name: duanhongyi
+  - name: keyporttech
+    url: https://keyporttech.github.io/helm-charts/
+    maintainers:
+      - email: admin@keyporttech.com 
+        name: jfelten
+      - email: admin@keyporttech.com 
+        name: peter-lamanna
