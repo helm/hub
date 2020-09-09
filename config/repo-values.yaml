@@ -576,3 +576,5 @@ sync:
       url: https://fasterbytes.github.io/charts
     - name: prometheus-com
       url: https://prometheus-community.github.io/helm-charts
+    - name: logicmonitor
+      url: https://logicmonitor.github.com/k8s-helm-charts
