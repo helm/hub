@@ -579,5 +579,5 @@ sync:
     - name: drycc
       url: https://charts.drycc.cc/stable
     - name: keyporttech
-      url: https://keyporttech.github.io/helm-charts/
+      url: https://keyporttech.github.io/helm-charts
     
