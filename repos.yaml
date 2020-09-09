@@ -1620,3 +1620,12 @@ repositories:
     maintainers:
       - email: scott@r6by.com
         name: scottrigby
+  - name: logicmonitor
+    url: https://logicmonitor.github.com/k8s-helm-charts
+    maintainers:
+      - email: argus@logicmonitor.com
+        name: LogicMonitor
+      - email: vaibhav.kumbhar@logicmonitor.com
+        name: Vaibhav Kumbhar
+      - email: vkumbhar94@gmail.com
+        name: Vaibhav Kumbhar
