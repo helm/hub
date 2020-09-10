@@ -579,4 +579,4 @@ sync:
     - name: drycc
       url: https://charts.drycc.cc/stable
     - name: k8s-cloudwatch-adapter
-      url: https://awslabs.github.io/k8s-cloudwatch-adapter/chart
+      url: https://awslabs.github.io/k8s-cloudwatch-adapter/charts/k8s-cloudwatch-adapter
