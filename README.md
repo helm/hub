@@ -20,6 +20,28 @@ project. This has implications for those who build and distribute charts includi
 - They can manage the workflow around releases themselves
 - They can track metrics around the use of their charts
 
+## Artifact Hub Migration
+
+The Helm Hub is migrating to the [Artifact Hub](https://artifacthub.io/) ([issue here](https://github.com/helm/hub/issues/439)). This means a few changes are coming:
+
+- When the migration is complete, the Helm Hub will redirect to the Artifact Hub
+- The Helm Client will search the Artifact Hub instead of the Helm Hub
+- Charts will be listed in the Artifact Hub instead of the Helm Hub
+
+Chart repositories listed in the Helm Hub have been migrated to the Artifact Hub
+if they were not already listed there. They are managed by the Helm Organization.
+If you own one of the repositories and want to claim it there are two methods
+you can use.
+
+1. Once you have an account (or organization) setup you can claim ownership. This
+   happens via the "Claim Ownership" button in the Repositories settings. This
+   will walk you through a process where you prove ownership to claim it.
+2. Contact one of the Helm chart maintainers and work through a manual handoff.
+
+You are encouraged to take over ownership of your repositories in the Artifact Hub.
+The first method is the preferred method as a repository owner can accomplish this
+at their own pace.
+
 ## How To Add Your Helm Charts
 
 The process to add a repository and all of its charts is documented in the
