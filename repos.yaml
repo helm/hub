@@ -1630,3 +1630,8 @@ repositories:
     maintainers:
       - name: MongooseIM Team
         email: mongooseim@erlang-solutions.com
+  - name: k8s-cloudwatch
+    url: https://awslabs.github.io/k8s-cloudwatch-adapter/charts/k8s-cloudwatch-adapter
+    maintainers:
+      - email: khchan@amazon.com
+        name: Kwunhok Chan
