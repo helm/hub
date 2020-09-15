@@ -1625,7 +1625,7 @@ repositories:
     maintainers:
       - email: duanhongyi@drycc.cc
         name: duanhongyi
-  - name: k8s-cloudwatch-adapter
+  - name: k8s-cloudwatch
     url: https://awslabs.github.io/k8s-cloudwatch-adapter/charts/k8s-cloudwatch-adapter
     maintainers:
       - email: khchan@amazon.com
