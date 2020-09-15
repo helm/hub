@@ -578,6 +578,8 @@ sync:
       url: https://prometheus-community.github.io/helm-charts
     - name: drycc
       url: https://charts.drycc.cc/stable
+    - name: gocd
+      url: https://gocd.github.io/helm-chart
     - name: mongoosehelm
       url: https://esl.github.io/MongooseHelm/
     - name: k8s-cloudwatch

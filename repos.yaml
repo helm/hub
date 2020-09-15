@@ -1625,6 +1625,19 @@ repositories:
     maintainers:
       - email: duanhongyi@drycc.cc
         name: duanhongyi
+  - name: gocd
+    url: https://gocd.github.io/helm-chart
+    maintainers:
+      - name: Aravind SV
+        email: avenkata@thoughtworks.com
+      - name: Ganesh Patil
+        email: ganeshpl@thoughtworks.com
+      - name: Kritika Singh
+        email: kritika.singh@thoughtworks.com
+      - name: Mahesh Panchaksharaiah
+        email: maheshp@thoughtworks.com
+      - name: Marques Lee
+        email: malee@thoughtworks.com
   - name: mongoosehelm
     url: https://esl.github.io/MongooseHelm/
     maintainers:
