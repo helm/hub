@@ -1625,6 +1625,11 @@ repositories:
     maintainers:
       - email: duanhongyi@drycc.cc
         name: duanhongyi
+  - name: mongoosehelm
+    url: https://esl.github.io/MongooseHelm/
+    maintainers:
+      - name: MongooseIM Team
+        email: mongooseim@erlang-solutions.com
   - name: k8s-cloudwatch
     url: https://awslabs.github.io/k8s-cloudwatch-adapter/charts/k8s-cloudwatch-adapter
     maintainers:
