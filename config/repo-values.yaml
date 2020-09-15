@@ -580,3 +580,7 @@ sync:
       url: https://charts.drycc.cc/stable
     - name: gocd
       url: https://gocd.github.io/helm-chart
+    - name: mongoosehelm
+      url: https://esl.github.io/MongooseHelm/
+    - name: k8s-cloudwatch
+      url: https://awslabs.github.io/k8s-cloudwatch-adapter/charts/k8s-cloudwatch-adapter
