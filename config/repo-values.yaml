@@ -584,3 +584,5 @@ sync:
       url: https://esl.github.io/MongooseHelm/
     - name: k8s-cloudwatch
       url: https://awslabs.github.io/k8s-cloudwatch-adapter/charts/k8s-cloudwatch-adapter
+    - name: cmak-operator
+      url: https://eshepelyuk.github.io/cmak-operator/
