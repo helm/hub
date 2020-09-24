@@ -1648,3 +1648,8 @@ repositories:
     maintainers:
       - email: khchan@amazon.com
         name: Kwunhok Chan
+  - name: cmak-operator
+    url: https://eshepelyuk.github.io/cmak-operator/
+    maintainers:
+      - name: Ievgenii Shepeliuk
+        email: eshepelyuk@gmail.com
