@@ -588,3 +588,6 @@ sync:
       url: https://awslabs.github.io/k8s-cloudwatch-adapter/charts/k8s-cloudwatch-adapter
     - name: cmak-operator
       url: https://eshepelyuk.github.io/cmak-operator/
+    - name: kfirfer
+      url: https://kfirfer.github.io/helm
+
