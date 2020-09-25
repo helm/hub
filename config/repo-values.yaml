@@ -43,8 +43,6 @@ sync:
       url: https://charts.jetstack.io
     - name: ibm-charts
       url: https://raw.githubusercontent.com/IBM/charts/master/repo/stable/
-    - name: infobloxopen
-      url: https://infobloxopen.github.io/cert-manager/
     - name: kanister
       url: https://charts.kanister.io/
     - name: fikaworks
