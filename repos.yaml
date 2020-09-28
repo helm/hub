@@ -1657,3 +1657,12 @@ repositories:
     maintainers:
       - name: Ievgenii Shepeliuk
         email: eshepelyuk@gmail.com
+  - name: chaos-mesh
+    url: https://charts.chaos-mesh.org
+    maintainers:
+      - name: Qiang Zhou
+        email: zhouqiang@pingcap.com
+      - name: Cwen Yin
+        email: cwen@pingcap.com
+      - name: Keao Yang
+        email: yangkeao@pingcap.com
