@@ -1657,3 +1657,8 @@ repositories:
     maintainers:
       - name: Ievgenii Shepeliuk
         email: eshepelyuk@gmail.com
+  - name: kfirfer
+    url: https://kfirfer.github.io/helm
+    maintainers:
+      - name: Kfir Fersht
+        email: kfirfer@gmail.com
