@@ -1662,3 +1662,8 @@ repositories:
     maintainers:
       - name: Kfir Fersht
         email: kfirfer@gmail.com
+  - name: kokuwa
+    url: https://kokuwaio.github.io/helm-charts
+    maintainers:
+      - email: monotek23@gmail.com
+        name: André Bauer
