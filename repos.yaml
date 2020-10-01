@@ -1392,15 +1392,15 @@ repositories:
       - name: Yehiyam Livneh
         email: yehiyam@gmail.com
   - name: maesh
-    url: https://containous.github.io/maesh/charts
+    url: https://helm.traefik.io/mesh
     maintainers:
-      - name: Containous Team
-        email: helm-charts@containo.us
+      - name: Traefik Labs Team
+        email: helm-charts@traefik.io
   - name: traefik
-    url: https://containous.github.io/traefik-helm-chart
+    url: https://helm.traefik.io/traefik
     maintainers:
-      - name: Containous Team
-        email: helm-charts@containo.us
+      - name: Traefik Labs Team
+        email: helm-charts@traefik.io
   - name: cgsimmons
     url: https://cgsimmons.github.io/charts
     maintainers:
