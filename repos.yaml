@@ -1662,3 +1662,12 @@ repositories:
     maintainers:
       - name: Kfir Fersht
         email: kfirfer@gmail.com
+  - name: coder
+    url: https://helm.coder.com
+    maintainers:
+      - name: Colin Adler
+        email: colin@coder.com
+      - name: Jon Ayers
+        email: jon@coder.com
+      - name: Sean Smith
+        email: sean@coder.com
