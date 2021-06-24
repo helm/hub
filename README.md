@@ -7,7 +7,7 @@
 The Helm Hub repository contained the documentation and some configuration for the
 distributed public repository search hosted by Helm that used to be found at https://hub.helm.sh
 
-## ⚠️ NOTICE: Redirect To Artifact Hub
+## Redirect To Artifact Hub
 
 The [Artifact Hub](https://artifacthub.io/) is a CNCF project to make discovering
 distributed cloud native artifacts easy. This includes Helm charts. The Helm Hub,
